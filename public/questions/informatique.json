@@ -1,0 +1,3030 @@
+[
+  {
+    "question": "Que signifie l'acronyme CPU ?",
+    "reponses": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Core Processing Unit"]
+  },
+  {
+    "question": "Quel langage de programmation est connu pour être utilisé dans le développement web front-end ?",
+    "reponses": ["JavaScript", "Python", "Java", "C++"]
+  },
+  {
+    "question": "Que signifie l'acronyme RAM ?",
+    "reponses": ["Random Access Memory", "Read Access Memory", "Random Application Memory", "Read Application Memory"]
+  },
+  {
+    "question": "Quel est le système d'exploitation développé par Microsoft ?",
+    "reponses": ["Windows", "Linux", "macOS", "Android"]
+  },
+  {
+    "question": "Que signifie l'acronyme HTML ?",
+    "reponses": ["HyperText Markup Language", "HyperText Machine Language", "HighTech Markup Language", "HyperTransfer Markup Language"]
+  },
+  {
+    "question": "Quel langage est utilisé pour le développement d'applications Android natives ?",
+    "reponses": ["Kotlin", "Swift", "JavaScript", "Python"]
+  },
+  {
+    "question": "Que signifie l'acronyme URL ?",
+    "reponses": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Response Locator", "Universal Response Locator"]
+  },
+  {
+    "question": "Quel est le protocole utilisé pour sécuriser les communications sur Internet ?",
+    "reponses": ["HTTPS", "HTTP", "FTP", "SMTP"]
+  },
+  {
+    "question": "Quelle est la principale fonction d'un système d'exploitation ?",
+    "reponses": ["Gérer les ressources matérielles", "Créer des documents", "Naviguer sur Internet", "Lire des vidéos"]
+  },
+  {
+    "question": "Que signifie l'acronyme DNS ?",
+    "reponses": ["Domain Name System", "Data Network Service", "Digital Name System", "Domain Network Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation le plus utilisé pour l'intelligence artificielle ?",
+    "reponses": ["Python", "Java", "C++", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSD ?",
+    "reponses": ["Solid State Drive", "Super Speed Drive", "System Storage Device", "Solid Storage Drive"]
+  },
+  {
+    "question": "Quel est le rôle d'un pare-feu (firewall) ?",
+    "reponses": ["Protéger le réseau contre les intrusions", "Accélérer la connexion", "Stocker les données", "Gérer les mots de passe"]
+  },
+  {
+    "question": "Que signifie l'acronyme API ?",
+    "reponses": ["Application Programming Interface", "Application Protocol Interface", "Advanced Programming Interface", "Application Process Interface"]
+  },
+  {
+    "question": "Quel système de gestion de base de données est open source et très populaire ?",
+    "reponses": ["MySQL", "Oracle", "SQL Server", "MongoDB"]
+  },
+  {
+    "question": "Que signifie l'acronyme IP dans adresse IP ?",
+    "reponses": ["Internet Protocol", "Internal Protocol", "International Protocol", "Interconnection Protocol"]
+  },
+  {
+    "question": "Quel est le langage utilisé pour créer des feuilles de style sur le web ?",
+    "reponses": ["CSS", "HTML", "JavaScript", "XML"]
+  },
+  {
+    "question": "Que signifie l'acronyme VPN ?",
+    "reponses": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Verified Private Network"]
+  },
+  {
+    "question": "Quel est le plus grand fabricant de processeurs pour PC ?",
+    "reponses": ["Intel", "AMD", "ARM", "Qualcomm"]
+  },
+  {
+    "question": "Que signifie l'acronyme SQL ?",
+    "reponses": ["Structured Query Language", "Simple Query Language", "System Query Language", "Standard Query Language"]
+  },
+  {
+    "question": "Quelle est la fonction d'un compilateur ?",
+    "reponses": ["Traduire le code source en code machine", "Exécuter le programme", "Déboguer le code", "Optimiser la mémoire"]
+  },
+  {
+    "question": "Que signifie l'acronyme BIOS ?",
+    "reponses": ["Basic Input Output System", "Basic Internal Operating System", "Binary Input Output System", "Basic Input Output Software"]
+  },
+  {
+    "question": "Quel est le langage de programmation créé par Guido van Rossum ?",
+    "reponses": ["Python", "Ruby", "Perl", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme GUI ?",
+    "reponses": ["Graphical User Interface", "General User Interface", "Graphical Universal Interface", "Global User Interface"]
+  },
+  {
+    "question": "Quel est le protocole utilisé pour envoyer des emails ?",
+    "reponses": ["SMTP", "POP3", "IMAP", "HTTP"]
+  },
+  {
+    "question": "Que signifie l'acronyme AI ?",
+    "reponses": ["Artificial Intelligence", "Automated Intelligence", "Advanced Intelligence", "Application Intelligence"]
+  },
+  {
+    "question": "Quel est le système d'exploitation open source le plus utilisé sur les serveurs ?",
+    "reponses": ["Linux", "Windows Server", "macOS Server", "FreeBSD"]
+  },
+  {
+    "question": "Que signifie l'acronyme DNS ?",
+    "reponses": ["Domain Name System", "Data Network Service", "Digital Name Service", "Domain Network System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour développer des jeux vidéo ?",
+    "reponses": ["C++", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSD ?",
+    "reponses": ["Solid State Drive", "Super Speed Drive", "System Storage Drive", "Solid Storage Device"]
+  },
+  {
+    "question": "Quel est le rôle d'un serveur web ?",
+    "reponses": ["Héberger des sites web", "Envoyer des emails", "Gérer des bases de données", "Sécuriser le réseau"]
+  },
+  {
+    "question": "Que signifie l'acronyme HTTP ?",
+    "reponses": ["HyperText Transfer Protocol", "HyperText Transport Protocol", "HighTech Transfer Protocol", "Hyper Transfer Protocol"]
+  },
+  {
+    "question": "Quel langage est utilisé pour le développement iOS ?",
+    "reponses": ["Swift", "Kotlin", "Objective-C", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme TCP/IP ?",
+    "reponses": ["Transmission Control Protocol/Internet Protocol", "Transfer Control Protocol/Internet Protocol", "Transmission Communication Protocol/Internet Protocol", "Transfer Communication Protocol/Internet Protocol"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications scientifiques ?",
+    "reponses": ["Python", "Java", "C#", "PHP"]
+  },
+  {
+    "question": "Que signifie l'acronyme USB ?",
+    "reponses": ["Universal Serial Bus", "Universal System Bus", "Uniform Serial Bus", "Unified Serial Bus"]
+  },
+  {
+    "question": "Quel est le système de contrôle de version le plus utilisé ?",
+    "reponses": ["Git", "SVN", "Mercurial", "CVS"]
+  },
+  {
+    "question": "Que signifie l'acronyme OOP ?",
+    "reponses": ["Object-Oriented Programming", "Object-Organized Programming", "Open Object Programming", "Operational Object Programming"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le développement web back-end ?",
+    "reponses": ["Python", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme LAN ?",
+    "reponses": ["Local Area Network", "Large Area Network", "Local Access Network", "Long Area Network"]
+  },
+  {
+    "question": "Quelle est la fonction d'un routeur ?",
+    "reponses": ["Acheminer les données entre réseaux", "Stocker les données", "Sécuriser les données", "Compresser les données"]
+  },
+  {
+    "question": "Que signifie l'acronyme IDE ?",
+    "reponses": ["Integrated Development Environment", "Integrated Design Environment", "Internal Development Environment", "Interactive Development Environment"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications embarquées ?",
+    "reponses": ["C", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme XML ?",
+    "reponses": ["Extensible Markup Language", "Extended Markup Language", "External Markup Language", "Exclusive Markup Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de bases de données ?",
+    "reponses": ["Stocker et gérer les données", "Créer des sites web", "Sécuriser le réseau", "Compiler le code"]
+  },
+  {
+    "question": "Que signifie l'acronyme JSON ?",
+    "reponses": ["JavaScript Object Notation", "Java Object Notation", "JavaScript Open Notation", "Java Open Notation"]
+  },
+  {
+    "question": "Quel est le langage de programmation le plus utilisé pour le machine learning ?",
+    "reponses": ["Python", "R", "Java", "C++"]
+  },
+  {
+    "question": "Que signifie l'acronyme WAN ?",
+    "reponses": ["Wide Area Network", "World Area Network", "Wireless Area Network", "Web Area Network"]
+  },
+  {
+    "question": "Quel est le rôle d'un antivirus ?",
+    "reponses": ["Protéger contre les logiciels malveillants", "Accélérer l'ordinateur", "Gérer les fichiers", "Optimiser la mémoire"]
+  },
+  {
+    "question": "Que signifie l'acronyme CSS ?",
+    "reponses": ["Cascading Style Sheets", "Cascading Style System", "Computer Style Sheets", "Creative Style Sheets"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les scripts côté serveur ?",
+    "reponses": ["PHP", "JavaScript", "Python", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme FTP ?",
+    "reponses": ["File Transfer Protocol", "File Transport Protocol", "Fast Transfer Protocol", "File Transmission Protocol"]
+  },
+  {
+    "question": "Quelle est la différence entre HTTP et HTTPS ?",
+    "reponses": ["HTTPS est sécurisé", "HTTP est plus rapide", "HTTPS utilise TCP", "HTTP utilise UDP"]
+  },
+  {
+    "question": "Que signifie l'acronyme DBMS ?",
+    "reponses": ["Database Management System", "Data Base Management System", "Digital Base Management System", "Data Bank Management System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications Windows ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme AJAX ?",
+    "reponses": ["Asynchronous JavaScript and XML", "Asynchronous Java and XML", "Advanced JavaScript and XML", "Active JavaScript and XML"]
+  },
+  {
+    "question": "Quel est le rôle d'un proxy ?",
+    "reponses": ["Intermédiaire entre client et serveur", "Stocker les données", "Sécuriser le réseau", "Accélérer la connexion"]
+  },
+  {
+    "question": "Que signifie l'acronyme MVC ?",
+    "reponses": ["Model-View-Controller", "Model-View-Component", "Module-View-Controller", "Model-Value-Controller"]
+  },
+  {
+    "question": "Quel est le système d'exploitation le plus utilisé sur les smartphones ?",
+    "reponses": ["Android", "iOS", "Windows Phone", "BlackBerry OS"]
+  },
+  {
+    "question": "Que signifie l'acronyme SaaS ?",
+    "reponses": ["Software as a Service", "System as a Service", "Solution as a Service", "Software and Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation le plus ancien encore utilisé ?",
+    "reponses": ["Fortran", "C", "Lisp", "COBOL"]
+  },
+  {
+    "question": "Que signifie l'acronyme RDBMS ?",
+    "reponses": ["Relational Database Management System", "Real-time Database Management System", "Remote Database Management System", "Redundant Database Management System"]
+  },
+  {
+    "question": "Quel est le rôle d'un architecte logiciel ?",
+    "reponses": ["Concevoir la structure du logiciel", "Écrire le code", "Tester le logiciel", "Gérer l'équipe"]
+  },
+  {
+    "question": "Que signifie l'acronyme NAT ?",
+    "reponses": ["Network Address Translation", "Network Access Translation", "Network Address Transport", "Network Application Translation"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications mobiles hybrides ?",
+    "reponses": ["JavaScript", "Swift", "Kotlin", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme JVM ?",
+    "reponses": ["Java Virtual Machine", "Java Variable Machine", "Java Version Machine", "Java Visual Machine"]
+  },
+  {
+    "question": "Quel est le rôle d'un switch dans un réseau ?",
+    "reponses": ["Connecter les périphériques dans un réseau local", "Connecter à Internet", "Stocker les données", "Sécuriser le réseau"]
+  },
+  {
+    "question": "Que signifie l'acronyme SOA ?",
+    "reponses": ["Service-Oriented Architecture", "System-Oriented Architecture", "Software-Oriented Architecture", "Solution-Oriented Architecture"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le data mining ?",
+    "reponses": ["Python", "R", "Java", "SQL"]
+  },
+  {
+    "question": "Que signifie l'acronyme KPI ?",
+    "reponses": ["Key Performance Indicator", "Key Process Indicator", "Key Program Indicator", "Knowledge Performance Indicator"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de fichiers ?",
+    "reponses": ["Organiser et stocker les fichiers", "Exécuter les programmes", "Gérer la mémoire", "Contrôler le réseau"]
+  },
+  {
+    "question": "Que signifie l'acronyme SDLC ?",
+    "reponses": ["Software Development Life Cycle", "System Development Life Cycle", "Software Design Life Cycle", "System Design Life Cycle"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les jeux en 3D ?",
+    "reponses": ["C++", "C#", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme BPM ?",
+    "reponses": ["Business Process Management", "Business Program Management", "Business Performance Management", "Business Project Management"]
+  },
+  {
+    "question": "Quel est le rôle d'un gestionnaire de tâches ?",
+    "reponses": ["Gérer les processus en cours", "Stocker les fichiers", "Gérer le réseau", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ETL ?",
+    "reponses": ["Extract, Transform, Load", "Extract, Transfer, Load", "Extract, Transform, Link", "Extract, Transfer, Link"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les microservices ?",
+    "reponses": ["Java", "Python", "Go", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme OWASP ?",
+    "reponses": ["Open Web Application Security Project", "Open Web Application System Project", "Open Web Application Security Program", "Open Web Application System Program"]
+  },
+  {
+    "question": "Quel est le rôle d'un administrateur système ?",
+    "reponses": ["Gérer les serveurs et les réseaux", "Développer des applications", "Créer des sites web", "Concevoir des bases de données"]
+  },
+  {
+    "question": "Que signifie l'acronyme ORM ?",
+    "reponses": ["Object-Relational Mapping", "Object-Relation Mapping", "Object-Reference Mapping", "Object-Response Mapping"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications Big Data ?",
+    "reponses": ["Python", "Java", "Scala", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme CMS ?",
+    "reponses": ["Content Management System", "Content Management Software", "Content Managing System", "Content Managing Software"]
+  },
+  {
+    "question": "Quel est le rôle d'un load balancer ?",
+    "reponses": ["Répartir la charge entre plusieurs serveurs", "Stocker les données", "Sécuriser le réseau", "Accélérer les requêtes"]
+  },
+  {
+    "question": "Que signifie l'acronyme RPA ?",
+    "reponses": ["Robotic Process Automation", "Robotic Program Automation", "Robotic Process Application", "Robotic Program Application"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'IoT ?",
+    "reponses": ["Python", "C", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme DevOps ?",
+    "reponses": ["Development and Operations", "Development and Optimization", "Design and Operations", "Development and Production"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de backup ?",
+    "reponses": ["Sauvegarder les données", "Accélérer le système", "Gérer la mémoire", "Sécuriser le réseau"]
+  },
+  {
+    "question": "Que signifie l'acronyme UI ?",
+    "reponses": ["User Interface", "Universal Interface", "User Interaction", "Unified Interface"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications blockchain ?",
+    "reponses": ["Solidity", "Python", "Java", "C++"]
+  },
+  {
+    "question": "Que signifie l'acronyme UX ?",
+    "reponses": ["User Experience", "User Exchange", "Universal Experience", "Unified Experience"]
+  },
+  {
+    "question": "Quel est le rôle d'un data scientist ?",
+    "reponses": ["Analyser et interpréter les données", "Développer des applications", "Gérer les réseaux", "Sécuriser les systèmes"]
+  },
+  {
+    "question": "Que signifie l'acronyme TDD ?",
+    "reponses": ["Test-Driven Development", "Test-Design Development", "Test-Driven Design", "Test-Design Driven"]
+  },
+  {
+    "question": "Quel est le langage de programmation le plus rapide en exécution ?",
+    "reponses": ["C", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme REST ?",
+    "reponses": ["Representational State Transfer", "Representative State Transfer", "Representational System Transfer", "Representative System Transfer"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de monitoring ?",
+    "reponses": ["Surveiller les performances", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme API ?",
+    "reponses": ["Application Programming Interface", "Application Protocol Interface", "Advanced Programming Interface", "Application Process Interface"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications desktop ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme ML ?",
+    "reponses": ["Machine Learning", "Machine Language", "Markup Language", "Model Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de versioning ?",
+    "reponses": ["Gérer les versions du code", "Stocker les fichiers", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CORS ?",
+    "reponses": ["Cross-Origin Resource Sharing", "Cross-Origin Request Sharing", "Cross-Origin Resource System", "Cross-Origin Request System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de réalité augmentée ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSL ?",
+    "reponses": ["Secure Sockets Layer", "Secure System Layer", "Standard Sockets Layer", "Standard System Layer"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de cache ?",
+    "reponses": ["Accélérer l'accès aux données", "Stocker les données", "Sécuriser les données", "Gérer les utilisateurs"]
+  },
+  {
+    "question": "Que signifie l'acronyme SaaS ?",
+    "reponses": ["Software as a Service", "System as a Service", "Solution as a Service", "Software and Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de visualisation de données ?",
+    "reponses": ["Python", "R", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme BDD ?",
+    "reponses": ["Behavior-Driven Development", "Behavior-Design Development", "Behavior-Driven Design", "Behavior-Design Driven"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de logging ?",
+    "reponses": ["Enregistrer les événements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IAM ?",
+    "reponses": ["Identity and Access Management", "Identity and Application Management", "Identity and Authentication Management", "Identity and Authorization Management"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les jeux en ligne ?",
+    "reponses": ["C++", "Java", "Python", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme IDE ?",
+    "reponses": ["Integrated Development Environment", "Integrated Design Environment", "Internal Development Environment", "Interactive Development Environment"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de contenu ?",
+    "reponses": ["Gérer et publier du contenu", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme API Gateway ?",
+    "reponses": ["Point d'entrée unique pour les API", "Passerelle de sécurité", "Gestionnaire de protocoles", "Routeur de requêtes"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de traitement d'images ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CI/CD ?",
+    "reponses": ["Continuous Integration/Continuous Delivery", "Continuous Integration/Continuous Deployment", "Continuous Integration/Continuous Development", "Continuous Integration/Continuous Design"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de projet ?",
+    "reponses": ["Planifier et suivre les projets", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DDoS ?",
+    "reponses": ["Distributed Denial of Service", "Distributed Denial of System", "Direct Denial of Service", "Distributed Denial of Security"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de réalité virtuelle ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme RPA ?",
+    "reponses": ["Robotic Process Automation", "Robotic Program Automation", "Robotic Process Application", "Robotic Program Application"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des identités ?",
+    "reponses": ["Gérer les identités et les accès", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SDK ?",
+    "reponses": ["Software Development Kit", "Software Design Kit", "System Development Kit", "System Design Kit"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de chat ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme SOAP ?",
+    "reponses": ["Simple Object Access Protocol", "Simple Open Access Protocol", "System Object Access Protocol", "Standard Object Access Protocol"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de contenu web ?",
+    "reponses": ["Gérer et publier du contenu web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme AJAX ?",
+    "reponses": ["Asynchronous JavaScript and XML", "Asynchronous Java and XML", "Advanced JavaScript and XML", "Active JavaScript and XML"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de streaming ?",
+    "reponses": ["JavaScript", "Python", "Java", "C++"]
+  },
+  {
+    "question": "Que signifie l'acronyme JSON Web Token ?",
+    "reponses": ["JWT", "JST", "JWT Token", "JSON Token"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de monitoring applicatif ?",
+    "reponses": ["Surveiller les performances des applications", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme TLS ?",
+    "reponses": ["Transport Layer Security", "Transfer Layer Security", "Transport Level Security", "Transfer Level Security"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de reconnaissance vocale ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme DevOps ?",
+    "reponses": ["Development and Operations", "Development and Optimization", "Design and Operations", "Development and Production"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de versions ?",
+    "reponses": ["Gérer les versions du code source", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme NoSQL ?",
+    "reponses": ["Not Only SQL", "Non SQL", "New SQL", "Next SQL"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de vision par ordinateur ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme LDAP ?",
+    "reponses": ["Lightweight Directory Access Protocol", "Light Directory Access Protocol", "Local Directory Access Protocol", "Lightweight Data Access Protocol"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de bases de données NoSQL ?",
+    "reponses": ["Stocker des données non structurées", "Stocker des données relationnelles", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CI ?",
+    "reponses": ["Continuous Integration", "Continuous Improvement", "Continuous Innovation", "Continuous Implementation"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de traitement de données massives ?",
+    "reponses": ["Python", "Java", "Scala", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme SLA ?",
+    "reponses": ["Service Level Agreement", "System Level Agreement", "Service Level Architecture", "Service Level Application"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de flotte ?",
+    "reponses": ["Gérer les véhicules et les livraisons", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSL/TLS ?",
+    "reponses": ["Secure Sockets Layer/Transport Layer Security", "Secure System Layer/Transport Layer Security", "Secure Sockets Layer/Transfer Layer Security", "Secure System Layer/Transfer Layer Security"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de modélisation 3D ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme TCP ?",
+    "reponses": ["Transmission Control Protocol", "Transfer Control Protocol", "Transmission Communication Protocol", "Transfer Communication Protocol"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des déploiements ?",
+    "reponses": ["Automatiser les déploiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme MQTT ?",
+    "reponses": ["Message Queuing Telemetry Transport", "Message Queue Telemetry Transport", "Message Queuing Telemetry Transfer", "Message Queue Telemetry Transfer"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de réseau ?",
+    "reponses": ["Python", "C", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme RFID ?",
+    "reponses": ["Radio Frequency Identification", "Radio Frequency Identity", "Radio Frequency Identifier", "Radio Frequency Identification"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des ressources ?",
+    "reponses": ["Optimiser l'utilisation des ressources", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme RISC ?",
+    "reponses": ["Reduced Instruction Set Computer", "Reduced Instruction System Computer", "Reduced Instruction Set Computing", "Reduced Instruction System Computing"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de sécurité ?",
+    "reponses": ["Python", "C", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAD ?",
+    "reponses": ["Computer-Aided Design", "Computer-Aided Drawing", "Computer-Aided Development", "Computer-Aided Drafting"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des connaissances ?",
+    "reponses": ["Gérer et partager les connaissances", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SCADA ?",
+    "reponses": ["Supervisory Control and Data Acquisition", "Supervisory Control and Data Analysis", "System Control and Data Acquisition", "System Control and Data Analysis"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de robotique ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme GIS ?",
+    "reponses": ["Geographic Information System", "Geographic Information Software", "Geographic Information Service", "Geographic Information Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de la chaîne logistique ?",
+    "reponses": ["Optimiser la chaîne d'approvisionnement", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ERP ?",
+    "reponses": ["Enterprise Resource Planning", "Enterprise Resource Program", "Enterprise Resource Process", "Enterprise Resource Project"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de finance ?",
+    "reponses": ["Python", "Java", "C++", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme CRM ?",
+    "reponses": ["Customer Relationship Management", "Customer Resource Management", "Customer Relationship Marketing", "Customer Resource Marketing"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des données clients ?",
+    "reponses": ["Gérer les informations clients", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme BI ?",
+    "reponses": ["Business Intelligence", "Business Integration", "Business Information", "Business Implementation"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de trading ?",
+    "reponses": ["Python", "Java", "C++", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme EDI ?",
+    "reponses": ["Electronic Data Interchange", "Electronic Document Interchange", "Electronic Data Interface", "Electronic Document Interface"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des commandes ?",
+    "reponses": ["Gérer les commandes et les livraisons", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme WMS ?",
+    "reponses": ["Warehouse Management System", "Warehouse Management Software", "Warehouse Management Service", "Warehouse Management Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de logistique ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme MRP ?",
+    "reponses": ["Material Requirements Planning", "Material Resource Planning", "Material Requirements Process", "Material Resource Process"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de production ?",
+    "reponses": ["Planifier et gérer la production", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PLM ?",
+    "reponses": ["Product Lifecycle Management", "Product Lifecycle Marketing", "Product Lifecycle Process", "Product Lifecycle Project"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de conception ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAD/CAM ?",
+    "reponses": ["Computer-Aided Design/Computer-Aided Manufacturing", "Computer-Aided Design/Computer-Aided Management", "Computer-Aided Drawing/Computer-Aided Manufacturing", "Computer-Aided Drawing/Computer-Aided Management"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de projet ?",
+    "reponses": ["Planifier et suivre les projets", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PDM ?",
+    "reponses": ["Product Data Management", "Product Development Management", "Product Data Marketing", "Product Development Marketing"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de simulation ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAE ?",
+    "reponses": ["Computer-Aided Engineering", "Computer-Aided Engineering", "Computer-Aided Environment", "Computer-Aided Evaluation"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de la qualité ?",
+    "reponses": ["Gérer et améliorer la qualité", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme QMS ?",
+    "reponses": ["Quality Management System", "Quality Management Software", "Quality Management Service", "Quality Management Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de contrôle qualité ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme MES ?",
+    "reponses": ["Manufacturing Execution System", "Manufacturing Execution Software", "Manufacturing Execution Service", "Manufacturing Execution Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de production ?",
+    "reponses": ["Planifier et exécuter la production", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SCADA ?",
+    "reponses": ["Supervisory Control and Data Acquisition", "Supervisory Control and Data Analysis", "System Control and Data Acquisition", "System Control and Data Analysis"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications industrielles ?",
+    "reponses": ["Python", "C", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme IoT ?",
+    "reponses": ["Internet of Things", "Internet of Technology", "Internet of Tools", "Internet of Testing"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des données ?",
+    "reponses": ["Collecter et analyser les données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DMS ?",
+    "reponses": ["Document Management System", "Data Management System", "Document Management Software", "Data Management Software"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de gestion documentaire ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme ECM ?",
+    "reponses": ["Enterprise Content Management", "Enterprise Content Marketing", "Enterprise Content System", "Enterprise Content Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des dossiers ?",
+    "reponses": ["Organiser et gérer les dossiers", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme BPMN ?",
+    "reponses": ["Business Process Model and Notation", "Business Process Management Notation", "Business Process Model and Network", "Business Process Management Network"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de modélisation ?",
+    "reponses": ["Python", "Java", "C++", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme UML ?",
+    "reponses": ["Unified Modeling Language", "Unified Markup Language", "Universal Modeling Language", "Universal Markup Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de modélisation ?",
+    "reponses": ["Modéliser des systèmes complexes", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme XML ?",
+    "reponses": ["Extensible Markup Language", "Extended Markup Language", "External Markup Language", "Exclusive Markup Language"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications web ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme HTML ?",
+    "reponses": ["HyperText Markup Language", "HyperText Machine Language", "HighTech Markup Language", "HyperTransfer Markup Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un serveur web ?",
+    "reponses": ["Héberger des sites web", "Envoyer des emails", "Gérer des bases de données", "Sécuriser le réseau"]
+  },
+  {
+    "question": "Que signifie l'acronyme CSS ?",
+    "reponses": ["Cascading Style Sheets", "Cascading Style System", "Computer Style Sheets", "Creative Style Sheets"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications mobiles ?",
+    "reponses": ["Kotlin", "Swift", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SDK ?",
+    "reponses": ["Software Development Kit", "Software Design Kit", "System Development Kit", "System Design Kit"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de développement ?",
+    "reponses": ["Fournir des outils de développement", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IDE ?",
+    "reponses": ["Integrated Development Environment", "Integrated Design Environment", "Internal Development Environment", "Interactive Development Environment"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de développement ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CI/CD ?",
+    "reponses": ["Continuous Integration/Continuous Delivery", "Continuous Integration/Continuous Deployment", "Continuous Integration/Continuous Development", "Continuous Integration/Continuous Design"]
+  },
+  {
+    "question": "Quel est le rôle d'un système d'intégration continue ?",
+    "reponses": ["Automatiser les tests et les déploiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DevOps ?",
+    "reponses": ["Development and Operations", "Development and Optimization", "Design and Operations", "Development and Production"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de devops ?",
+    "reponses": ["Python", "Ruby", "Go", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme Docker ?",
+    "reponses": ["Containerisation de applications", "Virtualisation", "Sécurité", "Réseau"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de conteneurisation ?",
+    "reponses": ["Emballer les applications", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Kubernetes ?",
+    "reponses": ["Orchestration de conteneurs", "Sécurité", "Réseau", "Stockage"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de cloud ?",
+    "reponses": ["Python", "Java", "Go", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme AWS ?",
+    "reponses": ["Amazon Web Services", "Amazon Web System", "Amazon Web Solution", "Amazon Web Security"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de cloud computing ?",
+    "reponses": ["Fournir des ressources informatiques à distance", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Azure ?",
+    "reponses": ["Microsoft Azure", "Microsoft Cloud", "Microsoft Service", "Microsoft Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de cloud ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme GCP ?",
+    "reponses": ["Google Cloud Platform", "Google Cloud System", "Google Cloud Service", "Google Cloud Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de sécurité informatique ?",
+    "reponses": ["Protéger les données et les systèmes", "Stocker les données", "Gérer les utilisateurs", "Accélérer le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme VPN ?",
+    "reponses": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Verified Private Network"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de sécurité ?",
+    "reponses": ["Python", "C", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme OWASP ?",
+    "reponses": ["Open Web Application Security Project", "Open Web Application System Project", "Open Web Application Security Program", "Open Web Application System Program"]
+  },
+  {
+    "question": "Quel est le rôle d'un pare-feu (firewall) ?",
+    "reponses": ["Protéger le réseau contre les intrusions", "Accélérer la connexion", "Stocker les données", "Gérer les mots de passe"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSL/TLS ?",
+    "reponses": ["Secure Sockets Layer/Transport Layer Security", "Secure System Layer/Transport Layer Security", "Secure Sockets Layer/Transfer Layer Security", "Secure System Layer/Transfer Layer Security"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications cryptographiques ?",
+    "reponses": ["Python", "C", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme HTTPS ?",
+    "reponses": ["HyperText Transfer Protocol Secure", "HyperText Transfer Protocol System", "HighTech Transfer Protocol Secure", "Hyper Transfer Protocol Secure"]
+  },
+  {
+    "question": "Quel est le rôle d'un système d'authentification ?",
+    "reponses": ["Vérifier l'identité des utilisateurs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme 2FA ?",
+    "reponses": ["Two-Factor Authentication", "Two-Factor Authorization", "Two-Factor Access", "Two-Factor Application"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications d'authentification ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SSO ?",
+    "reponses": ["Single Sign-On", "Single System On", "Single Security On", "Single Service On"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion des identités ?",
+    "reponses": ["Gérer les identités et les accès", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IAM ?",
+    "reponses": ["Identity and Access Management", "Identity and Application Management", "Identity and Authentication Management", "Identity and Authorization Management"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications de gestion des identités ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme LDAP ?",
+    "reponses": ["Lightweight Directory Access Protocol", "Light Directory Access Protocol", "Local Directory Access Protocol", "Lightweight Data Access Protocol"]
+  },
+  {
+    "question": "Quel est le rôle d'un annuaire LDAP ?",
+    "reponses": ["Stocker des informations d'identification", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme AD ?",
+    "reponses": ["Active Directory", "Active Data", "Active Domain", "Active Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les applications Active Directory ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SQL ?",
+    "reponses": ["Structured Query Language", "Simple Query Language", "System Query Language", "Standard Query Language"]
+  },
+  {
+    "question": "Quel est le système de gestion de base de données le plus utilisé ?",
+    "reponses": ["MySQL", "Oracle", "SQL Server", "PostgreSQL"]
+  },
+  {
+    "question": "Que signifie l'acronyme NoSQL ?",
+    "reponses": ["Not Only SQL", "Non SQL", "New SQL", "Next SQL"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les bases de données NoSQL ?",
+    "reponses": ["MongoDB", "Cassandra", "Redis", "CouchDB"]
+  },
+  {
+    "question": "Que signifie l'acronyme RDBMS ?",
+    "reponses": ["Relational Database Management System", "Real-time Database Management System", "Remote Database Management System", "Redundant Database Management System"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de gestion de bases de données ?",
+    "reponses": ["Stocker et gérer les données", "Créer des sites web", "Sécuriser le réseau", "Compiler le code"]
+  },
+  {
+    "question": "Que signifie l'acronyme DDL ?",
+    "reponses": ["Data Definition Language", "Data Description Language", "Data Development Language", "Data Design Language"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la définition des données ?",
+    "reponses": ["SQL", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme DML ?",
+    "reponses": ["Data Manipulation Language", "Data Management Language", "Data Modification Language", "Data Maintenance Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de manipulation des données ?",
+    "reponses": ["Manipuler les données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DCL ?",
+    "reponses": ["Data Control Language", "Data Command Language", "Data Communication Language", "Data Configuration Language"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le contrôle des données ?",
+    "reponses": ["SQL", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme OLTP ?",
+    "reponses": ["Online Transaction Processing", "Online Transfer Processing", "Online Transaction Protocol", "Online Transfer Protocol"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de traitement des transactions ?",
+    "reponses": ["Traiter les transactions en ligne", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme OLAP ?",
+    "reponses": ["Online Analytical Processing", "Online Analytical Protocol", "Online Analytical Program", "Online Analytical Process"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'analyse des données ?",
+    "reponses": ["Python", "R", "Java", "SQL"]
+  },
+  {
+    "question": "Que signifie l'acronyme ETL ?",
+    "reponses": ["Extract, Transform, Load", "Extract, Transfer, Load", "Extract, Transform, Link", "Extract, Transfer, Link"]
+  },
+  {
+    "question": "Quel est le rôle d'un système ETL ?",
+    "reponses": ["Extraire, transformer et charger les données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme BI ?",
+    "reponses": ["Business Intelligence", "Business Integration", "Business Information", "Business Implementation"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la business intelligence ?",
+    "reponses": ["Python", "R", "Java", "SQL"]
+  },
+  {
+    "question": "Que signifie l'acronyme CRM ?",
+    "reponses": ["Customer Relationship Management", "Customer Resource Management", "Customer Relationship Marketing", "Customer Resource Marketing"]
+  },
+  {
+    "question": "Quel est le rôle d'un système CRM ?",
+    "reponses": ["Gérer les relations clients", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ERP ?",
+    "reponses": ["Enterprise Resource Planning", "Enterprise Resource Program", "Enterprise Resource Process", "Enterprise Resource Project"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les ERP ?",
+    "reponses": ["Java", "C#", "Python", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SCM ?",
+    "reponses": ["Supply Chain Management", "Supply Chain Marketing", "System Chain Management", "Service Chain Management"]
+  },
+  {
+    "question": "Quel est le rôle d'un système SCM ?",
+    "reponses": ["Gérer la chaîne d'approvisionnement", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PLM ?",
+    "reponses": ["Product Lifecycle Management", "Product Lifecycle Marketing", "Product Lifecycle Process", "Product Lifecycle Project"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le PLM ?",
+    "reponses": ["Java", "C#", "Python", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAD ?",
+    "reponses": ["Computer-Aided Design", "Computer-Aided Drawing", "Computer-Aided Development", "Computer-Aided Drafting"]
+  },
+  {
+    "question": "Quel est le rôle d'un système CAD ?",
+    "reponses": ["Concevoir des produits", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAM ?",
+    "reponses": ["Computer-Aided Manufacturing", "Computer-Aided Management", "Computer-Aided Marketing", "Computer-Aided Maintenance"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la CAO ?",
+    "reponses": ["C++", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme CAE ?",
+    "reponses": ["Computer-Aided Engineering", "Computer-Aided Environment", "Computer-Aided Evaluation", "Computer-Aided Execution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système CAE ?",
+    "reponses": ["Ingénierie assistée par ordinateur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CNC ?",
+    "reponses": ["Computer Numerical Control", "Computer Network Control", "Computer Numerical Computing", "Computer Network Computing"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la CNC ?",
+    "reponses": ["G-code", "Python", "C++", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme SCADA ?",
+    "reponses": ["Supervisory Control and Data Acquisition", "Supervisory Control and Data Analysis", "System Control and Data Acquisition", "System Control and Data Analysis"]
+  },
+  {
+    "question": "Quel est le rôle d'un système SCADA ?",
+    "reponses": ["Superviser et contrôler les processus", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IoT ?",
+    "reponses": ["Internet of Things", "Internet of Technology", "Internet of Tools", "Internet of Testing"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'IoT ?",
+    "reponses": ["Python", "C", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme M2M ?",
+    "reponses": ["Machine to Machine", "Machine to Mobile", "Machine to Maintenance", "Machine to Monitoring"]
+  },
+  {
+    "question": "Quel est le rôle d'un système M2M ?",
+    "reponses": ["Communication entre machines", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme AI ?",
+    "reponses": ["Artificial Intelligence", "Automated Intelligence", "Advanced Intelligence", "Application Intelligence"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'IA ?",
+    "reponses": ["Python", "R", "Java", "C++"]
+  },
+  {
+    "question": "Que signifie l'acronyme ML ?",
+    "reponses": ["Machine Learning", "Machine Language", "Markup Language", "Model Language"]
+  },
+  {
+    "question": "Quel est le rôle d'un système de machine learning ?",
+    "reponses": ["Apprendre à partir des données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DL ?",
+    "reponses": ["Deep Learning", "Deep Language", "Deep Level", "Deep Logic"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le deep learning ?",
+    "reponses": ["Python", "C++", "Java", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme NLP ?",
+    "reponses": ["Natural Language Processing", "Natural Language Protocol", "Natural Language Program", "Natural Language Process"]
+  },
+  {
+    "question": "Quel est le rôle d'un système NLP ?",
+    "reponses": ["Traiter le langage naturel", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CV ?",
+    "reponses": ["Computer Vision", "Computer Version", "Computer View", "Computer Visual"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la vision par ordinateur ?",
+    "reponses": ["Python", "C++", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme AR ?",
+    "reponses": ["Augmented Reality", "Advanced Reality", "Artificial Reality", "Application Reality"]
+  },
+  {
+    "question": "Quel est le rôle d'un système AR ?",
+    "reponses": ["Réalité augmentée", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme VR ?",
+    "reponses": ["Virtual Reality", "Visual Reality", "Virtual Response", "Visual Response"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour la réalité virtuelle ?",
+    "reponses": ["C#", "C++", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme MR ?",
+    "reponses": ["Mixed Reality", "Mixed Response", "Mixed Reality", "Mixed Resource"]
+  },
+  {
+    "question": "Quel est le rôle d'un système MR ?",
+    "reponses": ["Réalité mixte", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme HCI ?",
+    "reponses": ["Human-Computer Interaction", "Human-Computer Interface", "Human-Computer Integration", "Human-Computer Identification"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'interaction homme-machine ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme UX ?",
+    "reponses": ["User Experience", "User Exchange", "Universal Experience", "Unified Experience"]
+  },
+  {
+    "question": "Quel est le rôle d'un système UX ?",
+    "reponses": ["Améliorer l'expérience utilisateur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme UI ?",
+    "reponses": ["User Interface", "Universal Interface", "User Interaction", "Unified Interface"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'interface utilisateur ?",
+    "reponses": ["JavaScript", "HTML", "CSS", "Python"]
+  },
+  {
+    "question": "Que signifie l'acronyme DOM ?",
+    "reponses": ["Document Object Model", "Document Operating Model", "Document Object Management", "Document Operating Management"]
+  },
+  {
+    "question": "Quel est le rôle du DOM ?",
+    "reponses": ["Représenter et manipuler les documents HTML/XML", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme API ?",
+    "reponses": ["Application Programming Interface", "Application Protocol Interface", "Advanced Programming Interface", "Application Process Interface"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les API ?",
+    "reponses": ["Python", "JavaScript", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme REST ?",
+    "reponses": ["Representational State Transfer", "Representative State Transfer", "Representational System Transfer", "Representative System Transfer"]
+  },
+  {
+    "question": "Quel est le rôle d'une API REST ?",
+    "reponses": ["Fournir une interface pour les applications web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SOAP ?",
+    "reponses": ["Simple Object Access Protocol", "Simple Open Access Protocol", "System Object Access Protocol", "Standard Object Access Protocol"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les API SOAP ?",
+    "reponses": ["Java", "C#", "Python", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme OAuth ?",
+    "reponses": ["Open Authorization", "Open Authentication", "Open Access", "Open Application"]
+  },
+  {
+    "question": "Quel est le rôle d'un système OAuth ?",
+    "reponses": ["Autoriser l'accès aux ressources", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme JWT ?",
+    "reponses": ["JSON Web Token", "JavaScript Web Token", "JSON Web Transport", "JavaScript Web Transport"]
+  },
+  {
+    "question": "Quel est le rôle d'un JWT ?",
+    "reponses": ["Transmettre des informations sécurisées", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme RESTful ?",
+    "reponses": ["RESTful API", "RESTful Service", "RESTful Application", "RESTful System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les RESTful API ?",
+    "reponses": ["Python", "JavaScript", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Microservice ?",
+    "reponses": ["Architecture basée sur des services indépendants", "Micro système", "Micro application", "Micro solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un microservice ?",
+    "reponses": ["Fournir un service spécifique", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Docker ?",
+    "reponses": ["Containerisation de applications", "Virtualisation", "Sécurité", "Réseau"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour Docker ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Kubernetes ?",
+    "reponses": ["Orchestration de conteneurs", "Sécurité", "Réseau", "Stockage"]
+  },
+  {
+    "question": "Quel est le rôle de Kubernetes ?",
+    "reponses": ["Gérer des conteneurs en production", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DevOps ?",
+    "reponses": ["Development and Operations", "Development and Optimization", "Design and Operations", "Development and Production"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le DevOps ?",
+    "reponses": ["Python", "Ruby", "Go", "Shell"]
+  },
+  {
+    "question": "Que signifie l'acronyme CI ?",
+    "reponses": ["Continuous Integration", "Continuous Improvement", "Continuous Innovation", "Continuous Implementation"]
+  },
+  {
+    "question": "Quel est le rôle d'un CI ?",
+    "reponses": ["Intégrer les modifications du code en continu", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CD ?",
+    "reponses": ["Continuous Delivery", "Continuous Deployment", "Continuous Development", "Continuous Design"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le CD ?",
+    "reponses": ["Python", "Ruby", "Go", "Shell"]
+  },
+  {
+    "question": "Que signifie l'acronyme IaC ?",
+    "reponses": ["Infrastructure as Code", "Infrastructure and Code", "Infrastructure as Cloud", "Infrastructure and Cloud"]
+  },
+  {
+    "question": "Quel est le rôle de l'IaC ?",
+    "reponses": ["Gérer l'infrastructure avec du code", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Terraform ?",
+    "reponses": ["Outil d'infrastructure as code", "Outil de sécurité", "Outil de réseau", "Outil de stockage"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour Terraform ?",
+    "reponses": ["HCL", "Python", "Go", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Ansible ?",
+    "reponses": ["Outil d'automatisation", "Outil de sécurité", "Outil de réseau", "Outil de stockage"]
+  },
+  {
+    "question": "Quel est le rôle d'Ansible ?",
+    "reponses": ["Automatiser la gestion des configurations", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Chef ?",
+    "reponses": ["Outil de gestion de configurations", "Outil de sécurité", "Outil de réseau", "Outil de stockage"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour Chef ?",
+    "reponses": ["Ruby", "Python", "Go", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Puppet ?",
+    "reponses": ["Outil de gestion de configurations", "Outil de sécurité", "Outil de réseau", "Outil de stockage"]
+  },
+  {
+    "question": "Quel est le rôle de Puppet ?",
+    "reponses": ["Automatiser la gestion des configurations", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Cloud ?",
+    "reponses": ["Informatique en nuage", "Service en ligne", "Stockage distant", "Calcul distribué"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le cloud ?",
+    "reponses": ["Python", "Java", "Go", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme AWS ?",
+    "reponses": ["Amazon Web Services", "Amazon Web System", "Amazon Web Solution", "Amazon Web Security"]
+  },
+  {
+    "question": "Quel est le rôle d'AWS ?",
+    "reponses": ["Fournir des services cloud", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Azure ?",
+    "reponses": ["Microsoft Azure", "Microsoft Cloud", "Microsoft Service", "Microsoft Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour Azure ?",
+    "reponses": ["C#", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme GCP ?",
+    "reponses": ["Google Cloud Platform", "Google Cloud System", "Google Cloud Service", "Google Cloud Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un système cloud ?",
+    "reponses": ["Fournir des ressources à distance", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Serverless ?",
+    "reponses": ["Architecture sans serveur", "Sans serveur", "Service sans serveur", "Solution sans serveur"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le serverless ?",
+    "reponses": ["Python", "JavaScript", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme FaaS ?",
+    "reponses": ["Function as a Service", "Function and Service", "Function as Solution", "Function and Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un FaaS ?",
+    "reponses": ["Exécuter des fonctions à la demande", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PaaS ?",
+    "reponses": ["Platform as a Service", "Platform and Service", "Platform as Solution", "Platform and Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le PaaS ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme SaaS ?",
+    "reponses": ["Software as a Service", "Software and Service", "Software as Solution", "Software and Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un SaaS ?",
+    "reponses": ["Fournir des logiciels en ligne", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IaaS ?",
+    "reponses": ["Infrastructure as a Service", "Infrastructure and Service", "Infrastructure as Solution", "Infrastructure and Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour l'IaaS ?",
+    "reponses": ["Python", "Java", "Go", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme DaaS ?",
+    "reponses": ["Data as a Service", "Data and Service", "Data as Solution", "Data and Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un DaaS ?",
+    "reponses": ["Fournir des données en ligne", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme XaaS ?",
+    "reponses": ["Everything as a Service", "Anything as a Service", "Extended as a Service", "X as a Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour le XaaS ?",
+    "reponses": ["Python", "Java", "Go", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme VPC ?",
+    "reponses": ["Virtual Private Cloud", "Virtual Public Cloud", "Virtual Private Computing", "Virtual Public Computing"]
+  },
+  {
+    "question": "Quel est le rôle d'un VPC ?",
+    "reponses": ["Créer un réseau privé dans le cloud", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme VPS ?",
+    "reponses": ["Virtual Private Server", "Virtual Public Server", "Virtual Private System", "Virtual Public System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les VPS ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme VPN ?",
+    "reponses": ["Virtual Private Network", "Virtual Public Network", "Virtual Private Node", "Virtual Public Node"]
+  },
+  {
+    "question": "Quel est le rôle d'un VPN ?",
+    "reponses": ["Créer un réseau sécurisé", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CDN ?",
+    "reponses": ["Content Delivery Network", "Content Distribution Network", "Content Delivery Node", "Content Distribution Node"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les CDN ?",
+    "reponses": ["Python", "Java", "C#", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme DNS ?",
+    "reponses": ["Domain Name System", "Domain Name Service", "Domain Name Server", "Domain Name Solution"]
+  },
+  {
+    "question": "Quel est le rôle d'un DNS ?",
+    "reponses": ["Résoudre les noms de domaine", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme IP ?",
+    "reponses": ["Internet Protocol", "Internal Protocol", "International Protocol", "Interconnection Protocol"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour les protocoles IP ?",
+    "reponses": ["C", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme TCP/IP ?",
+    "reponses": ["Transmission Control Protocol/Internet Protocol", "Transfer Control Protocol/Internet Protocol", "Transmission Communication Protocol/Internet Protocol", "Transfer Communication Protocol/Internet Protocol"]
+  },
+  {
+    "question": "Quel est le rôle de TCP/IP ?",
+    "reponses": ["Assurer la communication réseau", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme UDP ?",
+    "reponses": ["User Datagram Protocol", "User Data Protocol", "Universal Datagram Protocol", "Universal Data Protocol"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour UDP ?",
+    "reponses": ["C", "Python", "Java", "JavaScript"]
+  },
+  {
+    "question": "Que signifie l'acronyme HTTP/2 ?",
+    "reponses": ["HyperText Transfer Protocol version 2", "HyperText Transport Protocol version 2", "HighTech Transfer Protocol version 2", "Hyper Transfer Protocol version 2"]
+  },
+  {
+    "question": "Quel est le rôle de HTTP/2 ?",
+    "reponses": ["Améliorer les performances du web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme WebSocket ?",
+    "reponses": ["Protocole de communication bidirectionnelle", "Web Service", "Web Socket", "Web System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour WebSocket ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme gRPC ?",
+    "reponses": ["gRPC Remote Procedure Call", "Google Remote Procedure Call", "gRPC Remote Protocol Call", "Google Remote Protocol Call"]
+  },
+  {
+    "question": "Quel est le rôle de gRPC ?",
+    "reponses": ["Communication efficace entre services", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme GraphQL ?",
+    "reponses": ["Langage de requête pour API", "Graph Query Language", "GraphQL Query Language", "Graph Query System"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour GraphQL ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme WebRTC ?",
+    "reponses": ["Web Real-Time Communication", "Web Real-Time Computing", "Web Real-Time Control", "Web Real-Time Configuration"]
+  },
+  {
+    "question": "Quel est le rôle de WebRTC ?",
+    "reponses": ["Communication en temps réel dans le navigateur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme W3C ?",
+    "reponses": ["World Wide Web Consortium", "World Wide Web Community", "World Wide Web Corporation", "World Wide Web Council"]
+  },
+  {
+    "question": "Quel est le rôle du W3C ?",
+    "reponses": ["Élaborer les standards du web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme WHATWG ?",
+    "reponses": ["Web Hypertext Application Technology Working Group", "Web Hypertext Application Technology Work Group", "Web Hypertext Application Technology Working Group", "Web Hypertext Application Technology Work Group"]
+  },
+  {
+    "question": "Quel est le rôle de WHATWG ?",
+    "reponses": ["Développer les standards HTML et DOM", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ECMA ?",
+    "reponses": ["European Computer Manufacturers Association", "European Computer Manufacturers Association", "European Computer Manufacturers Association", "European Computer Manufacturers Association"]
+  },
+  {
+    "question": "Quel est le langage de programmation standardisé par ECMA ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme ES6 ?",
+    "reponses": ["ECMAScript 6", "ECMAScript 6", "ECMAScript 6", "ECMAScript 6"]
+  },
+  {
+    "question": "Quel est le rôle de ES6 ?",
+    "reponses": ["Version de JavaScript", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme TypeScript ?",
+    "reponses": ["Superset de JavaScript", "Type System", "Type Script", "Type Service"]
+  },
+  {
+    "question": "Quel est le langage de programmation TypeScript ?",
+    "reponses": ["TypeScript", "JavaScript", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Node.js ?",
+    "reponses": ["Environnement d'exécution JavaScript", "Node System", "Node Service", "Node Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Node.js ?",
+    "reponses": ["Exécuter JavaScript côté serveur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme npm ?",
+    "reponses": ["Node Package Manager", "Node Program Manager", "Node Package Management", "Node Program Management"]
+  },
+  {
+    "question": "Quel est le rôle de npm ?",
+    "reponses": ["Gérer les paquets Node.js", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme yarn ?",
+    "reponses": ["Gestionnaire de paquets", "Yarn Package Manager", "Yarn Program Manager", "Yarn Package Management"]
+  },
+  {
+    "question": "Quel est le rôle de yarn ?",
+    "reponses": ["Gérer les paquets JavaScript", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Express.js ?",
+    "reponses": ["Framework web pour Node.js", "Express System", "Express Service", "Express Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Express.js ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme React ?",
+    "reponses": ["Bibliothèque JavaScript pour interfaces", "React System", "React Service", "React Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par React ?",
+    "reponses": ["JavaScript", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Vue.js ?",
+    "reponses": ["Framework JavaScript progressif", "Vue System", "Vue Service", "Vue Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Vue.js ?",
+    "reponses": ["Créer des interfaces utilisateur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Angular ?",
+    "reponses": ["Framework JavaScript de Google", "Angular System", "Angular Service", "Angular Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Angular ?",
+    "reponses": ["TypeScript", "JavaScript", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Svelte ?",
+    "reponses": ["Framework JavaScript compilé", "Svelte System", "Svelte Service", "Svelte Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Svelte ?",
+    "reponses": ["Créer des interfaces utilisateur", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Next.js ?",
+    "reponses": ["Framework React pour le rendu côté serveur", "Next System", "Next Service", "Next Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Next.js ?",
+    "reponses": ["JavaScript", "TypeScript", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Nuxt.js ?",
+    "reponses": ["Framework Vue.js pour le rendu côté serveur", "Nuxt System", "Nuxt Service", "Nuxt Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Nuxt.js ?",
+    "reponses": ["Créer des applications Vue.js universelles", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Gatsby ?",
+    "reponses": ["Générateur de sites statiques React", "Gatsby System", "Gatsby Service", "Gatsby Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Gatsby ?",
+    "reponses": ["JavaScript", "TypeScript", "Python", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Hugo ?",
+    "reponses": ["Générateur de sites statiques en Go", "Hugo System", "Hugo Service", "Hugo Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Hugo ?",
+    "reponses": ["Créer des sites statiques rapidement", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Jekyll ?",
+    "reponses": ["Générateur de sites statiques en Ruby", "Jekyll System", "Jekyll Service", "Jekyll Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Jekyll ?",
+    "reponses": ["Ruby", "Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Wordpress ?",
+    "reponses": ["Système de gestion de contenu", "Wordpress System", "Wordpress Service", "Wordpress Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Wordpress ?",
+    "reponses": ["PHP", "Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Drupal ?",
+    "reponses": ["Système de gestion de contenu", "Drupal System", "Drupal Service", "Drupal Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Drupal ?",
+    "reponses": ["Gérer du contenu web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Joomla ?",
+    "reponses": ["Système de gestion de contenu", "Joomla System", "Joomla Service", "Joomla Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Joomla ?",
+    "reponses": ["PHP", "Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Magento ?",
+    "reponses": ["Plateforme e-commerce", "Magento System", "Magento Service", "Magento Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Magento ?",
+    "reponses": ["Gérer des boutiques en ligne", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Shopify ?",
+    "reponses": ["Plateforme e-commerce", "Shopify System", "Shopify Service", "Shopify Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Shopify ?",
+    "reponses": ["Ruby", "Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme WooCommerce ?",
+    "reponses": ["Plugin e-commerce pour Wordpress", "WooCommerce System", "WooCommerce Service", "WooCommerce Solution"]
+  },
+  {
+    "question": "Quel est le rôle de WooCommerce ?",
+    "reponses": ["Ajouter des fonctionnalités e-commerce", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PrestaShop ?",
+    "reponses": ["Plateforme e-commerce", "PrestaShop System", "PrestaShop Service", "PrestaShop Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par PrestaShop ?",
+    "reponses": ["PHP", "Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme OpenCart ?",
+    "reponses": ["Plateforme e-commerce", "OpenCart System", "OpenCart Service", "OpenCart Solution"]
+  },
+  {
+    "question": "Quel est le rôle de OpenCart ?",
+    "reponses": ["Gérer des boutiques en ligne", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme BigCommerce ?",
+    "reponses": ["Plateforme e-commerce", "BigCommerce System", "BigCommerce Service", "BigCommerce Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par BigCommerce ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Wix ?",
+    "reponses": ["Plateforme de création de sites web", "Wix System", "Wix Service", "Wix Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Wix ?",
+    "reponses": ["Créer des sites web sans code", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Webflow ?",
+    "reponses": ["Plateforme de création de sites web", "Webflow System", "Webflow Service", "Webflow Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Webflow ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Squarespace ?",
+    "reponses": ["Plateforme de création de sites web", "Squarespace System", "Squarespace Service", "Squarespace Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Squarespace ?",
+    "reponses": ["Créer des sites web professionnels", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Weebly ?",
+    "reponses": ["Plateforme de création de sites web", "Weebly System", "Weebly Service", "Weebly Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Weebly ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Java"]
+  },
+  {
+    "question": "Que signifie l'acronyme Docker ?",
+    "reponses": ["Containerisation de applications", "Docker System", "Docker Service", "Docker Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Docker ?",
+    "reponses": ["Emballer les applications", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Kubernetes ?",
+    "reponses": ["Orchestration de conteneurs", "Kubernetes System", "Kubernetes Service", "Kubernetes Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Kubernetes ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Helm ?",
+    "reponses": ["Gestionnaire de paquets Kubernetes", "Helm System", "Helm Service", "Helm Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Helm ?",
+    "reponses": ["Gérer les applications Kubernetes", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Istio ?",
+    "reponses": ["Service mesh", "Istio System", "Istio Service", "Istio Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Istio ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Envoy ?",
+    "reponses": ["Proxy de service mesh", "Envoy System", "Envoy Service", "Envoy Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Envoy ?",
+    "reponses": ["Gérer les communications entre services", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Prometheus ?",
+    "reponses": ["Système de monitoring", "Prometheus System", "Prometheus Service", "Prometheus Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Prometheus ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Grafana ?",
+    "reponses": ["Plateforme de visualisation de données", "Grafana System", "Grafana Service", "Grafana Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Grafana ?",
+    "reponses": ["Visualiser les métriques", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ELK ?",
+    "reponses": ["Elasticsearch, Logstash, Kibana", "ELK Stack", "ELK System", "ELK Service"]
+  },
+  {
+    "question": "Quel est le rôle de ELK Stack ?",
+    "reponses": ["Gérer les logs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Logstash ?",
+    "reponses": ["Outil de traitement de logs", "Logstash System", "Logstash Service", "Logstash Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Logstash ?",
+    "reponses": ["Ruby", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Kibana ?",
+    "reponses": ["Outil de visualisation de données", "Kibana System", "Kibana Service", "Kibana Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Kibana ?",
+    "reponses": ["Visualiser les données Elasticsearch", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Elasticsearch ?",
+    "reponses": ["Moteur de recherche et d'analyse", "Elasticsearch System", "Elasticsearch Service", "Elasticsearch Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Elasticsearch ?",
+    "reponses": ["Java", "Python", "Go", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Redis ?",
+    "reponses": ["Base de données en mémoire", "Redis System", "Redis Service", "Redis Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Redis ?",
+    "reponses": ["Stocker des données en cache", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Memcached ?",
+    "reponses": ["Système de cache en mémoire", "Memcached System", "Memcached Service", "Memcached Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Memcached ?",
+    "reponses": ["C", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme RabbitMQ ?",
+    "reponses": ["Système de messagerie", "RabbitMQ System", "RabbitMQ Service", "RabbitMQ Solution"]
+  },
+  {
+    "question": "Quel est le rôle de RabbitMQ ?",
+    "reponses": ["Gérer les files de messages", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Apache Kafka ?",
+    "reponses": ["Plateforme de streaming", "Kafka System", "Kafka Service", "Kafka Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Apache Kafka ?",
+    "reponses": ["Scala", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Zookeeper ?",
+    "reponses": ["Service de coordination", "Zookeeper System", "Zookeeper Service", "Zookeeper Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Zookeeper ?",
+    "reponses": ["Coordonner les services distribués", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Consul ?",
+    "reponses": ["Service de découverte", "Consul System", "Consul Service", "Consul Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Consul ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Terraform ?",
+    "reponses": ["Outil d'infrastructure as code", "Terraform System", "Terraform Service", "Terraform Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Terraform ?",
+    "reponses": ["Gérer l'infrastructure avec du code", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Vault ?",
+    "reponses": ["Outil de gestion de secrets", "Vault System", "Vault Service", "Vault Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Vault ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Nomad ?",
+    "reponses": ["Orchestrateur de tâches", "Nomad System", "Nomad Service", "Nomad Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Nomad ?",
+    "reponses": ["Orchestrer les conteneurs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Packer ?",
+    "reponses": ["Outil de création d'images", "Packer System", "Packer Service", "Packer Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Packer ?",
+    "reponses": ["Go", "Python", "Java", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme Ansible Tower ?",
+    "reponses": ["Interface graphique pour Ansible", "Ansible Tower System", "Ansible Tower Service", "Ansible Tower Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Ansible Tower ?",
+    "reponses": ["Gérer Ansible avec une interface", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Jenkins ?",
+    "reponses": ["Serveur d'intégration continue", "Jenkins System", "Jenkins Service", "Jenkins Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Jenkins ?",
+    "reponses": ["Java", "Python", "Ruby", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme GitLab CI/CD ?",
+    "reponses": ["Plateforme d'intégration continue", "GitLab CI/CD System", "GitLab CI/CD Service", "GitLab CI/CD Solution"]
+  },
+  {
+    "question": "Quel est le rôle de GitLab CI/CD ?",
+    "reponses": ["Automatiser les tests et déploiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme GitHub Actions ?",
+    "reponses": ["CI/CD intégré à GitHub", "GitHub Actions System", "GitHub Actions Service", "GitHub Actions Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par GitHub Actions ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Travis CI ?",
+    "reponses": ["Service d'intégration continue", "Travis CI System", "Travis CI Service", "Travis CI Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Travis CI ?",
+    "reponses": ["Tester les applications en continu", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CircleCI ?",
+    "reponses": ["Service d'intégration continue", "CircleCI System", "CircleCI Service", "CircleCI Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par CircleCI ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Bitbucket Pipelines ?",
+    "reponses": ["CI/CD intégré à Bitbucket", "Bitbucket Pipelines System", "Bitbucket Pipelines Service", "Bitbucket Pipelines Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Bitbucket Pipelines ?",
+    "reponses": ["Automatiser les déploiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme AWS CodePipeline ?",
+    "reponses": ["Service CI/CD d'AWS", "AWS CodePipeline System", "AWS CodePipeline Service", "AWS CodePipeline Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par AWS CodePipeline ?",
+    "reponses": ["JavaScript", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Azure DevOps ?",
+    "reponses": ["Plateforme DevOps de Microsoft", "Azure DevOps System", "Azure DevOps Service", "Azure DevOps Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Azure DevOps ?",
+    "reponses": ["Gérer le cycle de développement", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme GCP Cloud Build ?",
+    "reponses": ["Service CI/CD de GCP", "GCP Cloud Build System", "GCP Cloud Build Service", "GCP Cloud Build Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par GCP Cloud Build ?",
+    "reponses": ["JavaScript", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Serverless Framework ?",
+    "reponses": ["Framework pour applications serverless", "Serverless Framework System", "Serverless Framework Service", "Serverless Framework Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Serverless Framework ?",
+    "reponses": ["Développer des applications serverless", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme AWS Lambda ?",
+    "reponses": ["Service serverless d'AWS", "AWS Lambda System", "AWS Lambda Service", "AWS Lambda Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par AWS Lambda ?",
+    "reponses": ["JavaScript", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Azure Functions ?",
+    "reponses": ["Service serverless d'Azure", "Azure Functions System", "Azure Functions Service", "Azure Functions Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Azure Functions ?",
+    "reponses": ["Exécuter du code à la demande", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme GCP Cloud Functions ?",
+    "reponses": ["Service serverless de GCP", "GCP Cloud Functions System", "GCP Cloud Functions Service", "GCP Cloud Functions Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par GCP Cloud Functions ?",
+    "reponses": ["JavaScript", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Firebase ?",
+    "reponses": ["Plateforme de développement d'apps", "Firebase System", "Firebase Service", "Firebase Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Firebase ?",
+    "reponses": ["Développer des applications mobiles", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Supabase ?",
+    "reponses": ["Alternative open source à Firebase", "Supabase System", "Supabase Service", "Supabase Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Supabase ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Appwrite ?",
+    "reponses": ["Plateforme de développement d'apps", "Appwrite System", "Appwrite Service", "Appwrite Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Appwrite ?",
+    "reponses": ["Développer des applications backend", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Directus ?",
+    "reponses": ["CMS headless open source", "Directus System", "Directus Service", "Directus Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Directus ?",
+    "reponses": ["JavaScript", "Python", "PHP", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Strapi ?",
+    "reponses": ["CMS headless open source", "Strapi System", "Strapi Service", "Strapi Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Strapi ?",
+    "reponses": ["Gérer du contenu API", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Ghost ?",
+    "reponses": ["CMS pour blogs", "Ghost System", "Ghost Service", "Ghost Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Ghost ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "PHP"]
+  },
+  {
+    "question": "Que signifie l'acronyme KeystoneJS ?",
+    "reponses": ["CMS headless basé sur Node.js", "KeystoneJS System", "KeystoneJS Service", "KeystoneJS Solution"]
+  },
+  {
+    "question": "Quel est le rôle de KeystoneJS ?",
+    "reponses": ["Gérer du contenu avec Node.js", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Sanity.io ?",
+    "reponses": ["Plateforme de gestion de contenu", "Sanity.io System", "Sanity.io Service", "Sanity.io Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Sanity.io ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Contentful ?",
+    "reponses": ["Plateforme de gestion de contenu", "Contentful System", "Contentful Service", "Contentful Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Contentful ?",
+    "reponses": ["Gérer du contenu API-first", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Prismic ?",
+    "reponses": ["CMS headless", "Prismic System", "Prismic Service", "Prismic Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Prismic ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "PHP"]
+  },
+  {
+    "question": "Que signifie l'acronyme Netlify CMS ?",
+    "reponses": ["CMS open source pour sites statiques", "Netlify CMS System", "Netlify CMS Service", "Netlify CMS Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Netlify CMS ?",
+    "reponses": ["Gérer du contenu pour sites statiques", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Decap CMS ?",
+    "reponses": ["CMS open source pour sites statiques", "Decap CMS System", "Decap CMS Service", "Decap CMS Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Decap CMS ?",
+    "reponses": ["JavaScript", "Python", "Ruby", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme TinaCMS ?",
+    "reponses": ["CMS pour sites statiques", "TinaCMS System", "TinaCMS Service", "TinaCMS Solution"]
+  },
+  {
+    "question": "Quel est le rôle de TinaCMS ?",
+    "reponses": ["Gérer du contenu en contexte", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Grafbase ?",
+    "reponses": ["Plateforme GraphQL serverless", "Grafbase System", "Grafbase Service", "Grafbase Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Grafbase ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Hasura ?",
+    "reponses": ["Plateforme GraphQL serverless", "Hasura System", "Hasura Service", "Hasura Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Hasura ?",
+    "reponses": ["GraphQL instantané sur PostgreSQL", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme GraphQL Mesh ?",
+    "reponses": ["Fédération de services GraphQL", "GraphQL Mesh System", "GraphQL Mesh Service", "GraphQL Mesh Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par GraphQL Mesh ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Apollo Server ?",
+    "reponses": ["Serveur GraphQL", "Apollo Server System", "Apollo Server Service", "Apollo Server Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Apollo Server ?",
+    "reponses": ["Développer des APIs GraphQL", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Prisma ?",
+    "reponses": ["ORM pour Node.js", "Prisma System", "Prisma Service", "Prisma Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Prisma ?",
+    "reponses": ["JavaScript", "Python", "TypeScript", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Sequelize ?",
+    "reponses": ["ORM pour Node.js", "Sequelize System", "Sequelize Service", "Sequelize Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Sequelize ?",
+    "reponses": ["Gérer les bases de données SQL", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Knex.js ?",
+    "reponses": ["Query builder pour Node.js", "Knex.js System", "Knex.js Service", "Knex.js Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Knex.js ?",
+    "reponses": ["JavaScript", "Python", "TypeScript", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme TypeORM ?",
+    "reponses": ["ORM pour TypeScript", "TypeORM System", "TypeORM Service", "TypeORM Solution"]
+  },
+  {
+    "question": "Quel est le rôle de TypeORM ?",
+    "reponses": ["Gérer les bases de données en TypeScript", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme MikroORM ?",
+    "reponses": ["ORM pour TypeScript", "MikroORM System", "MikroORM Service", "MikroORM Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par MikroORM ?",
+    "reponses": ["TypeScript", "JavaScript", "Python", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Drizzle ORM ?",
+    "reponses": ["ORM pour TypeScript", "Drizzle ORM System", "Drizzle ORM Service", "Drizzle ORM Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Drizzle ORM ?",
+    "reponses": ["Gérer les bases de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PlanetScale ?",
+    "reponses": ["Base de données MySQL serverless", "PlanetScale System", "PlanetScale Service", "PlanetScale Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par PlanetScale ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme CockroachDB ?",
+    "reponses": ["Base de données distribuée SQL", "CockroachDB System", "CockroachDB Service", "CockroachDB Solution"]
+  },
+  {
+    "question": "Quel est le rôle de CockroachDB ?",
+    "reponses": ["Base de données scalable", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme TiDB ?",
+    "reponses": ["Base de données distribuée SQL", "TiDB System", "TiDB Service", "TiDB Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par TiDB ?",
+    "reponses": ["Go", "Python", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme YugabyteDB ?",
+    "reponses": ["Base de données distribuée SQL", "YugabyteDB System", "YugabyteDB Service", "YugabyteDB Solution"]
+  },
+  {
+    "question": "Quel est le rôle de YugabyteDB ?",
+    "reponses": ["Base de données cloud-native", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Snowflake ?",
+    "reponses": ["Base de données cloud", "Snowflake System", "Snowflake Service", "Snowflake Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Snowflake ?",
+    "reponses": ["SQL", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Databricks ?",
+    "reponses": ["Plateforme de données", "Databricks System", "Databricks Service", "Databricks Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Databricks ?",
+    "reponses": ["Big Data et machine learning", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ClickHouse ?",
+    "reponses": ["Base de données orientée colonnes", "ClickHouse System", "ClickHouse Service", "ClickHouse Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par ClickHouse ?",
+    "reponses": ["C++", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme DuckDB ?",
+    "reponses": ["Base de données SQL en mémoire", "DuckDB System", "DuckDB Service", "DuckDB Solution"]
+  },
+  {
+    "question": "Quel est le rôle de DuckDB ?",
+    "reponses": ["Analyses de données rapides", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Pinecone ?",
+    "reponses": ["Base de données vectorielle", "Pinecone System", "Pinecone Service", "Pinecone Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Pinecone ?",
+    "reponses": ["Python", "JavaScript", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Weaviate ?",
+    "reponses": ["Base de données vectorielle", "Weaviate System", "Weaviate Service", "Weaviate Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Weaviate ?",
+    "reponses": ["Recherche sémantique", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme ChromaDB ?",
+    "reponses": ["Base de données vectorielle", "ChromaDB System", "ChromaDB Service", "ChromaDB Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par ChromaDB ?",
+    "reponses": ["Python", "JavaScript", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Qdrant ?",
+    "reponses": ["Base de données vectorielle", "Qdrant System", "Qdrant Service", "Qdrant Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Qdrant ?",
+    "reponses": ["Recherche vectorielle", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Milvus ?",
+    "reponses": ["Base de données vectorielle", "Milvus System", "Milvus Service", "Milvus Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Milvus ?",
+    "reponses": ["C++", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme FAISS ?",
+    "reponses": ["Bibliothèque de recherche vectorielle", "FAISS System", "FAISS Service", "FAISS Solution"]
+  },
+  {
+    "question": "Quel est le rôle de FAISS ?",
+    "reponses": ["Recherche de similarité", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PyTorch ?",
+    "reponses": ["Framework de deep learning", "PyTorch System", "PyTorch Service", "PyTorch Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par PyTorch ?",
+    "reponses": ["Python", "C++", "CUDA", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme TensorFlow ?",
+    "reponses": ["Framework de deep learning", "TensorFlow System", "TensorFlow Service", "TensorFlow Solution"]
+  },
+  {
+    "question": "Quel est le rôle de TensorFlow ?",
+    "reponses": ["Développer des modèles ML", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Keras ?",
+    "reponses": ["API de deep learning", "Keras System", "Keras Service", "Keras Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Keras ?",
+    "reponses": ["Python", "R", "Julia", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme scikit-learn ?",
+    "reponses": ["Bibliothèque de machine learning", "scikit-learn System", "scikit-learn Service", "scikit-learn Solution"]
+  },
+  {
+    "question": "Quel est le rôle de scikit-learn ?",
+    "reponses": ["Machine learning en Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme XGBoost ?",
+    "reponses": ["Bibliothèque de gradient boosting", "XGBoost System", "XGBoost Service", "XGBoost Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par XGBoost ?",
+    "reponses": ["Python", "R", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme LightGBM ?",
+    "reponses": ["Bibliothèque de gradient boosting", "LightGBM System", "LightGBM Service", "LightGBM Solution"]
+  },
+  {
+    "question": "Quel est le rôle de LightGBM ?",
+    "reponses": ["Machine learning rapide", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme CatBoost ?",
+    "reponses": ["Bibliothèque de gradient boosting", "CatBoost System", "CatBoost Service", "CatBoost Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par CatBoost ?",
+    "reponses": ["Python", "R", "C++", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Cython ?",
+    "reponses": ["Extension du langage Python", "Cython System", "Cython Service", "Cython Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Cython ?",
+    "reponses": ["Optimiser le code Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme NumPy ?",
+    "reponses": ["Bibliothèque de calcul scientifique", "NumPy System", "NumPy Service", "NumPy Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par NumPy ?",
+    "reponses": ["Python", "C", "Fortran", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Pandas ?",
+    "reponses": ["Bibliothèque d'analyse de données", "Pandas System", "Pandas Service", "Pandas Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Pandas ?",
+    "reponses": ["Manipuler et analyser les données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SciPy ?",
+    "reponses": ["Bibliothèque de calcul scientifique", "SciPy System", "SciPy Service", "SciPy Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par SciPy ?",
+    "reponses": ["Python", "C", "Fortran", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Matplotlib ?",
+    "reponses": ["Bibliothèque de visualisation", "Matplotlib System", "Matplotlib Service", "Matplotlib Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Matplotlib ?",
+    "reponses": ["Créer des graphiques en Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Seaborn ?",
+    "reponses": ["Bibliothèque de visualisation", "Seaborn System", "Seaborn Service", "Seaborn Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Seaborn ?",
+    "reponses": ["Python", "R", "Julia", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Plotly ?",
+    "reponses": ["Bibliothèque de visualisation interactive", "Plotly System", "Plotly Service", "Plotly Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Plotly ?",
+    "reponses": ["Graphiques interactifs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Bokeh ?",
+    "reponses": ["Bibliothèque de visualisation interactive", "Bokeh System", "Bokeh Service", "Bokeh Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Bokeh ?",
+    "reponses": ["Python", "JavaScript", "R", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme D3.js ?",
+    "reponses": ["Bibliothèque de visualisation JavaScript", "D3.js System", "D3.js Service", "D3.js Solution"]
+  },
+  {
+    "question": "Quel est le rôle de D3.js ?",
+    "reponses": ["Visualisation de données web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Vega ?",
+    "reponses": ["Langage de visualisation", "Vega System", "Vega Service", "Vega Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Vega ?",
+    "reponses": ["JavaScript", "Python", "R", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Altair ?",
+    "reponses": ["Bibliothèque de visualisation", "Altair System", "Altair Service", "Altair Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Altair ?",
+    "reponses": ["Visualisation de données déclarative", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Power BI ?",
+    "reponses": ["Outil de business intelligence", "Power BI System", "Power BI Service", "Power BI Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Power BI ?",
+    "reponses": ["DAX", "M", "Python", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme Tableau ?",
+    "reponses": ["Outil de visualisation de données", "Tableau System", "Tableau Service", "Tableau Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Tableau ?",
+    "reponses": ["Visualisation interactive de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Looker ?",
+    "reponses": ["Plateforme de business intelligence", "Looker System", "Looker Service", "Looker Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Looker ?",
+    "reponses": ["LookML", "Python", "R", "SQL"]
+  },
+  {
+    "question": "Que signifie l'acronyme Metabase ?",
+    "reponses": ["Outil de BI open source", "Metabase System", "Metabase Service", "Metabase Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Metabase ?",
+    "reponses": ["Visualisation de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Superset ?",
+    "reponses": ["Outil de BI open source", "Superset System", "Superset Service", "Superset Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Superset ?",
+    "reponses": ["Python", "JavaScript", "R", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Redash ?",
+    "reponses": ["Outil de BI open source", "Redash System", "Redash Service", "Redash Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Redash ?",
+    "reponses": ["Visualisation de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Grafana ?",
+    "reponses": ["Plateforme de visualisation de métriques", "Grafana System", "Grafana Service", "Grafana Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Grafana ?",
+    "reponses": ["Go", "JavaScript", "Python", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme Kibana ?",
+    "reponses": ["Outil de visualisation de données", "Kibana System", "Kibana Service", "Kibana Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Kibana ?",
+    "reponses": ["Visualisation de données Elasticsearch", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Prometheus ?",
+    "reponses": ["Système de monitoring", "Prometheus System", "Prometheus Service", "Prometheus Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Prometheus ?",
+    "reponses": ["Go", "Python", "Java", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme Alertmanager ?",
+    "reponses": ["Gestionnaire d'alertes", "Alertmanager System", "Alertmanager Service", "Alertmanager Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Alertmanager ?",
+    "reponses": ["Gérer les alertes", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Grafana Loki ?",
+    "reponses": ["Système de gestion de logs", "Loki System", "Loki Service", "Loki Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Loki ?",
+    "reponses": ["Go", "Python", "Java", "R"]
+  },
+  {
+    "question": "Que signifie l'acronyme Fluentd ?",
+    "reponses": ["Collecteur de logs open source", "Fluentd System", "Fluentd Service", "Fluentd Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Fluentd ?",
+    "reponses": ["Collecter et transmettre les logs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Logstash ?",
+    "reponses": ["Outil de traitement de logs", "Logstash System", "Logstash Service", "Logstash Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Logstash ?",
+    "reponses": ["Ruby", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Elasticsearch ?",
+    "reponses": ["Moteur de recherche et d'analyse", "Elasticsearch System", "Elasticsearch Service", "Elasticsearch Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Elasticsearch ?",
+    "reponses": ["Recherche et analyse de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme OpenSearch ?",
+    "reponses": ["Fork open source d'Elasticsearch", "OpenSearch System", "OpenSearch Service", "OpenSearch Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par OpenSearch ?",
+    "reponses": ["Java", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Splunk ?",
+    "reponses": ["Plateforme de gestion de données", "Splunk System", "Splunk Service", "Splunk Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Splunk ?",
+    "reponses": ["Recherche et analyse de données", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme DataDog ?",
+    "reponses": ["Plateforme de monitoring", "DataDog System", "DataDog Service", "DataDog Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par DataDog ?",
+    "reponses": ["Go", "Python", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme New Relic ?",
+    "reponses": ["Plateforme de monitoring applicatif", "New Relic System", "New Relic Service", "New Relic Solution"]
+  },
+  {
+    "question": "Quel est le rôle de New Relic ?",
+    "reponses": ["Surveiller les performances", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Dynatrace ?",
+    "reponses": ["Plateforme de monitoring applicatif", "Dynatrace System", "Dynatrace Service", "Dynatrace Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Dynatrace ?",
+    "reponses": ["Java", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme AppDynamics ?",
+    "reponses": ["Plateforme de monitoring applicatif", "AppDynamics System", "AppDynamics Service", "AppDynamics Solution"]
+  },
+  {
+    "question": "Quel est le rôle de AppDynamics ?",
+    "reponses": ["Surveiller les applications", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Zabbix ?",
+    "reponses": ["Système de monitoring", "Zabbix System", "Zabbix Service", "Zabbix Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Zabbix ?",
+    "reponses": ["C", "PHP", "Python", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Nagios ?",
+    "reponses": ["Système de monitoring", "Nagios System", "Nagios Service", "Nagios Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Nagios ?",
+    "reponses": ["Surveiller les infrastructures", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Icinga ?",
+    "reponses": ["Système de monitoring", "Icinga System", "Icinga Service", "Icinga Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Icinga ?",
+    "reponses": ["PHP", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Sensu ?",
+    "reponses": ["Système de monitoring", "Sensu System", "Sensu Service", "Sensu Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Sensu ?",
+    "reponses": ["Monitoring d'infrastructure", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Sysdig ?",
+    "reponses": ["Plateforme de monitoring", "Sysdig System", "Sysdig Service", "Sysdig Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Sysdig ?",
+    "reponses": ["Go", "Python", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Falco ?",
+    "reponses": ["Système de sécurité", "Falco System", "Falco Service", "Falco Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Falco ?",
+    "reponses": ["Sécurité des conteneurs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Trivy ?",
+    "reponses": ["Scanner de sécurité", "Trivy System", "Trivy Service", "Trivy Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Trivy ?",
+    "reponses": ["Go", "Python", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Clair ?",
+    "reponses": ["Analyseur de vulnérabilités", "Clair System", "Clair Service", "Clair Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Clair ?",
+    "reponses": ["Scanner les images Docker", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Anchore ?",
+    "reponses": ["Scanner de sécurité", "Anchore System", "Anchore Service", "Anchore Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Anchore ?",
+    "reponses": ["Python", "Go", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Snyk ?",
+    "reponses": ["Plateforme de sécurité", "Snyk System", "Snyk Service", "Snyk Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Snyk ?",
+    "reponses": ["Sécurité des dépendances", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SonarQube ?",
+    "reponses": ["Plateforme de qualité de code", "SonarQube System", "SonarQube Service", "SonarQube Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par SonarQube ?",
+    "reponses": ["Java", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme ESLint ?",
+    "reponses": ["Outil de linting JavaScript", "ESLint System", "ESLint Service", "ESLint Solution"]
+  },
+  {
+    "question": "Quel est le rôle de ESLint ?",
+    "reponses": ["Analyser le code JavaScript", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Prettier ?",
+    "reponses": ["Formateur de code", "Prettier System", "Prettier Service", "Prettier Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Prettier ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Black ?",
+    "reponses": ["Formateur de code Python", "Black System", "Black Service", "Black Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Black ?",
+    "reponses": ["Formater le code Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Pyright ?",
+    "reponses": ["Vérificateur de types Python", "Pyright System", "Pyright Service", "Pyright Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Pyright ?",
+    "reponses": ["Python", "JavaScript", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Mypy ?",
+    "reponses": ["Vérificateur de types Python", "Mypy System", "Mypy Service", "Mypy Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Mypy ?",
+    "reponses": ["Vérifier les types Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Ruff ?",
+    "reponses": ["Linter Python rapide", "Ruff System", "Ruff Service", "Ruff Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Ruff ?",
+    "reponses": ["Rust", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Pytest ?",
+    "reponses": ["Framework de tests Python", "Pytest System", "Pytest Service", "Pytest Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Pytest ?",
+    "reponses": ["Tester les applications Python", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Unittest ?",
+    "reponses": ["Module de tests Python", "Unittest System", "Unittest Service", "Unittest Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Unittest ?",
+    "reponses": ["Python", "JavaScript", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Jest ?",
+    "reponses": ["Framework de tests JavaScript", "Jest System", "Jest Service", "Jest Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Jest ?",
+    "reponses": ["Tester les applications JavaScript", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Mocha ?",
+    "reponses": ["Framework de tests JavaScript", "Mocha System", "Mocha Service", "Mocha Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Mocha ?",
+    "reponses": ["JavaScript", "TypeScript", "Python", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Chai ?",
+    "reponses": ["Bibliothèque d'assertions JavaScript", "Chai System", "Chai Service", "Chai Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Chai ?",
+    "reponses": ["Assertions pour les tests", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Sinon.js ?",
+    "reponses": ["Bibliothèque de tests JavaScript", "Sinon.js System", "Sinon.js Service", "Sinon.js Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Sinon.js ?",
+    "reponses": ["JavaScript", "TypeScript", "Python", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Cypress ?",
+    "reponses": ["Framework de tests end-to-end", "Cypress System", "Cypress Service", "Cypress Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Cypress ?",
+    "reponses": ["Tester les applications web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Playwright ?",
+    "reponses": ["Framework de tests end-to-end", "Playwright System", "Playwright Service", "Playwright Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Playwright ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Puppeteer ?",
+    "reponses": ["Framework de tests headless", "Puppeteer System", "Puppeteer Service", "Puppeteer Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Puppeteer ?",
+    "reponses": ["Tester les applications Chrome", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Selenium ?",
+    "reponses": ["Framework de tests automatisés", "Selenium System", "Selenium Service", "Selenium Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Selenium ?",
+    "reponses": ["Java", "Python", "JavaScript", "C#"]
+  },
+  {
+    "question": "Que signifie l'acronyme WebDriver ?",
+    "reponses": ["Protocole de test web", "WebDriver System", "WebDriver Service", "WebDriver Solution"]
+  },
+  {
+    "question": "Quel est le rôle de WebDriver ?",
+    "reponses": ["Automatiser les tests web", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme JUnit ?",
+    "reponses": ["Framework de tests Java", "JUnit System", "JUnit Service", "JUnit Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par JUnit ?",
+    "reponses": ["Java", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme TestNG ?",
+    "reponses": ["Framework de tests Java", "TestNG System", "TestNG Service", "TestNG Solution"]
+  },
+  {
+    "question": "Quel est le rôle de TestNG ?",
+    "reponses": ["Tester les applications Java", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Mockito ?",
+    "reponses": ["Framework de mock Java", "Mockito System", "Mockito Service", "Mockito Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Mockito ?",
+    "reponses": ["Java", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Cucumber ?",
+    "reponses": ["Framework de tests BDD", "Cucumber System", "Cucumber Service", "Cucumber Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Cucumber ?",
+    "reponses": ["Tester les applications", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Gherkin ?",
+    "reponses": ["Langage de description de tests", "Gherkin System", "Gherkin Service", "Gherkin Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Gherkin ?",
+    "reponses": ["Gherkin", "Python", "Java", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme Postman ?",
+    "reponses": ["Outil de test d'API", "Postman System", "Postman Service", "Postman Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Postman ?",
+    "reponses": ["Tester les API", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Insomnia ?",
+    "reponses": ["Outil de test d'API", "Insomnia System", "Insomnia Service", "Insomnia Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Insomnia ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Bruno ?",
+    "reponses": ["Outil de test d'API open source", "Bruno System", "Bruno Service", "Bruno Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Bruno ?",
+    "reponses": ["Tester les APIs", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Hoppscotch ?",
+    "reponses": ["Outil de test d'API", "Hoppscotch System", "Hoppscotch Service", "Hoppscotch Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Hoppscotch ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Swagger ?",
+    "reponses": ["Outil de documentation d'API", "Swagger System", "Swagger Service", "Swagger Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Swagger ?",
+    "reponses": ["Documenter les API REST", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme OpenAPI ?",
+    "reponses": ["Spécification d'API", "OpenAPI System", "OpenAPI Service", "OpenAPI Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par OpenAPI ?",
+    "reponses": ["YAML", "JSON", "Python", "Go"]
+  },
+  {
+    "question": "Que signifie l'acronyme AsyncAPI ?",
+    "reponses": ["Spécification d'API asynchrone", "AsyncAPI System", "AsyncAPI Service", "AsyncAPI Solution"]
+  },
+  {
+    "question": "Quel est le rôle de AsyncAPI ?",
+    "reponses": ["Documenter les APIs événementielles", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme gRPC Gateway ?",
+    "reponses": ["Passerelle gRPC", "gRPC Gateway System", "gRPC Gateway Service", "gRPC Gateway Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par gRPC Gateway ?",
+    "reponses": ["Go", "Python", "Java", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Twilio ?",
+    "reponses": ["API de communication", "Twilio System", "Twilio Service", "Twilio Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Twilio ?",
+    "reponses": ["API de SMS et téléphonie", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme SendGrid ?",
+    "reponses": ["API d'email", "SendGrid System", "SendGrid Service", "SendGrid Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par SendGrid ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Stripe ?",
+    "reponses": ["API de paiement", "Stripe System", "Stripe Service", "Stripe Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Stripe ?",
+    "reponses": ["Traiter les paiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme PayPal ?",
+    "reponses": ["API de paiement", "PayPal System", "PayPal Service", "PayPal Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par PayPal ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  },
+  {
+    "question": "Que signifie l'acronyme Square ?",
+    "reponses": ["API de paiement", "Square System", "Square Service", "Square Solution"]
+  },
+  {
+    "question": "Quel est le rôle de Square ?",
+    "reponses": ["Traiter les paiements", "Stocker les données", "Gérer les utilisateurs", "Sécuriser le système"]
+  },
+  {
+    "question": "Que signifie l'acronyme Adyen ?",
+    "reponses": ["API de paiement", "Adyen System", "Adyen Service", "Adyen Solution"]
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé par Adyen ?",
+    "reponses": ["JavaScript", "Python", "Go", "Ruby"]
+  }
+]
