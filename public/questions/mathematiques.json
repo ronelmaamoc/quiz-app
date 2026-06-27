@@ -1,0 +1,974 @@
+[
+  {
+    "question": "Combien font 15 × 8 ?",
+    "reponses": ["120", "110", "130", "105"]
+  },
+  {
+    "question": "Quel est le résultat de √144 ?",
+    "reponses": ["12", "11", "13", "14"]
+  },
+  {
+    "question": "Combien y a-t-il de côtés dans un hexagone ?",
+    "reponses": ["6", "5", "7", "8"]
+  },
+  {
+    "question": "Quel est le résultat de 2⁸ ?",
+    "reponses": ["256", "128", "512", "64"]
+  },
+  {
+    "question": "Quelle est la valeur de π arrondie à deux décimales ?",
+    "reponses": ["3.14", "3.12", "3.16", "3.18"]
+  },
+  {
+    "question": "Quel est le PGCD de 48 et 18 ?",
+    "reponses": ["6", "3", "9", "12"]
+  },
+  {
+    "question": "Combien font 25% de 200 ?",
+    "reponses": ["50", "40", "60", "75"]
+  },
+  {
+    "question": "Quelle est la somme des angles d'un triangle ?",
+    "reponses": ["180°", "90°", "270°", "360°"]
+  },
+  {
+    "question": "Quel est le nombre premier suivant 17 ?",
+    "reponses": ["19", "18", "20", "21"]
+  },
+  {
+    "question": "Combien font 3/4 + 1/2 ?",
+    "reponses": ["5/4", "4/6", "7/8", "1/4"]
+  },
+  {
+    "question": "Quel est le théorème qui relie les côtés d'un triangle rectangle ?",
+    "reponses": ["Théorème de Pythagore", "Théorème de Thalès", "Théorème des milieux", "Théorème d'Al-Kashi"]
+  },
+  {
+    "question": "Combien de degrés fait un angle droit ?",
+    "reponses": ["90°", "180°", "45°", "60°"]
+  },
+  {
+    "question": "Quelle est la racine carrée de 81 ?",
+    "reponses": ["9", "8", "7", "10"]
+  },
+  {
+    "question": "Quelle est la propriété des angles opposés par le sommet ?",
+    "reponses": ["Ils sont égaux", "Ils sont supplémentaires", "Ils sont complémentaires", "Ils sont opposés"]
+  },
+  {
+    "question": "Quel est le plus petit nombre premier ?",
+    "reponses": ["2", "1", "3", "5"]
+  },
+  {
+    "question": "Que vaut la dérivée de x² ?",
+    "reponses": ["2x", "x", "2x²", "x²"]
+  },
+  {
+    "question": "Quelle est la médiane de 3, 7, 9, 12, 15 ?",
+    "reponses": ["9", "7", "12", "10"]
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un cercle ?",
+    "reponses": ["πr²", "2πr", "πd", "πr"]
+  },
+  {
+    "question": "Quel est le périmètre d'un carré de côté 5 cm ?",
+    "reponses": ["20 cm", "25 cm", "15 cm", "10 cm"]
+  },
+  {
+    "question": "Combien de secondes y a-t-il dans une heure ?",
+    "reponses": ["3600", "360", "60", "600"]
+  },
+  {
+    "question": "Quelle est la moyenne de 5, 10, 15, 20 ?",
+    "reponses": ["12.5", "10", "15", "20"]
+  },
+  {
+    "question": "Que dit le théorème de Thalès ?",
+    "reponses": ["Des droites parallèles coupent des sécantes en segments proportionnels", "La somme des angles d'un triangle est 180°", "Le carré de l'hypoténuse est égal à la somme des carrés des autres côtés", "Deux triangles sont égaux si leurs côtés sont égaux"]
+  },
+  {
+    "question": "Quel est le volume d'un cube de côté 3 cm ?",
+    "reponses": ["27 cm³", "9 cm³", "18 cm³", "36 cm³"]
+  },
+  {
+    "question": "Quel est le plus grand diviseur commun de 36 et 54 ?",
+    "reponses": ["18", "12", "9", "6"]
+  },
+  {
+    "question": "Que vaut l'intégrale de x sur [0,1] ?",
+    "reponses": ["1/2", "1", "0", "2"]
+  },
+  {
+    "question": "Quelle est la probabilité d'obtenir pile en lançant une pièce ?",
+    "reponses": ["1/2", "1/4", "1/3", "1/6"]
+  },
+  {
+    "question": "Quelle est la nature d'un triangle ayant deux côtés égaux ?",
+    "reponses": ["Isocèle", "Équilatéral", "Rectangle", "Scalène"]
+  },
+  {
+    "question": "Combien de côtés a un dodécagone ?",
+    "reponses": ["12", "10", "8", "14"]
+  },
+  {
+    "question": "Quelle est l'aire d'un rectangle de 4 cm par 6 cm ?",
+    "reponses": ["24 cm²", "20 cm²", "28 cm²", "32 cm²"]
+  },
+  {
+    "question": "Que vaut la limite de sin(x)/x quand x tend vers 0 ?",
+    "reponses": ["1", "0", "∞", "Indéterminée"]
+  },
+  {
+    "question": "Quelle est la somme des angles d'un quadrilatère ?",
+    "reponses": ["360°", "180°", "270°", "450°"]
+  },
+  {
+    "question": "Quel est le PPCM de 6 et 8 ?",
+    "reponses": ["24", "48", "12", "18"]
+  },
+  {
+    "question": "Quelle est la valeur de e approximativement ?",
+    "reponses": ["2.718", "3.141", "1.618", "2.303"]
+  },
+  {
+    "question": "Que sont des nombres premiers entre eux ?",
+    "reponses": ["Leur PGCD est 1", "Leur PPCM est 1", "Ils sont impairs", "Ils sont pairs"]
+  },
+  {
+    "question": "Combien de minutes dans une journée ?",
+    "reponses": ["1440", "3600", "24", "60"]
+  },
+  {
+    "question": "Quel est le théorème de Pythagore ?",
+    "reponses": ["a² + b² = c²", "a + b = c", "a² = b² + c²", "a = b = c"]
+  },
+  {
+    "question": "Quelle est la racine carrée de 121 ?",
+    "reponses": ["11", "12", "10", "13"]
+  },
+  {
+    "question": "Quel est le périmètre d'un cercle de rayon 3 cm ?",
+    "reponses": ["18.85 cm", "12.57 cm", "15.71 cm", "21.99 cm"]
+  },
+  {
+    "question": "Que sont les nombres rationnels ?",
+    "reponses": ["Des nombres pouvant s'écrire sous forme de fraction", "Des nombres décimaux", "Des nombres entiers", "Des nombres imaginaires"]
+  },
+  {
+    "question": "Quelle est la médiane de 2, 4, 6, 8, 10 ?",
+    "reponses": ["6", "4", "8", "5"]
+  },
+  {
+    "question": "Quel est le nombre de combinaisons de 2 éléments parmi 4 ?",
+    "reponses": ["6", "4", "12", "8"]
+  },
+  {
+    "question": "Quelle est l'aire d'un triangle de base 8 cm et hauteur 5 cm ?",
+    "reponses": ["20 cm²", "40 cm²", "16 cm²", "24 cm²"]
+  },
+  {
+    "question": "Que dit le théorème des milieux ?",
+    "reponses": ["Le segment joignant les milieux de deux côtés est parallèle au troisième et vaut sa moitié", "Les milieux forment un rectangle", "Les milieux sont alignés", "Le segment vaut le tiers du troisième côté"]
+  },
+  {
+    "question": "Quelle est la probabilité de tirer un roi dans un jeu de 52 cartes ?",
+    "reponses": ["4/52", "1/13", "1/52", "4/13"]
+  },
+  {
+    "question": "Que vaut cos²(x) + sin²(x) ?",
+    "reponses": ["1", "0", "-1", "cos(2x)"]
+  },
+  {
+    "question": "Quelle est la distance entre (0,0) et (3,4) ?",
+    "reponses": ["5", "7", "12", "25"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction bijective ?",
+    "reponses": ["Une fonction qui est à la fois injective et surjective", "Une fonction qui n'est pas injective", "Une fonction qui n'est pas surjective", "Une fonction constante"]
+  },
+  {
+    "question": "Quel est le plus petit multiple commun de 4 et 6 ?",
+    "reponses": ["12", "24", "36", "48"]
+  },
+  {
+    "question": "Quelle est la somme des nombres de 1 à 10 ?",
+    "reponses": ["55", "45", "50", "60"]
+  },
+  {
+    "question": "Qu'est-ce qu'une suite arithmétique ?",
+    "reponses": ["Une suite où la différence entre deux termes consécutifs est constante", "Une suite où le rapport est constant", "Une suite alternée", "Une suite de nombres premiers"]
+  },
+  {
+    "question": "Quel est le volume d'une sphère de rayon 2 cm ?",
+    "reponses": ["33.51 cm³", "25.13 cm³", "50.27 cm³", "16.76 cm³"]
+  },
+  {
+    "question": "Quelle est la racine cubique de 8 ?",
+    "reponses": ["2", "4", "6", "3"]
+  },
+  {
+    "question": "Qu'est-ce qu'un nombre irrationnel ?",
+    "reponses": ["Un nombre qui ne peut pas s'écrire comme fraction", "Un nombre complexe", "Un nombre négatif", "Un nombre premier"]
+  },
+  {
+    "question": "Que vaut la dérivée de ln(x) ?",
+    "reponses": ["1/x", "x", "ln(x)", "1/ln(x)"]
+  },
+  {
+    "question": "Quelle est la moyenne de 10, 20, 30, 40, 50 ?",
+    "reponses": ["30", "25", "35", "40"]
+  },
+  {
+    "question": "Quelle est la longueur d'un cercle de rayon 5 cm ?",
+    "reponses": ["31.42 cm", "15.71 cm", "25.13 cm", "39.27 cm"]
+  },
+  {
+    "question": "Que sont des angles complémentaires ?",
+    "reponses": ["Leur somme est 90°", "Leur somme est 180°", "Ils sont égaux", "Leur somme est 360°"]
+  },
+  {
+    "question": "Quel est le résultat de 72 ÷ 8 ?",
+    "reponses": ["9", "8", "10", "7"]
+  },
+  {
+    "question": "Combien de degrés dans un angle plat ?",
+    "reponses": ["180°", "90°", "270°", "360°"]
+  },
+  {
+    "question": "Quelle est l'aire d'un cercle de rayon 4 cm ?",
+    "reponses": ["50.27 cm²", "25.13 cm²", "75.40 cm²", "100.53 cm²"]
+  },
+  {
+    "question": "Que dit le théorème d'Al-Kashi ?",
+    "reponses": ["a² = b² + c² - 2bc.cos(A)", "a + b = c", "a² + b² = c²", "a = b = c"]
+  },
+  {
+    "question": "Combien de combinaisons pour 3 objets parmi 5 ?",
+    "reponses": ["10", "20", "15", "5"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(90°) ?",
+    "reponses": ["1", "0", "0.5", "-1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une matrice diagonale ?",
+    "reponses": ["Une matrice carrée avec des zéros hors diagonale", "Une matrice rectangulaire", "Une matrice avec des 1 sur la diagonale", "Une matrice symétrique"]
+  },
+  {
+    "question": "Quel est le périmètre d'un triangle équilatéral de côté 6 cm ?",
+    "reponses": ["18 cm", "12 cm", "24 cm", "36 cm"]
+  },
+  {
+    "question": "Quelle est la probabilité d'obtenir un 6 avec un dé ?",
+    "reponses": ["1/6", "1/3", "1/2", "1/4"]
+  },
+  {
+    "question": "Que vaut l'intégrale de 1/x dx ?",
+    "reponses": ["ln|x| + C", "1/x² + C", "x ln|x| + C", "ln(x²) + C"]
+  },
+  {
+    "question": "Quel est le PPCM de 3, 4 et 6 ?",
+    "reponses": ["12", "24", "36", "48"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(60°) ?",
+    "reponses": ["0.5", "1", "0", "0.866"]
+  },
+  {
+    "question": "Quel est le nombre de permutations de 4 objets ?",
+    "reponses": ["24", "12", "6", "4"]
+  },
+  {
+    "question": "Qu'est-ce qu'une suite convergente ?",
+    "reponses": ["Une suite qui admet une limite finie", "Une suite qui diverge", "Une suite alternée", "Une suite périodique"]
+  },
+  {
+    "question": "Quelle est la distance entre (1,1) et (4,5) ?",
+    "reponses": ["5", "4", "6", "3"]
+  },
+  {
+    "question": "Quelle est l'aire d'un trapèze de bases 4 et 6 cm et hauteur 3 cm ?",
+    "reponses": ["15 cm²", "12 cm²", "18 cm²", "24 cm²"]
+  },
+  {
+    "question": "Que sont les nombres complexes ?",
+    "reponses": ["Des nombres de la forme a + bi", "Des nombres imaginaires purs", "Des nombres entiers", "Des nombres rationnels"]
+  },
+  {
+    "question": "Quel est le PGCD de 60 et 84 ?",
+    "reponses": ["12", "6", "24", "18"]
+  },
+  {
+    "question": "Quelle est la valeur de tan(45°) ?",
+    "reponses": ["1", "0", "0.5", "-1"]
+  },
+  {
+    "question": "Qu'est-ce qu'un plan dans l'espace ?",
+    "reponses": ["Une surface plane infinie", "Un point", "Une ligne droite", "Un volume"]
+  },
+  {
+    "question": "Quel est le nombre premier suivant 31 ?",
+    "reponses": ["37", "33", "35", "41"]
+  },
+  {
+    "question": "Quelle est la surface d'un carré de côté 7 cm ?",
+    "reponses": ["49 cm²", "28 cm²", "56 cm²", "42 cm²"]
+  },
+  {
+    "question": "Que vaut la dérivée de e^x ?",
+    "reponses": ["e^x", "x.e^x", "e^x/x", "ln(e^x)"]
+  },
+  {
+    "question": "Combien de combinaisons pour 2 cartes parmi 5 ?",
+    "reponses": ["10", "20", "15", "5"]
+  },
+  {
+    "question": "Quelle est la moyenne de 3, 5, 7, 9, 11 ?",
+    "reponses": ["7", "6", "8", "5"]
+  },
+  {
+    "question": "Qu'est-ce que la loi des grands nombres ?",
+    "reponses": ["La moyenne empirique converge vers l'espérance", "Les grands nombres sont premiers", "La somme de grands nombres est nulle", "Les nombres deviennent grands"]
+  },
+  {
+    "question": "Quel est le périmètre d'un rectangle de 5 cm par 8 cm ?",
+    "reponses": ["26 cm", "40 cm", "30 cm", "20 cm"]
+  },
+  {
+    "question": "Quelle est la valeur de √256 ?",
+    "reponses": ["16", "14", "15", "17"]
+  },
+  {
+    "question": "Qu'est-ce qu'une homothétie ?",
+    "reponses": ["Une transformation qui agrandit ou réduit", "Une rotation", "Une translation", "Une réflexion"]
+  },
+  {
+    "question": "Combien de degrés dans un angle plein ?",
+    "reponses": ["360°", "180°", "270°", "450°"]
+  },
+  {
+    "question": "Quelle est la probabilité d'obtenir une tête en lançant 2 pièces ?",
+    "reponses": ["1/4", "1/2", "3/4", "1/3"]
+  },
+  {
+    "question": "Que vaut le déterminant d'une matrice 2x2 [[a,b],[c,d]] ?",
+    "reponses": ["ad - bc", "ab + cd", "ac - bd", "ad + bc"]
+  },
+  {
+    "question": "Quel est le PPCM de 8 et 12 ?",
+    "reponses": ["24", "48", "16", "36"]
+  },
+  {
+    "question": "Quelle est l'aire d'un parallélogramme de base 6 cm et hauteur 4 cm ?",
+    "reponses": ["24 cm²", "20 cm²", "28 cm²", "32 cm²"]
+  },
+  {
+    "question": "Qu'est-ce que l'ordre d'une matrice ?",
+    "reponses": ["Le nombre de lignes et de colonnes", "La somme des éléments", "Le déterminant", "La trace"]
+  },
+  {
+    "question": "Quel est le nombre de diviseurs de 36 ?",
+    "reponses": ["9", "6", "12", "8"]
+  },
+  {
+    "question": "Quelle est la valeur de log₁₀(1000) ?",
+    "reponses": ["3", "2", "4", "5"]
+  },
+  {
+    "question": "Que sont les angles alternes-internes ?",
+    "reponses": ["Des angles égaux formés par une sécante", "Des angles supplémentaires", "Des angles droits", "Des angles obtus"]
+  },
+  {
+    "question": "Combien de zéros dans un milliard ?",
+    "reponses": ["9", "6", "8", "7"]
+  },
+  {
+    "question": "Quelle est la médiane de 1, 3, 5, 7, 9, 11 ?",
+    "reponses": ["6", "5", "7", "8"]
+  },
+  {
+    "question": "Qu'est-ce que l'espérance mathématique ?",
+    "reponses": ["La moyenne pondérée d'une variable aléatoire", "La valeur la plus probable", "La médiane", "La variance"]
+  },
+  {
+    "question": "Quel est le périmètre d'un losange de côté 4 cm ?",
+    "reponses": ["16 cm", "8 cm", "20 cm", "12 cm"]
+  },
+  {
+    "question": "Quelle est la probabilité de tirer un as dans un jeu de 52 cartes ?",
+    "reponses": ["4/52", "1/13", "1/52", "4/13"]
+  },
+  {
+    "question": "Que vaut la dérivée de sin(x) ?",
+    "reponses": ["cos(x)", "-sin(x)", "sin(x)", "-cos(x)"]
+  },
+  {
+    "question": "Combien de côtés a un heptagone ?",
+    "reponses": ["7", "6", "8", "5"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(30°) ?",
+    "reponses": ["√3/2", "1/2", "√2/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une translation ?",
+    "reponses": ["Un déplacement sans rotation ni déformation", "Une rotation", "Une symétrie", "Un agrandissement"]
+  },
+  {
+    "question": "Quel est le PGCD de 42 et 56 ?",
+    "reponses": ["14", "7", "21", "28"]
+  },
+  {
+    "question": "Quelle est l'aire d'un cercle de diamètre 6 cm ?",
+    "reponses": ["28.27 cm²", "18.85 cm²", "37.70 cm²", "56.55 cm²"]
+  },
+  {
+    "question": "Que sont les nombres transcendants ?",
+    "reponses": ["Des nombres irrationnels non algébriques", "Des nombres complexes", "Des nombres entiers", "Des nombres premiers"]
+  },
+  {
+    "question": "Combien de combinaisons pour 3 cartes parmi 7 ?",
+    "reponses": ["35", "21", "42", "56"]
+  },
+  {
+    "question": "Quelle est la valeur de tan(60°) ?",
+    "reponses": ["√3", "1", "√3/3", "2"]
+  },
+  {
+    "question": "Qu'est-ce qu'une rotation en géométrie ?",
+    "reponses": ["Une transformation qui fait tourner autour d'un point", "Une transformation qui agrandit", "Une transformation qui réduit", "Une transformation qui déplace"]
+  },
+  {
+    "question": "Quel est le PPCM de 5 et 7 ?",
+    "reponses": ["35", "70", "42", "28"]
+  },
+  {
+    "question": "Quelle est la probabilité d'obtenir un nombre pair avec un dé ?",
+    "reponses": ["1/2", "1/3", "2/3", "1/6"]
+  },
+  {
+    "question": "Que vaut la dérivée de cos(x) ?",
+    "reponses": ["-sin(x)", "sin(x)", "-cos(x)", "cos(x)"]
+  },
+  {
+    "question": "Combien de degrés dans un angle aigu ?",
+    "reponses": ["Moins de 90°", "90°", "Plus de 90°", "180°"]
+  },
+  {
+    "question": "Quelle est l'aire d'un triangle rectangle avec des côtés de 3 et 4 cm ?",
+    "reponses": ["6 cm²", "12 cm²", "7 cm²", "5 cm²"]
+  },
+  {
+    "question": "Qu'est-ce que la variance ?",
+    "reponses": ["La moyenne des carrés des écarts", "La moyenne simple", "La médiane", "L'écart-type"]
+  },
+  {
+    "question": "Quel est le nombre de diviseurs de 24 ?",
+    "reponses": ["8", "6", "12", "10"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(60°) ?",
+    "reponses": ["√3/2", "1/2", "√2/2", "1"]
+  },
+  {
+    "question": "Que sont les nombres algébriques ?",
+    "reponses": ["Des nombres qui sont solutions d'une équation polynomiale", "Des nombres complexes", "Des nombres entiers", "Des nombres premiers"]
+  },
+  {
+    "question": "Quel est le périmètre d'un pentagone régulier de côté 4 cm ?",
+    "reponses": ["20 cm", "16 cm", "24 cm", "18 cm"]
+  },
+  {
+    "question": "Qu'est-ce que la fonction exponentielle ?",
+    "reponses": ["f(x) = e^x", "f(x) = x²", "f(x) = ln(x)", "f(x) = sin(x)"]
+  },
+  {
+    "question": "Combien font 2^10 ?",
+    "reponses": ["1024", "512", "256", "2048"]
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un triangle ?",
+    "reponses": ["(base × hauteur)/2", "base × hauteur", "côté²", "πr²"]
+  },
+  {
+    "question": "Que dit le théorème de la médiane ?",
+    "reponses": ["La médiane relie un sommet au milieu du côté opposé", "La médiane est perpendiculaire", "La médiane est la hauteur", "La médiane est la bissectrice"]
+  },
+  {
+    "question": "Qu'est-ce que l'écart-type ?",
+    "reponses": ["La racine carrée de la variance", "La moyenne", "La médiane", "Le maximum"]
+  },
+  {
+    "question": "Quelle est la valeur de log₂(8) ?",
+    "reponses": ["3", "2", "4", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction continue ?",
+    "reponses": ["Une fonction sans saut ni rupture", "Une fonction avec des discontinuités", "Une fonction constante", "Une fonction périodique"]
+  },
+  {
+    "question": "Quelle est la nature d'un triangle ayant trois côtés égaux ?",
+    "reponses": ["Équilatéral", "Isocèle", "Rectangle", "Scalène"]
+  },
+  {
+    "question": "Que vaut la dérivée de tan(x) ?",
+    "reponses": ["sec²(x)", "cos²(x)", "sin²(x)", "1/cos(x)"]
+  },
+  {
+    "question": "Qu'est-ce que la fonction logarithme népérien ?",
+    "reponses": ["f(x) = ln(x)", "f(x) = log₁₀(x)", "f(x) = e^x", "f(x) = x"]
+  },
+  {
+    "question": "Quelle est la somme des angles d'un pentagone ?",
+    "reponses": ["540°", "360°", "180°", "720°"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction périodique ?",
+    "reponses": ["Une fonction qui se répète", "Une fonction continue", "Une fonction constante", "Une fonction linéaire"]
+  },
+  {
+    "question": "Quel est le nombre de combinaisons pour 4 objets parmi 6 ?",
+    "reponses": ["15", "20", "24", "30"]
+  },
+  {
+    "question": "Que vaut la limite de (1+1/n)^n quand n tend vers ∞ ?",
+    "reponses": ["e", "1", "∞", "0"]
+  },
+  {
+    "question": "Qu'est-ce qu'une isométrie ?",
+    "reponses": ["Une transformation qui conserve les distances", "Une transformation qui change les distances", "Une transformation qui agrandit", "Une transformation qui réduit"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(0°) ?",
+    "reponses": ["1", "0", "-1", "0.5"]
+  },
+  {
+    "question": "Que sont les nombres décimaux périodiques ?",
+    "reponses": ["Des nombres avec une suite de chiffres qui se répète", "Des nombres entiers", "Des nombres premiers", "Des nombres complexes"]
+  },
+  {
+    "question": "Quel est le PPCM de 9 et 12 ?",
+    "reponses": ["36", "72", "108", "48"]
+  },
+  {
+    "question": "Qu'est-ce que la réflexion en géométrie ?",
+    "reponses": ["Le symétrique d'une figure par rapport à un axe", "Une rotation", "Une translation", "Une homothétie"]
+  },
+  {
+    "question": "Que vaut la dérivée de x^n ?",
+    "reponses": ["nx^(n-1)", "x^(n-1)", "n^x", "x^n"]
+  },
+  {
+    "question": "Quelle est l'aire d'un disque de rayon 3 cm ?",
+    "reponses": ["28.27 cm²", "18.85 cm²", "37.70 cm²", "56.55 cm²"]
+  },
+  {
+    "question": "Qu'est-ce que la loi binomiale ?",
+    "reponses": ["Une loi de probabilité discrète pour des essais indépendants", "Une loi continue", "Une loi uniforme", "Une loi normale"]
+  },
+  {
+    "question": "Quel est le PGCD de 72 et 108 ?",
+    "reponses": ["36", "18", "24", "12"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(45°) ?",
+    "reponses": ["√2/2", "1/2", "√3/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction dérivable ?",
+    "reponses": ["Une fonction qui admet une dérivée en tout point", "Une fonction continue", "Une fonction constante", "Une fonction périodique"]
+  },
+  {
+    "question": "Combien de sommets a un cube ?",
+    "reponses": ["8", "6", "12", "4"]
+  },
+  {
+    "question": "Quelle est la formule de la longueur d'un arc de cercle ?",
+    "reponses": ["rθ", "2πr", "πr²", "r/θ"]
+  },
+  {
+    "question": "Que vaut l'intégrale de cos(x) dx ?",
+    "reponses": ["sin(x) + C", "-sin(x) + C", "cos(x) + C", "-cos(x) + C"]
+  },
+  {
+    "question": "Qu'est-ce que la trace d'une matrice ?",
+    "reponses": ["La somme des éléments diagonaux", "Le produit des éléments diagonaux", "Le déterminant", "La transposée"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(π) ?",
+    "reponses": ["-1", "1", "0", "0.5"]
+  },
+  {
+    "question": "Qu'est-ce que le nombre d'or ?",
+    "reponses": ["(1+√5)/2 ≈ 1.618", "(1+√3)/2", "(√5-1)/2", "π/2"]
+  },
+  {
+    "question": "Quelle est la nature d'un triangle avec un angle de 90° ?",
+    "reponses": ["Rectangle", "Isocèle", "Équilatéral", "Obtus"]
+  },
+  {
+    "question": "Que vaut la dérivée de ln(x²) ?",
+    "reponses": ["2/x", "1/x", "2x", "2ln(x)"]
+  },
+  {
+    "question": "Qu'est-ce que la médiatrice ?",
+    "reponses": ["La droite perpendiculaire à un segment en son milieu", "La bissectrice", "La hauteur", "La médiane"]
+  },
+  {
+    "question": "Quelle est la probabilité de tirer une carte rouge dans un jeu de 52 cartes ?",
+    "reponses": ["26/52", "13/52", "1/2", "1/4"]
+  },
+  {
+    "question": "Qu'est-ce que le barycentre ?",
+    "reponses": ["Le centre de gravité d'un système", "Le centre d'un cercle", "Le milieu d'un segment", "L'orthocentre"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(π/2) ?",
+    "reponses": ["1", "0", "-1", "0.5"]
+  },
+  {
+    "question": "Que sont les droites parallèles ?",
+    "reponses": ["Des droites qui ne se coupent jamais", "Des droites qui se coupent à angle droit", "Des droites qui se coupent", "Des droites confondues"]
+  },
+  {
+    "question": "Quel est le volume d'une pyramide à base carrée de côté 4 cm et hauteur 6 cm ?",
+    "reponses": ["32 cm³", "96 cm³", "48 cm³", "24 cm³"]
+  },
+  {
+    "question": "Qu'est-ce qu'une suite géométrique ?",
+    "reponses": ["Une suite où le rapport entre termes consécutifs est constant", "Une suite où la différence est constante", "Une suite alternée", "Une suite décroissante"]
+  },
+  {
+    "question": "Que vaut l'intégrale de sin(x) dx ?",
+    "reponses": ["-cos(x) + C", "cos(x) + C", "sin(x) + C", "-sin(x) + C"]
+  },
+  {
+    "question": "Quelle est la valeur de log₃(9) ?",
+    "reponses": ["2", "3", "1", "4"]
+  },
+  {
+    "question": "Qu'est-ce que la bissectrice ?",
+    "reponses": ["La droite qui coupe un angle en deux angles égaux", "La médiatrice", "La hauteur", "La médiane"]
+  },
+  {
+    "question": "Quelle est la somme des angles d'un hexagone ?",
+    "reponses": ["720°", "360°", "540°", "900°"]
+  },
+  {
+    "question": "Qu'est-ce que l'algèbre de Boole ?",
+    "reponses": ["Une algèbre sur {0,1} avec les opérations ET, OU, NON", "Une algèbre linéaire", "Une algèbre complexe", "Une algèbre matricielle"]
+  },
+  {
+    "question": "Que vaut la dérivée de arctan(x) ?",
+    "reponses": ["1/(1+x²)", "1/(1-x²)", "x/(1+x²)", "1/√(1-x²)"]
+  },
+  {
+    "question": "Quelle est l'aire d'une sphère de rayon 3 cm ?",
+    "reponses": ["113.10 cm²", "75.40 cm²", "150.80 cm²", "37.70 cm²"]
+  },
+  {
+    "question": "Qu'est-ce que la convolution ?",
+    "reponses": ["Une opération sur des fonctions", "Une transformation géométrique", "Une matrice", "Un nombre complexe"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(π/3) ?",
+    "reponses": ["0.5", "√3/2", "√2/2", "1"]
+  },
+  {
+    "question": "Que sont les droites perpendiculaires ?",
+    "reponses": ["Des droites qui se coupent à angle droit", "Des droites parallèles", "Des droites qui se coupent", "Des droites confondues"]
+  },
+  {
+    "question": "Quel est le volume d'un cône de rayon 3 cm et hauteur 4 cm ?",
+    "reponses": ["37.70 cm³", "75.40 cm³", "56.55 cm³", "28.27 cm³"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Fermat ?",
+    "reponses": ["a^n + b^n = c^n n'a pas de solution entière pour n>2", "Le dernier théorème de Fermat", "Le petit théorème de Fermat", "Toutes ces réponses"]
+  },
+  {
+    "question": "Que vaut la dérivée de arcsin(x) ?",
+    "reponses": ["1/√(1-x²)", "1/(1+x²)", "x/√(1-x²)", "1/(1-x²)"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(π/6) ?",
+    "reponses": ["1/2", "√3/2", "√2/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'un nombre réel ?",
+    "reponses": ["Un nombre qui peut être représenté sur la droite numérique", "Un nombre entier", "Un nombre rationnel", "Un nombre complexe"]
+  },
+  {
+    "question": "Quel est le périmètre d'un demi-cercle de rayon 5 cm ?",
+    "reponses": ["15.71 cm", "25.71 cm", "31.42 cm", "10 cm"]
+  },
+  {
+    "question": "Que vaut l'intégrale de e^x dx ?",
+    "reponses": ["e^x + C", "x.e^x + C", "e^x/x + C", "ln(e^x) + C"]
+  },
+  {
+    "question": "Quelle est la valeur de tan(π/4) ?",
+    "reponses": ["1", "√3", "1/√3", "0"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de la valeur intermédiaire ?",
+    "reponses": ["Une fonction continue prend toutes les valeurs entre f(a) et f(b)", "Une fonction dérivable prend toutes les valeurs", "Une fonction monotone prend toutes les valeurs", "Une fonction périodique prend toutes les valeurs"]
+  },
+  {
+    "question": "Combien d'arêtes a un prisme hexagonal ?",
+    "reponses": ["18", "12", "24", "36"]
+  },
+  {
+    "question": "Quelle est la somme des nombres impairs de 1 à 99 ?",
+    "reponses": ["2500", "5000", "10000", "4950"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Rolle ?",
+    "reponses": ["Si f(a)=f(b), il existe c tel que f'(c)=0", "Si f est continue, il existe c tel que f'(c)=0", "Si f est dérivable, il existe c tel que f'(c)=0", "Toutes les réponses"]
+  },
+  {
+    "question": "Que vaut la dérivée de arccos(x) ?",
+    "reponses": ["-1/√(1-x²)", "1/√(1-x²)", "-1/(1+x²)", "1/(1+x²)"]
+  },
+  {
+    "question": "Quelle est la valeur de log₂(16) ?",
+    "reponses": ["4", "2", "3", "5"]
+  },
+  {
+    "question": "Qu'est-ce que la transposée d'une matrice ?",
+    "reponses": ["Les lignes deviennent des colonnes", "Les éléments deviennent leurs inverses", "La matrice est symétrique", "La matrice est diagonale"]
+  },
+  {
+    "question": "Quel est le volume d'un cylindre de rayon 2 cm et hauteur 5 cm ?",
+    "reponses": ["62.83 cm³", "31.42 cm³", "94.25 cm³", "78.54 cm³"]
+  },
+  {
+    "question": "Que vaut l'intégrale de 1/(x+1) dx ?",
+    "reponses": ["ln|x+1| + C", "1/(x+1)² + C", "ln|x| + C", "x/(x+1) + C"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(π/4) ?",
+    "reponses": ["√2/2", "1/2", "√3/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Taylor ?",
+    "reponses": ["Le développement en série d'une fonction", "Le théorème de la valeur moyenne", "Le théorème de Rolle", "Le théorème de Fermat"]
+  },
+  {
+    "question": "Quelle est la surface d'un triangle isocèle de base 6 cm et hauteur 4 cm ?",
+    "reponses": ["12 cm²", "24 cm²", "18 cm²", "30 cm²"]
+  },
+  {
+    "question": "Que vaut la dérivée de arcsec(x) ?",
+    "reponses": ["1/(|x|√(x²-1))", "1/(x√(x²-1))", "1/√(x²-1)", "x/√(x²-1)"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Bezout ?",
+    "reponses": ["Le PGCD de deux nombres est combinaison linéaire", "Le PPCM de deux nombres est combinaison linéaire", "La somme de deux nombres est combinaison linéaire", "Le produit de deux nombres est combinaison linéaire"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(π/3) ?",
+    "reponses": ["√3/2", "1/2", "√2/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction polynomiale ?",
+    "reponses": ["Une somme de termes de la forme a_n x^n", "Une fonction exponentielle", "Une fonction trigonométrique", "Une fonction logarithmique"]
+  },
+  {
+    "question": "Combien de faces a un octaèdre ?",
+    "reponses": ["8", "6", "12", "4"]
+  },
+  {
+    "question": "Que vaut l'intégrale de tan(x) dx ?",
+    "reponses": ["-ln|cos(x)| + C", "ln|sin(x)| + C", "sec²(x) + C", "ln|sec(x)| + C"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Stokes ?",
+    "reponses": ["Un théorème d'analyse vectorielle", "Un théorème d'algèbre", "Un théorème de géométrie", "Un théorème de probabilité"]
+  },
+  {
+    "question": "Quelle est la valeur de cot(45°) ?",
+    "reponses": ["1", "√3", "1/√3", "0"]
+  },
+  {
+    "question": "Qu'est-ce que la méthode de Newton ?",
+    "reponses": ["Une méthode de résolution d'équations", "Une méthode d'intégration", "Une méthode de dérivation", "Une méthode d'approximation"]
+  },
+  {
+    "question": "Quelle est la somme des angles d'un octogone ?",
+    "reponses": ["1080°", "720°", "900°", "1440°"]
+  },
+  {
+    "question": "Que vaut la dérivée de csc(x) ?",
+    "reponses": ["-csc(x)cot(x)", "csc(x)cot(x)", "-sec(x)tan(x)", "sec(x)tan(x)"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Weierstrass ?",
+    "reponses": ["Toute fonction continue sur un compact est bornée", "Toute fonction dérivable est continue", "Toute fonction continue est dérivable", "Toute fonction bornée est continue"]
+  },
+  {
+    "question": "Quelle est la valeur de sec(60°) ?",
+    "reponses": ["2", "1/2", "√3", "2/√3"]
+  },
+  {
+    "question": "Qu'est-ce qu'une distribution en probabilités ?",
+    "reponses": ["La loi de probabilité d'une variable aléatoire", "Une fonction continue", "Une suite numérique", "Une matrice"]
+  },
+  {
+    "question": "Quelle est l'aire d'un hexagone régulier de côté 4 cm ?",
+    "reponses": ["41.57 cm²", "24 cm²", "48 cm²", "36 cm²"]
+  },
+  {
+    "question": "Que vaut l'intégrale de sec²(x) dx ?",
+    "reponses": ["tan(x) + C", "sec(x) + C", "ln|sec(x)| + C", "sin(x)/cos(x) + C"]
+  },
+  {
+    "question": "Qu'est-ce que la matrice identité ?",
+    "reponses": ["Une matrice carrée avec des 1 sur la diagonale", "Une matrice avec des zéros", "Une matrice avec des 1 partout", "Une matrice avec des -1 sur la diagonale"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(π/6) ?",
+    "reponses": ["√3/2", "1/2", "√2/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de Gauss ?",
+    "reponses": ["Le théorème fondamental de l'algèbre", "Le théorème de la divergence", "Le théorème de la moyenne", "Le théorème de Gauss-Bonnet"]
+  },
+  {
+    "question": "Combien d'arêtes a un tétraèdre ?",
+    "reponses": ["6", "4", "8", "12"]
+  },
+  {
+    "question": "Que vaut la dérivée de cot(x) ?",
+    "reponses": ["-csc²(x)", "sec²(x)", "-sec²(x)", "csc²(x)"]
+  },
+  {
+    "question": "Qu'est-ce que la transformée de Fourier ?",
+    "reponses": ["Une transformation intégrale", "Une transformation algébrique", "Une transformation géométrique", "Une transformation probabiliste"]
+  },
+  {
+    "question": "Quelle est la valeur de tan(π/6) ?",
+    "reponses": ["1/√3", "√3", "1", "√3/3"]
+  },
+  {
+    "question": "Qu'est-ce que le gradient d'une fonction ?",
+    "reponses": ["Le vecteur des dérivées partielles", "La dérivée", "L'intégrale", "La limite"]
+  },
+  {
+    "question": "Quelle est la surface d'un rectangle de longueur 8 cm et largeur 3 cm ?",
+    "reponses": ["24 cm²", "22 cm²", "26 cm²", "28 cm²"]
+  },
+  {
+    "question": "Que vaut l'intégrale de csc²(x) dx ?",
+    "reponses": ["-cot(x) + C", "cot(x) + C", "-tan(x) + C", "tan(x) + C"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème du viriel ?",
+    "reponses": ["Un théorème de mécanique classique", "Un théorème de thermodynamique", "Un théorème de statistique", "Un théorème de relativité"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(π/4) ?",
+    "reponses": ["√2/2", "1/2", "√3/2", "1"]
+  },
+  {
+    "question": "Qu'est-ce qu'une fonction holomorphe ?",
+    "reponses": ["Une fonction complexe dérivable", "Une fonction réelle dérivable", "Une fonction continue", "Une fonction polynomiale"]
+  },
+  {
+    "question": "Combien de sommets a un icosaèdre ?",
+    "reponses": ["12", "8", "20", "30"]
+  },
+  {
+    "question": "Que vaut la dérivée de sec(x) ?",
+    "reponses": ["sec(x)tan(x)", "sec²(x)", "tan(x)sec(x)", "csc(x)cot(x)"]
+  },
+  {
+    "question": "Qu'est-ce que le résidu d'une fonction ?",
+    "reponses": ["Le coefficient du terme en 1/z dans le développement de Laurent", "La limite", "L'intégrale", "La dérivée"]
+  },
+  {
+    "question": "Quelle est la valeur de log₅(25) ?",
+    "reponses": ["2", "5", "3", "1"]
+  },
+  {
+    "question": "Qu'est-ce que la courbe de Bézier ?",
+    "reponses": ["Une courbe paramétrique utilisée en infographie", "Une courbe algébrique", "Une courbe exponentielle", "Une courbe sinusoïdale"]
+  },
+  {
+    "question": "Quelle est l'aire d'un parallélogramme de base 5 cm et hauteur 3 cm ?",
+    "reponses": ["15 cm²", "10 cm²", "20 cm²", "8 cm²"]
+  },
+  {
+    "question": "Que vaut l'intégrale de sin²(x) dx ?",
+    "reponses": ["x/2 - sin(2x)/4 + C", "x/2 + sin(2x)/4 + C", "-cos²(x) + C", "sin²(x)/2 + C"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de l'énergie cinétique ?",
+    "reponses": ["La variation d'énergie cinétique est égale au travail", "L'énergie cinétique est constante", "L'énergie cinétique est nulle", "L'énergie cinétique est maximale"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(2π/3) ?",
+    "reponses": ["-1/2", "1/2", "-√3/2", "√3/2"]
+  },
+  {
+    "question": "Qu'est-ce que la divergence d'un champ vectoriel ?",
+    "reponses": ["La mesure de l'expansion d'un champ", "La mesure de la rotation", "La mesure du gradient", "La mesure de l'intégrale"]
+  },
+  {
+    "question": "Combien de faces a un dodécaèdre ?",
+    "reponses": ["12", "10", "8", "20"]
+  },
+  {
+    "question": "Que vaut la dérivée de ln(cos(x)) ?",
+    "reponses": ["-tan(x)", "tan(x)", "cot(x)", "-cot(x)"]
+  },
+  {
+    "question": "Qu'est-ce que la série de Fourier ?",
+    "reponses": ["Le développement d'une fonction périodique en sinus et cosinus", "Le développement d'une fonction en série entière", "Le développement d'une fonction en séries de Taylor", "Le développement d'une fonction en séries de Laurent"]
+  },
+  {
+    "question": "Quelle est la valeur de tan(2π/3) ?",
+    "reponses": ["-√3", "√3", "1/√3", "-1/√3"]
+  },
+  {
+    "question": "Qu'est-ce que le théorème de la divergence ?",
+    "reponses": ["Le flux d'un champ à travers une surface fermée", "Le travail d'un champ", "La rotation d'un champ", "Le gradient d'un champ"]
+  },
+  {
+    "question": "Quelle est la surface d'un triangle équilatéral de côté 6 cm ?",
+    "reponses": ["15.59 cm²", "18 cm²", "21.21 cm²", "36 cm²"]
+  },
+  {
+    "question": "Que vaut l'intégrale de cos²(x) dx ?",
+    "reponses": ["x/2 + sin(2x)/4 + C", "x/2 - sin(2x)/4 + C", "sin²(x)/2 + C", "cos²(x)/2 + C"]
+  },
+  {
+    "question": "Qu'est-ce que le rotationnel d'un champ vectoriel ?",
+    "reponses": ["La mesure de la rotation d'un champ", "La mesure de l'expansion", "Le gradient", "La divergence"]
+  },
+  {
+    "question": "Quelle est la valeur de sin(2π/3) ?",
+    "reponses": ["√3/2", "1/2", "-√3/2", "-1/2"]
+  },
+  {
+    "question": "Qu'est-ce que la fonction zêta de Riemann ?",
+    "reponses": ["ζ(s) = Σ 1/n^s pour s complexe", "ζ(s) = Σ n^s", "ζ(s) = Σ 1/n!", "ζ(s) = Σ s^n"]
+  },
+  {
+    "question": "Combien de sommets a un cube ?",
+    "reponses": ["8", "6", "12", "4"]
+  },
+  {
+    "question": "Que vaut la dérivée de arcsin(x) ?",
+    "reponses": ["1/√(1-x²)", "1/(1+x²)", "x/√(1-x²)", "-1/√(1-x²)"]
+  },
+  {
+    "question": "Qu'est-ce que l'équation de Schrödinger ?",
+    "reponses": ["L'équation fondamentale de la mécanique quantique", "L'équation de la relativité", "L'équation de la thermodynamique", "L'équation de la gravitation"]
+  },
+  {
+    "question": "Quelle est la valeur de cos(π/2) ?",
+    "reponses": ["0", "1", "-1", "0.5"]
+  }
+]

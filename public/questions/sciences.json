@@ -1,0 +1,1542 @@
+[
+  {
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "reponses": ["H₂O", "CO₂", "O₂", "H₂O₂"]
+  },
+  {
+    "question": "Combien d'os possède le corps humain adulte ?",
+    "reponses": ["206", "208", "200", "212"]
+  },
+  {
+    "question": "Quel gaz les plantes absorbent-elles lors de la photosynthèse ?",
+    "reponses": ["CO₂", "O₂", "N₂", "H₂"]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponses": ["Mercure", "Vénus", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "reponses": ["Au", "Ag", "Or", "Fe"]
+  },
+  {
+    "question": "À quelle température l'eau bout-elle à pression atmosphérique normale ?",
+    "reponses": ["100°C", "90°C", "110°C", "120°C"]
+  },
+  {
+    "question": "Quel organe produit l'insuline dans le corps humain ?",
+    "reponses": ["Le pancréas", "Le foie", "Les reins", "La rate"]
+  },
+  {
+    "question": "Quelle est la vitesse de la lumière dans le vide ?",
+    "reponses": ["300 000 km/s", "150 000 km/s", "450 000 km/s", "200 000 km/s"]
+  },
+  {
+    "question": "Combien de chromosomes possède une cellule humaine normale ?",
+    "reponses": ["46", "23", "48", "44"]
+  },
+  {
+    "question": "Quel élément chimique a le numéro atomique 1 ?",
+    "reponses": ["Hydrogène", "Hélium", "Lithium", "Carbone"]
+  },
+  {
+    "question": "Quelle est la molécule principale de l'ADN ?",
+    "reponses": ["Acide désoxyribonucléique", "Acide ribonucléique", "Acide aminé", "Glucose"]
+  },
+  {
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "reponses": ["La peau", "Le foie", "Les poumons", "Le cœur"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète rouge' ?",
+    "reponses": ["Mars", "Vénus", "Jupiter", "Saturne"]
+  },
+  {
+    "question": "Quel est le symbole chimique du carbone ?",
+    "reponses": ["C", "Ca", "Co", "Cr"]
+  },
+  {
+    "question": "À quelle température l'eau gèle-t-elle ?",
+    "reponses": ["0°C", "-1°C", "1°C", "100°C"]
+  },
+  {
+    "question": "Quel groupe sanguin est appelé le 'donneur universel' ?",
+    "reponses": ["O-", "AB+", "O+", "A-"]
+  },
+  {
+    "question": "Combien de planètes dans le système solaire ?",
+    "reponses": ["8", "9", "7", "10"]
+  },
+  {
+    "question": "Quelle partie de la cellule contient l'ADN ?",
+    "reponses": ["Le noyau", "Le cytoplasme", "La membrane", "Les mitochondries"]
+  },
+  {
+    "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+    "reponses": ["Azote", "Oxygène", "Argon", "CO₂"]
+  },
+  {
+    "question": "Combien de dents possède un adulte en moyenne ?",
+    "reponses": ["32", "28", "30", "34"]
+  },
+  {
+    "question": "Quelle est la formule du dioxyde de carbone ?",
+    "reponses": ["CO₂", "CO", "C₂O", "CaO"]
+  },
+  {
+    "question": "Quel est le plus petit os du corps humain ?",
+    "reponses": ["L'étrier", "Le marteau", "L'enclume", "La phalange"]
+  },
+  {
+    "question": "Quelle est la durée d'une révolution de la Terre autour du Soleil ?",
+    "reponses": ["365 jours", "360 jours", "400 jours", "300 jours"]
+  },
+  {
+    "question": "Quel organe filtre le sang dans le corps humain ?",
+    "reponses": ["Les reins", "Le foie", "La rate", "Le pancréas"]
+  },
+  {
+    "question": "Quel est le symbole chimique du sodium ?",
+    "reponses": ["Na", "S", "So", "N"]
+  },
+  {
+    "question": "Quelle est la source d'énergie principale du corps humain ?",
+    "reponses": ["Le glucose", "Les lipides", "Les protéines", "Les vitamines"]
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "reponses": ["Le Sahara", "Le Gobi", "L'Atacama", "Le Kalahari"]
+  },
+  {
+    "question": "Combien de muscles le corps humain contient-il approximativement ?",
+    "reponses": ["600", "400", "800", "1000"]
+  },
+  {
+    "question": "Quelle est la formule chimique du sel de table ?",
+    "reponses": ["NaCl", "KCl", "CaCl₂", "Na₂CO₃"]
+  },
+  {
+    "question": "Quelle planète est la plus grande du système solaire ?",
+    "reponses": ["Jupiter", "Saturne", "Neptune", "Uranus"]
+  },
+  {
+    "question": "Quelle partie du cerveau contrôle la respiration ?",
+    "reponses": ["Le bulbe rachidien", "Le cervelet", "Le cortex", "L'hypothalamus"]
+  },
+  {
+    "question": "Quel est le pH du sang humain normal ?",
+    "reponses": ["7.4", "7.0", "8.0", "6.5"]
+  },
+  {
+    "question": "Combien de litres de sang le corps humain contient-il ?",
+    "reponses": ["5 litres", "3 litres", "7 litres", "10 litres"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide sulfurique ?",
+    "reponses": ["H₂SO₄", "HCl", "HNO₃", "H₂CO₃"]
+  },
+  {
+    "question": "Quel type de réaction est la photosynthèse ?",
+    "reponses": ["Endothermique", "Exothermique", "Neutre", "Rapide"]
+  },
+  {
+    "question": "Quelle est la profondeur moyenne des océans ?",
+    "reponses": ["3700 m", "2000 m", "5000 m", "1000 m"]
+  },
+  {
+    "question": "Quel organe produit la bile ?",
+    "reponses": ["Le foie", "La vésicule biliaire", "Le pancréas", "La rate"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+    "reponses": ["Hydrogène", "Hélium", "Oxygène", "Carbone"]
+  },
+  {
+    "question": "Combien de battements le cœur humain fait-il par minute au repos ?",
+    "reponses": ["60-100", "100-150", "30-60", "150-200"]
+  },
+  {
+    "question": "Quelle est la formule du méthane ?",
+    "reponses": ["CH₄", "C₂H₆", "C₃H₈", "CH₃"]
+  },
+  {
+    "question": "Quelle glande est appelée le 'maître des hormones' ?",
+    "reponses": ["L'hypophyse", "La thyroïde", "Le pancréas", "Les surrénales"]
+  },
+  {
+    "question": "Quelle est la couleur du sang veineux ?",
+    "reponses": ["Rouge sombre", "Rouge vif", "Bleu", "Violet"]
+  },
+  {
+    "question": "Quel est le pH de l'eau pure ?",
+    "reponses": ["7", "6", "8", "5"]
+  },
+  {
+    "question": "Combien de vertèbres possède la colonne vertébrale humaine ?",
+    "reponses": ["33", "30", "35", "40"]
+  },
+  {
+    "question": "Quelle est la formule de l'ammoniac ?",
+    "reponses": ["NH₃", "NH₄", "NO₃", "N₂H₄"]
+  },
+  {
+    "question": "Quel est le plus grand organe interne du corps humain ?",
+    "reponses": ["Le foie", "Les poumons", "Le cœur", "La rate"]
+  },
+  {
+    "question": "Quelle planète a le plus grand nombre de lunes ?",
+    "reponses": ["Jupiter", "Saturne", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel type de liaison maintient les bases de l'ADN ?",
+    "reponses": ["Liaisons hydrogène", "Liaisons covalentes", "Liaisons ioniques", "Liaisons métalliques"]
+  },
+  {
+    "question": "Combien de chromosomes sexuels possède l'humain ?",
+    "reponses": ["2", "1", "3", "4"]
+  },
+  {
+    "question": "Quelle est la formule chimique du peroxyde d'hydrogène ?",
+    "reponses": ["H₂O₂", "H₂O", "HO₂", "H₂O₃"]
+  },
+  {
+    "question": "Quel animal a le plus grand cœur ?",
+    "reponses": ["La baleine bleue", "L'éléphant", "Le girafe", "Le cachalot"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre au Soleil ?",
+    "reponses": ["150 millions de km", "200 millions de km", "100 millions de km", "50 millions de km"]
+  },
+  {
+    "question": "Quel est le rôle des mitochondries dans la cellule ?",
+    "reponses": ["Produire de l'énergie", "Stocker l'ADN", "Synthétiser les protéines", "Dégrader les déchets"]
+  },
+  {
+    "question": "Quel est l'élément chimique du diamant ?",
+    "reponses": ["Carbone", "Silicium", "Oxygène", "Hydrogène"]
+  },
+  {
+    "question": "Combien de paires de côtes possède l'humain ?",
+    "reponses": ["12", "10", "14", "8"]
+  },
+  {
+    "question": "Quelle est la formule chimique du glucose ?",
+    "reponses": ["C₆H₁₂O₆", "C₅H₁₀O₅", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète bleue' ?",
+    "reponses": ["Terre", "Neptune", "Uranus", "Vénus"]
+  },
+  {
+    "question": "Quel est le principal composant de l'air que nous respirons ?",
+    "reponses": ["Azote", "Oxygène", "Argon", "CO₂"]
+  },
+  {
+    "question": "Combien de jours faut-il pour que la Lune fasse une révolution autour de la Terre ?",
+    "reponses": ["27.3 jours", "30 jours", "29.5 jours", "28 jours"]
+  },
+  {
+    "question": "Quel est le rôle du foie dans le corps ?",
+    "reponses": ["Détoxifier le sang", "Produire l'insuline", "Filtrer l'eau", "Stockage des nutriments"]
+  },
+  {
+    "question": "Quel est le symbole chimique du potassium ?",
+    "reponses": ["K", "P", "Po", "Kt"]
+  },
+  {
+    "question": "Quelle est la température moyenne de la Terre ?",
+    "reponses": ["15°C", "10°C", "20°C", "25°C"]
+  },
+  {
+    "question": "Quel type de cellules sont les neurones ?",
+    "reponses": ["Des cellules nerveuses", "Des cellules musculaires", "Des cellules sanguines", "Des cellules épithéliales"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus conducteur de l'électricité ?",
+    "reponses": ["Argent", "Cuivre", "Or", "Aluminium"]
+  },
+  {
+    "question": "Combien de dents de lait possède un enfant ?",
+    "reponses": ["20", "16", "24", "28"]
+  },
+  {
+    "question": "Quelle est la fonction des reins ?",
+    "reponses": ["Filtrer le sang", "Produire le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide acétique ?",
+    "reponses": ["CH₃COOH", "CH₃CH₂OH", "HCOOH", "C₂H₅OH"]
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "reponses": ["Le Pacifique", "L'Atlantique", "L'Indien", "L'Arctique"]
+  },
+  {
+    "question": "Quel est le rôle de l'insuline dans le corps ?",
+    "reponses": ["Réguler la glycémie", "Digérer les graisses", "Synthétiser les protéines", "Stocker le calcium"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus léger ?",
+    "reponses": ["Hydrogène", "Hélium", "Lithium", "Béryllium"]
+  },
+  {
+    "question": "Combien de globules rouges possède 1 mm³ de sang ?",
+    "reponses": ["5 millions", "1 million", "10 millions", "500 000"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide chlorhydrique ?",
+    "reponses": ["HCl", "H₂SO₄", "HNO₃", "CH₃COOH"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète des anneaux' ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quelle est la fonction des globules blancs ?",
+    "reponses": ["Défendre contre les infections", "Transporter l'oxygène", "Coaguler le sang", "Stocker les nutriments"]
+  },
+  {
+    "question": "Quel est le symbole chimique du calcium ?",
+    "reponses": ["Ca", "C", "Co", "Cu"]
+  },
+  {
+    "question": "Quelle est la hauteur du Mont Everest ?",
+    "reponses": ["8848 m", "8000 m", "9000 m", "7000 m"]
+  },
+  {
+    "question": "Quel est le rôle du cœur dans le corps ?",
+    "reponses": ["Pomper le sang", "Filtrer le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans la croûte terrestre ?",
+    "reponses": ["Oxygène", "Silicium", "Aluminium", "Fer"]
+  },
+  {
+    "question": "Combien de poumons possède un humain ?",
+    "reponses": ["2", "1", "3", "4"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide nitrique ?",
+    "reponses": ["HNO₃", "HCl", "H₂SO₄", "H₂CO₃"]
+  },
+  {
+    "question": "Quelle est la plus longue chaîne de montagnes du monde ?",
+    "reponses": ["Les Andes", "L'Himalaya", "Les Rocheuses", "Les Alpes"]
+  },
+  {
+    "question": "Quel est le rôle de la thyroïde ?",
+    "reponses": ["Réguler le métabolisme", "Digérer les aliments", "Filtrer le sang", "Stocker les vitamines"]
+  },
+  {
+    "question": "Quel est le symbole chimique du magnésium ?",
+    "reponses": ["Mg", "Mn", "Mo", "Md"]
+  },
+  {
+    "question": "Quelle est la profondeur maximale des océans ?",
+    "reponses": ["11 000 m", "8000 m", "6000 m", "15 000 m"]
+  },
+  {
+    "question": "Quel est le rôle des poumons ?",
+    "reponses": ["Échanger les gaz", "Pomper le sang", "Digérer les aliments", "Stocker l'eau"]
+  },
+  {
+    "question": "Quel est l'élément chimique du graphite ?",
+    "reponses": ["Carbone", "Silicium", "Graphite", "Diamant"]
+  },
+  {
+    "question": "Combien de cellules possède le corps humain approximativement ?",
+    "reponses": ["37 000 milliards", "10 000 milliards", "50 000 milliards", "100 000 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'alcool éthylique ?",
+    "reponses": ["C₂H₅OH", "CH₃OH", "C₃H₇OH", "C₄H₉OH"]
+  },
+  {
+    "question": "Quelle est la planète la plus éloignée du Soleil ?",
+    "reponses": ["Neptune", "Uranus", "Pluton", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle de la vésicule biliaire ?",
+    "reponses": ["Stocker la bile", "Produire la bile", "Filtrer le sang", "Digérer les protéines"]
+  },
+  {
+    "question": "Quel est le symbole chimique du zinc ?",
+    "reponses": ["Zn", "Zr", "Z", "Zi"]
+  },
+  {
+    "question": "Quelle est la température du corps humain en bonne santé ?",
+    "reponses": ["37°C", "36°C", "38°C", "39°C"]
+  },
+  {
+    "question": "Quel est le rôle des enzymes dans le corps ?",
+    "reponses": ["Accélérer les réactions chimiques", "Stocker l'énergie", "Transporter l'oxygène", "Défendre contre les infections"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus radioactif ?",
+    "reponses": ["Radium", "Uranium", "Plutonium", "Thorium"]
+  },
+  {
+    "question": "Combien de litres d'eau le corps humain contient-il ?",
+    "reponses": ["40 litres", "30 litres", "50 litres", "20 litres"]
+  },
+  {
+    "question": "Quelle est la formule du bicarbonate de soude ?",
+    "reponses": ["NaHCO₃", "Na₂CO₃", "K₂CO₃", "CaCO₃"]
+  },
+  {
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "reponses": ["Jupiter", "Saturne", "Neptune", "Uranus"]
+  },
+  {
+    "question": "Quel est le rôle de la rate ?",
+    "reponses": ["Filtrer le sang", "Produire l'insuline", "Digérer les aliments", "Stocker les graisses"]
+  },
+  {
+    "question": "Quel est le symbole chimique du fer ?",
+    "reponses": ["Fe", "Ir", "F", "Fr"]
+  },
+  {
+    "question": "Quelle est la durée de vie moyenne d'un globule rouge ?",
+    "reponses": ["120 jours", "60 jours", "180 jours", "30 jours"]
+  },
+  {
+    "question": "Quelle est la formule de l'hydroxyde de sodium ?",
+    "reponses": ["NaOH", "KOH", "Ca(OH)₂", "NH₄OH"]
+  },
+  {
+    "question": "Quelle est la planète la plus chaude du système solaire ?",
+    "reponses": ["Vénus", "Mercure", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle de la moelle osseuse ?",
+    "reponses": ["Produire les cellules sanguines", "Stocker l'énergie", "Digérer les aliments", "Filtrer le sang"]
+  },
+  {
+    "question": "Quel est l'élément chimique du bronze ?",
+    "reponses": ["Cuivre et étain", "Fer et carbone", "Aluminium et magnésium", "Cuivre et zinc"]
+  },
+  {
+    "question": "Combien de globules blancs possède 1 mm³ de sang ?",
+    "reponses": ["5000-10000", "1000-5000", "10 000-20 000", "500-1000"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide carbonique ?",
+    "reponses": ["H₂CO₃", "H₂SO₄", "HCl", "HNO₃"]
+  },
+  {
+    "question": "Quelle est la plus grande planète gazeuse ?",
+    "reponses": ["Jupiter", "Saturne", "Neptune", "Uranus"]
+  },
+  {
+    "question": "Quel est le rôle de l'estomac ?",
+    "reponses": ["Digérer les aliments", "Absorber les nutriments", "Stocker l'énergie", "Filtrer le sang"]
+  },
+  {
+    "question": "Quel est le symbole chimique du chlore ?",
+    "reponses": ["Cl", "C", "Ch", "Cr"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre à la Lune ?",
+    "reponses": ["384 000 km", "200 000 km", "500 000 km", "100 000 km"]
+  },
+  {
+    "question": "Quel est le rôle du pancréas ?",
+    "reponses": ["Produire l'insuline", "Digérer les aliments", "Filtrer le sang", "Stocker les vitamines"]
+  },
+  {
+    "question": "Quel est l'élément chimique du laiton ?",
+    "reponses": ["Cuivre et zinc", "Cuivre et étain", "Fer et carbone", "Aluminium et magnésium"]
+  },
+  {
+    "question": "Combien de battements le cœur humain fait-il en une vie ?",
+    "reponses": ["2.5 milliards", "1 milliard", "5 milliards", "10 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide lactique ?",
+    "reponses": ["C₃H₆O₃", "C₂H₄O₂", "C₄H₆O₄", "C₃H₈O₃"]
+  },
+  {
+    "question": "Quelle est la plus petite planète du système solaire ?",
+    "reponses": ["Mercure", "Mars", "Vénus", "Pluton"]
+  },
+  {
+    "question": "Quel est le rôle de la glande thyroïde ?",
+    "reponses": ["Réguler le métabolisme", "Réguler la croissance", "Réguler la glycémie", "Réguler la pression"]
+  },
+  {
+    "question": "Quel est le symbole chimique du brome ?",
+    "reponses": ["Br", "B", "Ba", "Bi"]
+  },
+  {
+    "question": "Quelle est la durée de la grossesse humaine ?",
+    "reponses": ["9 mois", "8 mois", "10 mois", "7 mois"]
+  },
+  {
+    "question": "Quel est le rôle des intestins ?",
+    "reponses": ["Absorber les nutriments", "Digérer les aliments", "Stocker l'énergie", "Filtrer le sang"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus stable ?",
+    "reponses": ["Fer", "Or", "Platine", "Carbone"]
+  },
+  {
+    "question": "Combien de neurones possède le cerveau humain ?",
+    "reponses": ["86 milliards", "50 milliards", "100 milliards", "30 milliards"]
+  },
+  {
+    "question": "Quelle est la formule du chlorure de sodium ?",
+    "reponses": ["NaCl", "KCl", "CaCl₂", "Na₂CO₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du mal' ?",
+    "reponses": ["Mars", "Vénus", "Mercure", "Jupiter"]
+  },
+  {
+    "question": "Quel est le rôle de la graisse dans le corps ?",
+    "reponses": ["Réserve d'énergie", "Protection des organes", "Isolation thermique", "Toutes ces réponses"]
+  },
+  {
+    "question": "Quel est le symbole chimique du cuivre ?",
+    "reponses": ["Cu", "Co", "Cr", "C"]
+  },
+  {
+    "question": "Quelle est la vitesse de rotation de la Terre ?",
+    "reponses": ["1670 km/h", "1000 km/h", "2000 km/h", "500 km/h"]
+  },
+  {
+    "question": "Quel est le rôle des hormones dans le corps ?",
+    "reponses": ["Réguler les fonctions corporelles", "Digérer les aliments", "Stocker l'énergie", "Défendre contre les infections"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus léger ?",
+    "reponses": ["Hydrogène", "Hélium", "Lithium", "Béryllium"]
+  },
+  {
+    "question": "Combien de litres de sang sont pompés par le cœur chaque jour ?",
+    "reponses": ["7000 litres", "5000 litres", "10 000 litres", "3000 litres"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide citrique ?",
+    "reponses": ["C₆H₈O₇", "C₃H₆O₃", "C₂H₄O₂", "C₄H₆O₄"]
+  },
+  {
+    "question": "Quelle est la planète la plus légère ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système lymphatique ?",
+    "reponses": ["Défendre contre les infections", "Stocker l'eau", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du fluor ?",
+    "reponses": ["F", "Fl", "Fr", "Fe"]
+  },
+  {
+    "question": "Quelle est la température de l'espace ?",
+    "reponses": ["-270°C", "-200°C", "-150°C", "-100°C"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux ?",
+    "reponses": ["Transmettre des signaux", "Réguler la température", "Stocker l'énergie", "Digérer les aliments"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus conducteur ?",
+    "reponses": ["Argent", "Cuivre", "Aluminium", "Fer"]
+  },
+  {
+    "question": "Combien de muscles sont utilisés pour sourire ?",
+    "reponses": ["17", "10", "20", "30"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide sulfurique concentré ?",
+    "reponses": ["H₂SO₄", "H₂SO₃", "H₂S₂O₇", "SO₃"]
+  },
+  {
+    "question": "Quelle planète a les plus grandes montagnes ?",
+    "reponses": ["Terre", "Mars", "Vénus", "Mercure"]
+  },
+  {
+    "question": "Quel est le rôle des vitamines dans le corps ?",
+    "reponses": ["Réguler les fonctions corporelles", "Fournir de l'énergie", "Construire les muscles", "Digérer les aliments"]
+  },
+  {
+    "question": "Quel est le symbole chimique du mercure ?",
+    "reponses": ["Hg", "Me", "Mr", "Mc"]
+  },
+  {
+    "question": "Quelle est la vitesse de la Terre autour du Soleil ?",
+    "reponses": ["108 000 km/h", "50 000 km/h", "150 000 km/h", "30 000 km/h"]
+  },
+  {
+    "question": "Quel est le rôle du cervelet ?",
+    "reponses": ["Coordonner les mouvements", "Stocker les mémoires", "Réguler la respiration", "Contrôler le sommeil"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'atmosphère ?",
+    "reponses": ["Azote", "Oxygène", "Argon", "CO₂"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il par jour ?",
+    "reponses": ["100 000", "50 000", "150 000", "200 000"]
+  },
+  {
+    "question": "Quelle est la formule du sulfate de calcium ?",
+    "reponses": ["CaSO₄", "CaCO₃", "Ca(OH)₂", "CaCl₂"]
+  },
+  {
+    "question": "Quelle planète est connue pour ses taches rouges ?",
+    "reponses": ["Jupiter", "Mars", "Saturne", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle de la mémoire dans le cerveau ?",
+    "reponses": ["Stocker et rappeler les informations", "Réguler les émotions", "Contrôler les mouvements", "Réguler la respiration"]
+  },
+  {
+    "question": "Quel est le symbole chimique du plomb ?",
+    "reponses": ["Pb", "P", "Pl", "Pm"]
+  },
+  {
+    "question": "Quelle est la température de l'intérieur de la Terre ?",
+    "reponses": ["6000°C", "3000°C", "9000°C", "1000°C"]
+  },
+  {
+    "question": "Quel est le rôle du cortex cérébral ?",
+    "reponses": ["Fonctions supérieures de l'esprit", "Réguler la respiration", "Contrôler les mouvements", "Stocker les hormones"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus électronégatif ?",
+    "reponses": ["Fluor", "Oxygène", "Chlore", "Azote"]
+  },
+  {
+    "question": "Combien de secondes faut-il pour que la Terre tourne autour de son axe ?",
+    "reponses": ["86 400", "43 200", "172 800", "24 000"]
+  },
+  {
+    "question": "Quelle est la formule du carbonate de calcium ?",
+    "reponses": ["CaCO₃", "CaSO₄", "Ca(OH)₂", "CaCl₂"]
+  },
+  {
+    "question": "Quelle planète a la plus forte gravité ?",
+    "reponses": ["Jupiter", "Saturne", "Neptune", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système immunitaire ?",
+    "reponses": ["Protéger contre les maladies", "Digérer les aliments", "Stocker l'énergie", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du cobalt ?",
+    "reponses": ["Co", "C", "Cr", "Ce"]
+  },
+  {
+    "question": "Quelle est la distance de la Lune à la Terre en moyenne ?",
+    "reponses": ["384 400 km", "250 000 km", "500 000 km", "100 000 km"]
+  },
+  {
+    "question": "Quel est le rôle du système endocrinien ?",
+    "reponses": ["Réguler les fonctions corporelles", "Stocker l'énergie", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus réactif ?",
+    "reponses": ["Fluor", "Sodium", "Potassium", "Chlore"]
+  },
+  {
+    "question": "Combien de globules rouges sont produits chaque seconde ?",
+    "reponses": ["2 millions", "1 million", "5 millions", "10 millions"]
+  },
+  {
+    "question": "Quelle est la formule du phosphate de calcium ?",
+    "reponses": ["Ca₃(PO₄)₂", "CaSO₄", "CaCO₃", "CaCl₂"]
+  },
+  {
+    "question": "Quelle planète a le plus d'anneaux ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système musculo-squelettique ?",
+    "reponses": ["Supporter le corps et permettre le mouvement", "Digérer les aliments", "Stocker l'énergie", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du chrome ?",
+    "reponses": ["Cr", "Ch", "Ce", "Co"]
+  },
+  {
+    "question": "Quelle est la température de l'eau de mer ?",
+    "reponses": ["Environ 3°C en moyenne", "0°C", "5°C", "10°C"]
+  },
+  {
+    "question": "Quel est le rôle du système respiratoire ?",
+    "reponses": ["Échanger les gaz", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans les océans ?",
+    "reponses": ["Chlorure", "Sodium", "Magnésium", "Calcium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en un jour ?",
+    "reponses": ["100 000", "50 000", "200 000", "150 000"]
+  },
+  {
+    "question": "Quelle est la formule de l'éthanol ?",
+    "reponses": ["C₂H₅OH", "CH₃OH", "C₃H₇OH", "C₄H₉OH"]
+  },
+  {
+    "question": "Quelle planète est surnommée 'la sœur de la Terre' ?",
+    "reponses": ["Vénus", "Mars", "Mercure", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle du système circulatoire ?",
+    "reponses": ["Transporter les nutriments et l'oxygène", "Digérer les aliments", "Stocker l'énergie", "Défendre contre les infections"]
+  },
+  {
+    "question": "Quel est le symbole chimique du manganèse ?",
+    "reponses": ["Mn", "Mg", "Mo", "Md"]
+  },
+  {
+    "question": "Quelle est la densité de l'eau ?",
+    "reponses": ["1 g/cm³", "0.9 g/cm³", "1.1 g/cm³", "0.8 g/cm³"]
+  },
+  {
+    "question": "Quel est le rôle du système digestif ?",
+    "reponses": ["Digérer les aliments", "Pomper le sang", "Transporter l'oxygène", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+    "reponses": ["Hydrogène", "Hélium", "Oxygène", "Carbone"]
+  },
+  {
+    "question": "Combien de muscles sont utilisés pour marcher ?",
+    "reponses": ["200", "100", "300", "50"]
+  },
+  {
+    "question": "Quelle est la formule du propylène ?",
+    "reponses": ["C₃H₆", "C₂H₄", "C₄H₈", "C₃H₈"]
+  },
+  {
+    "question": "Quelle planète a la plus longue journée ?",
+    "reponses": ["Vénus", "Mercure", "Mars", "Jupiter"]
+  },
+  {
+    "question": "Quel est le rôle du système urinaire ?",
+    "reponses": ["Filtrer le sang", "Digérer les aliments", "Stocker l'énergie", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du nickel ?",
+    "reponses": ["Ni", "N", "Ne", "Na"]
+  },
+  {
+    "question": "Quelle est la profondeur moyenne de l'océan Pacifique ?",
+    "reponses": ["4000 m", "3000 m", "5000 m", "2000 m"]
+  },
+  {
+    "question": "Quel est le rôle du système reproducteur ?",
+    "reponses": ["Assurer la reproduction", "Stocker l'énergie", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus rare dans la croûte terrestre ?",
+    "reponses": ["Osmium", "Iridium", "Rhodium", "Platine"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il par minute pendant un effort ?",
+    "reponses": ["120-180", "60-100", "100-120", "180-220"]
+  },
+  {
+    "question": "Quelle est la formule du benzène ?",
+    "reponses": ["C₆H₆", "C₆H₁₂", "C₇H₈", "C₅H₁₀"]
+  },
+  {
+    "question": "Quelle planète a la plus petite densité ?",
+    "reponses": ["Saturne", "Jupiter", "Neptune", "Uranus"]
+  },
+  {
+    "question": "Quel est le rôle du système tégumentaire ?",
+    "reponses": ["Protéger le corps", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du titane ?",
+    "reponses": ["Ti", "T", "Ta", "Te"]
+  },
+  {
+    "question": "Quelle est la vitesse de rotation de la Lune ?",
+    "reponses": ["16 km/h", "10 km/h", "20 km/h", "30 km/h"]
+  },
+  {
+    "question": "Quel est le rôle du système musculaire ?",
+    "reponses": ["Permettre le mouvement", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus solide ?",
+    "reponses": ["Diamant", "Carbure de silicium", "Oxyde d'aluminium", "Nitrate de bore"]
+  },
+  {
+    "question": "Combien de globules blancs sont produits chaque seconde ?",
+    "reponses": ["100 000", "50 000", "200 000", "10 000"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide malique ?",
+    "reponses": ["C₄H₆O₅", "C₃H₆O₃", "C₂H₄O₂", "C₆H₈O₇"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu de la guerre' ?",
+    "reponses": ["Mars", "Jupiter", "Saturne", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux périphérique ?",
+    "reponses": ["Transmettre les signaux entre le cerveau et le corps", "Stocker l'énergie", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du vanadium ?",
+    "reponses": ["V", "Va", "Vi", "Ve"]
+  },
+  {
+    "question": "Quelle est la température de la surface du Soleil ?",
+    "reponses": ["5500°C", "6000°C", "5000°C", "7000°C"]
+  },
+  {
+    "question": "Quel est le rôle du système auditif ?",
+    "reponses": ["Permettre l'audition", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus polaire ?",
+    "reponses": ["Eau", "Ammoniac", "Chlorure de sodium", "Éthanol"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 70 ans ?",
+    "reponses": ["2.5 milliards", "1 milliard", "5 milliards", "10 milliards"]
+  },
+  {
+    "question": "Quelle est la formule du fructose ?",
+    "reponses": ["C₆H₁₂O₆", "C₅H₁₀O₅", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponses": ["Mercure", "Vénus", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système visuel ?",
+    "reponses": ["Permettre la vision", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du germanium ?",
+    "reponses": ["Ge", "G", "Ga", "Gd"]
+  },
+  {
+    "question": "Quelle est la densité du mercure ?",
+    "reponses": ["13.6 g/cm³", "10 g/cm³", "15 g/cm³", "20 g/cm³"]
+  },
+  {
+    "question": "Quel est le rôle du système olfactif ?",
+    "reponses": ["Permettre l'odorat", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus ionique ?",
+    "reponses": ["Fluorure de sodium", "Chlorure de sodium", "Bromure de sodium", "Iodure de sodium"]
+  },
+  {
+    "question": "Combien de neurones sont utilisés pour la mémoire ?",
+    "reponses": ["Des millions", "Des milliers", "Des milliards", "Des centaines"]
+  },
+  {
+    "question": "Quelle est la formule du saccharose ?",
+    "reponses": ["C₁₂H₂₂O₁₁", "C₆H₁₂O₆", "C₅H₁₀O₅", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu des océans' ?",
+    "reponses": ["Neptune", "Jupiter", "Saturne", "Uranus"]
+  },
+  {
+    "question": "Quel est le rôle du système gustatif ?",
+    "reponses": ["Permettre le goût", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du strontium ?",
+    "reponses": ["Sr", "S", "St", "Sn"]
+  },
+  {
+    "question": "Quelle est la température de l'intérieur du Soleil ?",
+    "reponses": ["15 million °C", "10 million °C", "20 million °C", "5 million °C"]
+  },
+  {
+    "question": "Quel est le rôle du système tactile ?",
+    "reponses": ["Permettre le toucher", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus oxydant ?",
+    "reponses": ["Fluor", "Oxygène", "Chlore", "Brome"]
+  },
+  {
+    "question": "Combien de muscles sont utilisés pour parler ?",
+    "reponses": ["100", "50", "150", "200"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide ascorbique ?",
+    "reponses": ["C₆H₈O₆", "C₃H₆O₃", "C₂H₄O₂", "C₄H₆O₄"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu du ciel' ?",
+    "reponses": ["Uranus", "Jupiter", "Saturne", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système locomoteur ?",
+    "reponses": ["Permettre le mouvement", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du rubidium ?",
+    "reponses": ["Rb", "Ru", "R", "Rh"]
+  },
+  {
+    "question": "Quelle est la force de gravité sur la Lune ?",
+    "reponses": ["1/6 de la Terre", "1/3 de la Terre", "1/2 de la Terre", "2/3 de la Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système cartilagineux ?",
+    "reponses": ["Supporter et protéger", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus réducteur ?",
+    "reponses": ["Lithium", "Sodium", "Potassium", "Rubidium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en une minute au repos ?",
+    "reponses": ["60-80", "40-60", "80-100", "100-120"]
+  },
+  {
+    "question": "Quelle est la formule du maltose ?",
+    "reponses": ["C₁₂H₂₂O₁₁", "C₆H₁₂O₆", "C₅H₁₀O₅", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus petite du système solaire ?",
+    "reponses": ["Mercure", "Mars", "Vénus", "Pluton"]
+  },
+  {
+    "question": "Quel est le rôle du système tégumentaire ?",
+    "reponses": ["Protéger le corps", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du césium ?",
+    "reponses": ["Cs", "Ce", "C", "Ca"]
+  },
+  {
+    "question": "Quelle est la température de l'eau à pression atmosphérique ?",
+    "reponses": ["100°C", "90°C", "110°C", "120°C"]
+  },
+  {
+    "question": "Quel est le rôle du système biliaire ?",
+    "reponses": ["Stocker la bile", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus électropositif ?",
+    "reponses": ["Césium", "Francium", "Potassium", "Sodium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 24 heures ?",
+    "reponses": ["100 000", "50 000", "200 000", "150 000"]
+  },
+  {
+    "question": "Quelle est la formule de l'amidon ?",
+    "reponses": ["(C₆H₁₀O₅)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus chaude ?",
+    "reponses": ["Vénus", "Mercure", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux central ?",
+    "reponses": ["Traiter les informations", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du barium ?",
+    "reponses": ["Ba", "B", "Be", "Bi"]
+  },
+  {
+    "question": "Quelle est la taille du Soleil ?",
+    "reponses": ["1 400 000 km", "1 000 000 km", "2 000 000 km", "500 000 km"]
+  },
+  {
+    "question": "Quel est le rôle du système lymphatique ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers visible ?",
+    "reponses": ["Hydrogène", "Hélium", "Oxygène", "Carbone"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 80 ans ?",
+    "reponses": ["3 milliards", "2 milliards", "4 milliards", "5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule du lactose ?",
+    "reponses": ["C₁₂H₂₂O₁₁", "C₆H₁₂O₆", "C₅H₁₀O₅", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus proche de la Terre ?",
+    "reponses": ["Vénus", "Mars", "Mercure", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle du système rénal ?",
+    "reponses": ["Filtrer le sang", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du lanthane ?",
+    "reponses": ["La", "Ln", "L", "Li"]
+  },
+  {
+    "question": "Quelle est la température de l'eau à pression atmosphérique ?",
+    "reponses": ["100°C", "90°C", "110°C", "120°C"]
+  },
+  {
+    "question": "Quel est le rôle du système sanguin ?",
+    "reponses": ["Transporter l'oxygène", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus lourd connu ?",
+    "reponses": ["Oganesson", "Tennessine", "Moscovium", "Livermorium"]
+  },
+  {
+    "question": "Combien de neurones sont actifs pendant la lecture ?",
+    "reponses": ["Des millions", "Des milliers", "Des milliards", "Des centaines"]
+  },
+  {
+    "question": "Quelle est la formule du glycogène ?",
+    "reponses": ["(C₆H₁₀O₅)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu du temps' ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système oculaire ?",
+    "reponses": ["Permettre la vision", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du néodyme ?",
+    "reponses": ["Nd", "N", "Ne", "Ni"]
+  },
+  {
+    "question": "Quelle est la densité de l'air ?",
+    "reponses": ["1.2 kg/m³", "1 kg/m³", "1.5 kg/m³", "2 kg/m³"]
+  },
+  {
+    "question": "Quel est le rôle du système cardiovasculaire ?",
+    "reponses": ["Transporter le sang", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus stable ?",
+    "reponses": ["Fer", "Or", "Platine", "Argent"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 heure ?",
+    "reponses": ["4 200", "3 600", "5 000", "6 000"]
+  },
+  {
+    "question": "Quelle est la formule du cellulose ?",
+    "reponses": ["(C₆H₁₀O₅)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus froide ?",
+    "reponses": ["Neptune", "Uranus", "Saturne", "Pluton"]
+  },
+  {
+    "question": "Quel est le rôle du système respiratoire ?",
+    "reponses": ["Échanger les gaz", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du praséodyme ?",
+    "reponses": ["Pr", "P", "Pa", "Po"]
+  },
+  {
+    "question": "Quelle est la température du noyau de la Terre ?",
+    "reponses": ["6000°C", "5000°C", "7000°C", "4000°C"]
+  },
+  {
+    "question": "Quel est le rôle du système digestif ?",
+    "reponses": ["Digérer les aliments", "Pomper le sang", "Transporter l'oxygène", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus conducteur de chaleur ?",
+    "reponses": ["Argent", "Cuivre", "Aluminium", "Or"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 mois ?",
+    "reponses": ["3 millions", "2 millions", "4 millions", "5 millions"]
+  },
+  {
+    "question": "Quelle est la formule du chitine ?",
+    "reponses": ["(C₈H₁₃NO₅)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète a le plus grand nombre de lunes connues ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système immunitaire ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du samarium ?",
+    "reponses": ["Sm", "S", "Sa", "Sn"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre à la Lune ?",
+    "reponses": ["384 400 km", "250 000 km", "500 000 km", "100 000 km"]
+  },
+  {
+    "question": "Quel est le rôle du système endocrinien ?",
+    "reponses": ["Réguler les fonctions corporelles", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'eau de mer ?",
+    "reponses": ["Chlorure", "Sodium", "Magnésium", "Calcium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 semaine ?",
+    "reponses": ["700 000", "500 000", "1 million", "2 millions"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide hyaluronique ?",
+    "reponses": ["(C₁₄H₂₁NO₁₁)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu du plaisir' ?",
+    "reponses": ["Vénus", "Mars", "Jupiter", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle du système musculaire ?",
+    "reponses": ["Permettre le mouvement", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du gadolinium ?",
+    "reponses": ["Gd", "G", "Ga", "Ge"]
+  },
+  {
+    "question": "Quelle est la température de l'atmosphère terrestre ?",
+    "reponses": ["15°C", "10°C", "20°C", "25°C"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux ?",
+    "reponses": ["Transmettre les signaux", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans le corps humain ?",
+    "reponses": ["Oxygène", "Carbone", "Hydrogène", "Azote"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 an ?",
+    "reponses": ["36 millions", "30 millions", "40 millions", "50 millions"]
+  },
+  {
+    "question": "Quelle est la formule du chitosan ?",
+    "reponses": ["(C₆H₁₁NO₄)ₙ", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète a le plus petit nombre de lunes ?",
+    "reponses": ["Mercure", "Vénus", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système squelettique ?",
+    "reponses": ["Supporter le corps", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du terbium ?",
+    "reponses": ["Tb", "T", "Te", "Ti"]
+  },
+  {
+    "question": "Quelle est la densité de la glace ?",
+    "reponses": ["0.9 g/cm³", "1 g/cm³", "1.1 g/cm³", "0.8 g/cm³"]
+  },
+  {
+    "question": "Quel est le rôle du système hormonal ?",
+    "reponses": ["Réguler les fonctions corporelles", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans le noyau terrestre ?",
+    "reponses": ["Fer", "Nickel", "Silicium", "Oxygène"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 10 ans ?",
+    "reponses": ["360 millions", "300 millions", "400 millions", "500 millions"]
+  },
+  {
+    "question": "Quelle est la formule de l'acide nucléique ?",
+    "reponses": ["ADN", "ARN", "ATP", "AMP"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu des enfers' ?",
+    "reponses": ["Pluton", "Neptune", "Mars", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle du système sensoriel ?",
+    "reponses": ["Percevoir l'environnement", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du dysprosium ?",
+    "reponses": ["Dy", "D", "Ds", "Db"]
+  },
+  {
+    "question": "Quelle est la température du noyau du Soleil ?",
+    "reponses": ["15 million °C", "10 million °C", "20 million °C", "5 million °C"]
+  },
+  {
+    "question": "Quel est le rôle du système lymphatique ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'atmosphère terrestre ?",
+    "reponses": ["Azote", "Oxygène", "Argon", "CO₂"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 20 ans ?",
+    "reponses": ["720 millions", "600 millions", "800 millions", "1 milliard"]
+  },
+  {
+    "question": "Quelle est la formule de l'ADN ?",
+    "reponses": ["Acide désoxyribonucléique", "Acide ribonucléique", "Acide aminé", "Glucose"]
+  },
+  {
+    "question": "Quelle planète a le plus d'anneaux ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système circulatoire ?",
+    "reponses": ["Transporter les nutriments", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est le symbole chimique du holmium ?",
+    "reponses": ["Ho", "H", "He", "Hf"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre à Mars ?",
+    "reponses": ["225 million km", "150 million km", "300 million km", "100 million km"]
+  },
+  {
+    "question": "Quel est le rôle du système excréteur ?",
+    "reponses": ["Éliminer les déchets", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans les étoiles ?",
+    "reponses": ["Hydrogène", "Hélium", "Oxygène", "Carbone"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 30 ans ?",
+    "reponses": ["1 milliard", "800 millions", "1.2 milliards", "1.5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'ARN ?",
+    "reponses": ["Acide ribonucléique", "Acide désoxyribonucléique", "Acide aminé", "Glucose"]
+  },
+  {
+    "question": "Quelle planète est connue pour ses tempêtes géantes ?",
+    "reponses": ["Jupiter", "Mars", "Saturne", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système reproducteur ?",
+    "reponses": ["Assurer la reproduction", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'erbium ?",
+    "reponses": ["Er", "E", "Es", "Eu"]
+  },
+  {
+    "question": "Quelle est la température de l'espace interstellaire ?",
+    "reponses": ["-270°C", "-200°C", "-150°C", "-100°C"]
+  },
+  {
+    "question": "Quel est le rôle du système urinaire ?",
+    "reponses": ["Filtrer le sang", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus rare dans l'univers ?",
+    "reponses": ["Francium", "Astate", "Technétium", "Prométhium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 40 ans ?",
+    "reponses": ["1.4 milliards", "1.2 milliards", "1.6 milliards", "2 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'ATP ?",
+    "reponses": ["Adénosine triphosphate", "Adénosine diphosphate", "Adénosine monophosphate", "Acide nucléique"]
+  },
+  {
+    "question": "Quelle planète est la plus éloignée du Soleil ?",
+    "reponses": ["Neptune", "Uranus", "Pluton", "Saturne"]
+  },
+  {
+    "question": "Quel est le rôle du système tégumentaire ?",
+    "reponses": ["Protéger le corps", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du thulium ?",
+    "reponses": ["Tm", "T", "Th", "Ti"]
+  },
+  {
+    "question": "Quelle est la taille de la Voie lactée ?",
+    "reponses": ["100 000 années-lumière", "50 000 années-lumière", "150 000 années-lumière", "200 000 années-lumière"]
+  },
+  {
+    "question": "Quel est le rôle du système immunitaire ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans la Terre solide ?",
+    "reponses": ["Oxygène", "Silicium", "Aluminium", "Fer"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 50 ans ?",
+    "reponses": ["1.8 milliards", "1.5 milliards", "2 milliards", "2.5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de la chlorophylle ?",
+    "reponses": ["C₅₅H₇₂O₅N₄Mg", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus dense du système solaire ?",
+    "reponses": ["Terre", "Mercure", "Vénus", "Mars"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux ?",
+    "reponses": ["Transmettre les signaux", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du ytterbium ?",
+    "reponses": ["Yb", "Y", "Yt", "Yd"]
+  },
+  {
+    "question": "Quelle est la température de l'eau de mer en profondeur ?",
+    "reponses": ["3°C", "0°C", "5°C", "10°C"]
+  },
+  {
+    "question": "Quel est le rôle du système respiratoire ?",
+    "reponses": ["Échanger les gaz", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus conducteur d'électricité ?",
+    "reponses": ["Argent", "Cuivre", "Aluminium", "Or"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 60 ans ?",
+    "reponses": ["2.1 milliards", "1.8 milliards", "2.5 milliards", "3 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'hémoglobine ?",
+    "reponses": ["C₂₉₅₂H₄₆₆₄N₈₁₂O₈₃₂S₈Fe₄", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu du ciel nocturne' ?",
+    "reponses": ["Uranus", "Neptune", "Saturne", "Jupiter"]
+  },
+  {
+    "question": "Quel est le rôle du système digestif ?",
+    "reponses": ["Digérer les aliments", "Pomper le sang", "Transporter l'oxygène", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est le symbole chimique du lutécium ?",
+    "reponses": ["Lu", "L", "Li", "La"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre à Mars ?",
+    "reponses": ["225 millions km", "150 millions km", "300 millions km", "100 millions km"]
+  },
+  {
+    "question": "Quel est le rôle du système endocrinien ?",
+    "reponses": ["Réguler les fonctions corporelles", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans les comètes ?",
+    "reponses": ["Eau", "Ammoniac", "Méthane", "CO₂"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 70 ans ?",
+    "reponses": ["2.5 milliards", "2 milliards", "3 milliards", "3.5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de la testostérone ?",
+    "reponses": ["C₁₉H₂₈O₂", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète a le plus grand nombre de lunes ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système locomoteur ?",
+    "reponses": ["Permettre le mouvement", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du hafnium ?",
+    "reponses": ["Hf", "H", "He", "Ho"]
+  },
+  {
+    "question": "Quelle est la température de la surface de Vénus ?",
+    "reponses": ["462°C", "300°C", "400°C", "500°C"]
+  },
+  {
+    "question": "Quel est le rôle du système sanguin ?",
+    "reponses": ["Transporter l'oxygène", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans le manteau terrestre ?",
+    "reponses": ["Oxygène", "Silicium", "Magnésium", "Fer"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 80 ans ?",
+    "reponses": ["2.8 milliards", "2.5 milliards", "3 milliards", "3.5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de l'œstrogène ?",
+    "reponses": ["C₁₈H₂₄O₂", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponses": ["Mercure", "Vénus", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système musculo-squelettique ?",
+    "reponses": ["Supporter le corps", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du tantale ?",
+    "reponses": ["Ta", "T", "Te", "Ti"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre au Soleil ?",
+    "reponses": ["150 millions km", "200 millions km", "100 millions km", "50 millions km"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux périphérique ?",
+    "reponses": ["Transmettre les signaux", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'eau de mer ?",
+    "reponses": ["Chlorure", "Sodium", "Magnésium", "Calcium"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 90 ans ?",
+    "reponses": ["3.2 milliards", "3 milliards", "3.5 milliards", "4 milliards"]
+  },
+  {
+    "question": "Quelle est la formule de la progestérone ?",
+    "reponses": ["C₂₁H₃₀O₂", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu de la guerre' ?",
+    "reponses": ["Mars", "Jupiter", "Saturne", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système immunitaire ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique du tungstène ?",
+    "reponses": ["W", "T", "Tu", "Te"]
+  },
+  {
+    "question": "Quelle est la température de l'atmosphère de Mars ?",
+    "reponses": ["-60°C", "-40°C", "-80°C", "-100°C"]
+  },
+  {
+    "question": "Quel est le rôle du système lymphatique ?",
+    "reponses": ["Défendre contre les infections", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans la croûte terrestre ?",
+    "reponses": ["Oxygène", "Silicium", "Aluminium", "Fer"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 100 ans ?",
+    "reponses": ["3.5 milliards", "3 milliards", "4 milliards", "4.5 milliards"]
+  },
+  {
+    "question": "Quelle est la formule du cortisol ?",
+    "reponses": ["C₂₁H₃₀O₅", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète a le plus grand nombre de lunes ?",
+    "reponses": ["Saturne", "Jupiter", "Uranus", "Neptune"]
+  },
+  {
+    "question": "Quel est le rôle du système cardiovasculaire ?",
+    "reponses": ["Transporter le sang", "Pomper le sang", "Digérer les aliments", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est le symbole chimique du rhénium ?",
+    "reponses": ["Re", "R", "Rh", "Rb"]
+  },
+  {
+    "question": "Quelle est la vitesse de rotation de la Terre ?",
+    "reponses": ["1670 km/h", "1000 km/h", "2000 km/h", "500 km/h"]
+  },
+  {
+    "question": "Quel est le rôle du système digestif ?",
+    "reponses": ["Digérer les aliments", "Pomper le sang", "Transporter l'oxygène", "Stocker l'énergie"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'atmosphère ?",
+    "reponses": ["Azote", "Oxygène", "Argon", "CO₂"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 seconde ?",
+    "reponses": ["1-2", "2-3", "0.5-1", "3-4"]
+  },
+  {
+    "question": "Quelle est la formule de la sérotonine ?",
+    "reponses": ["C₁₀H₁₂N₂O", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est la plus chaude du système solaire ?",
+    "reponses": ["Vénus", "Mercure", "Mars", "Terre"]
+  },
+  {
+    "question": "Quel est le rôle du système nerveux ?",
+    "reponses": ["Transmettre les signaux", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'osmium ?",
+    "reponses": ["Os", "O", "Or", "Og"]
+  },
+  {
+    "question": "Quelle est la distance de la Terre à Jupiter ?",
+    "reponses": ["778 millions km", "600 millions km", "900 millions km", "500 millions km"]
+  },
+  {
+    "question": "Quel est le rôle du système excréteur ?",
+    "reponses": ["Éliminer les déchets", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans la Terre solide ?",
+    "reponses": ["Oxygène", "Silicium", "Aluminium", "Fer"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 minute ?",
+    "reponses": ["60-80", "40-60", "80-100", "100-120"]
+  },
+  {
+    "question": "Quelle est la formule de la dopamine ?",
+    "reponses": ["C₈H₁₁NO₂", "C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₃H₆O₃"]
+  },
+  {
+    "question": "Quelle planète est surnommée la 'planète du dieu des océans' ?",
+    "reponses": ["Neptune", "Jupiter", "Saturne", "Uranus"]
+  },
+  {
+    "question": "Quel est le rôle du système reproducteur ?",
+    "reponses": ["Assurer la reproduction", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'iridium ?",
+    "reponses": ["Ir", "I", "In", "Is"]
+  },
+  {
+    "question": "Quelle est la température de l'atmosphère de Jupiter ?",
+    "reponses": ["-150°C", "-100°C", "-200°C", "-50°C"]
+  },
+  {
+    "question": "Quel est le rôle du système urinaire ?",
+    "reponses": ["Filtrer le sang", "Pomper le sang", "Digérer les aliments", "Transporter l'oxygène"]
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers observable ?",
+    "reponses": ["Hydrogène", "Hélium", "Oxygène", "Carbone"]
+  },
+  {
+    "question": "Combien de battements le cœur fait-il en 1 heure ?",
+    "reponses": ["4 200", "3 600", "5 000", "6 000"]
+  }
+]

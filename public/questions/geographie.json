@@ -1,0 +1,1030 @@
+[
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "reponses": ["Canberra", "Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "reponses": ["Le Pacifique", "L'Atlantique", "L'Indien", "L'Arctique"]
+  },
+  {
+    "question": "Quel est le plus long fleuve du monde ?",
+    "reponses": ["Le Nil", "L'Amazone", "Le Mississippi", "Le Yangtsé"]
+  },
+  {
+    "question": "Dans quel pays se trouve le Mont Everest ?",
+    "reponses": ["Népal", "Inde", "Tibet", "Chine"]
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "reponses": ["7", "5", "6", "8"]
+  },
+  {
+    "question": "Quelle est la capitale du Brésil ?",
+    "reponses": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "reponses": ["Le Sahara", "L'Antarctique", "Le désert d'Arabie", "Le désert de Gobi"]
+  },
+  {
+    "question": "Quel pays possède la plus grande superficie au monde ?",
+    "reponses": ["La Russie", "Le Canada", "Les États-Unis", "La Chine"]
+  },
+  {
+    "question": "Dans quelle mer se trouvent les îles grecques ?",
+    "reponses": ["La mer Méditerranée", "La mer Noire", "La mer du Nord", "La mer Adriatique"]
+  },
+  {
+    "question": "Quelle est la capitale du Japon ?",
+    "reponses": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Égypte ?",
+    "reponses": ["Le Caire", "Alexandrie", "Louxor", "Assouan"]
+  },
+  {
+    "question": "Quel pays est surnommé le 'pays du sourire' ?",
+    "reponses": ["La Thaïlande", "Le Japon", "Les Philippines", "L'Indonésie"]
+  },
+  {
+    "question": "Quelle est la plus grande île du monde ?",
+    "reponses": ["Le Groenland", "Madagascar", "Bornéo", "Nouvelle-Guinée"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Afrique du Sud ?",
+    "reponses": ["Pretoria", "Le Cap", "Johannesburg", "Durban"]
+  },
+  {
+    "question": "Quel fleuve traverse la capitale de la France ?",
+    "reponses": ["La Seine", "Le Rhône", "La Loire", "La Garonne"]
+  },
+  {
+    "question": "Dans quel pays se trouve la ville de Machu Picchu ?",
+    "reponses": ["Pérou", "Bolivie", "Équateur", "Chili"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Inde ?",
+    "reponses": ["New Delhi", "Mumbai", "Calcutta", "Chennai"]
+  },
+  {
+    "question": "Quel est le point culminant de l'Afrique ?",
+    "reponses": ["Le Kilimandjaro", "Le Mont Kenya", "Le Ras Dashen", "Le Mont Cameroun"]
+  },
+  {
+    "question": "Quelle mer borde la côte est de l'Espagne ?",
+    "reponses": ["La mer Méditerranée", "L'océan Atlantique", "La mer du Nord", "La mer Baltique"]
+  },
+  {
+    "question": "Quelle est la plus grande ville d'Amérique du Sud ?",
+    "reponses": ["São Paulo", "Buenos Aires", "Rio de Janeiro", "Bogotá"]
+  },
+  {
+    "question": "Quel pays compte le plus de volcans actifs ?",
+    "reponses": ["L'Indonésie", "Le Japon", "Les États-Unis", "L'Italie"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "reponses": ["Berlin", "Munich", "Hambourg", "Cologne"]
+  },
+  {
+    "question": "Quel est le plus grand lac d'eau douce du monde ?",
+    "reponses": ["Lac Baïkal", "Lac Supérieur", "Lac Victoria", "Lac Huron"]
+  },
+  {
+    "question": "Dans quel pays se trouve le détroit de Gibraltar ?",
+    "reponses": ["Espagne", "Maroc", "Portugal", "France"]
+  },
+  {
+    "question": "Quelle est la capitale de la Russie ?",
+    "reponses": ["Moscou", "Saint-Pétersbourg", "Novossibirsk", "Vladivostok"]
+  },
+  {
+    "question": "Quel pays a la plus longue côte du monde ?",
+    "reponses": ["Le Canada", "L'Australie", "Les États-Unis", "La Russie"]
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "reponses": ["Rabat", "Casablanca", "Marrakech", "Fès"]
+  },
+  {
+    "question": "Dans quel océan se trouve l'île de Pâques ?",
+    "reponses": ["Le Pacifique", "L'Atlantique", "L'Indien", "L'Arctique"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Argentine ?",
+    "reponses": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"]
+  },
+  {
+    "question": "Quel pays est le plus peuplé d'Afrique ?",
+    "reponses": ["Le Nigéria", "L'Éthiopie", "L'Égypte", "La Tanzanie"]
+  },
+  {
+    "question": "Quelle est la capitale du Portugal ?",
+    "reponses": ["Lisbonne", "Porto", "Coimbra", "Braga"]
+  },
+  {
+    "question": "Quel fleuve traverse la ville de Londres ?",
+    "reponses": ["La Tamise", "La Seine", "Le Danube", "Le Rhin"]
+  },
+  {
+    "question": "Dans quel pays se trouve le Taj Mahal ?",
+    "reponses": ["Inde", "Pakistan", "Bangladesh", "Népal"]
+  },
+  {
+    "question": "Quelle est la capitale du Mexique ?",
+    "reponses": ["Mexico", "Guadalajara", "Monterrey", "Puebla"]
+  },
+  {
+    "question": "Quel est le plus petit pays du monde ?",
+    "reponses": ["Le Vatican", "Monaco", "Nauru", "San Marin"]
+  },
+  {
+    "question": "Quelle mer est la plus salée du monde ?",
+    "reponses": ["La mer Morte", "La mer Rouge", "La mer Méditerranée", "La mer Baltique"]
+  },
+  {
+    "question": "Quelle est la capitale de la Turquie ?",
+    "reponses": ["Ankara", "Istanbul", "Izmir", "Antalya"]
+  },
+  {
+    "question": "Quel pays est connu comme le 'pays des mille lacs' ?",
+    "reponses": ["La Finlande", "Le Canada", "La Suède", "La Norvège"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Irlande ?",
+    "reponses": ["Dublin", "Cork", "Limerick", "Galway"]
+  },
+  {
+    "question": "Dans quel pays se trouve les chutes du Niagara ?",
+    "reponses": ["États-Unis", "Canada", "Mexique", "Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale de la Pologne ?",
+    "reponses": ["Varsovie", "Cracovie", "Gdańsk", "Poznań"]
+  },
+  {
+    "question": "Quel désert est le plus chaud du monde ?",
+    "reponses": ["Le Sahara", "Le désert d'Arabie", "Le désert de Mojave", "Le désert de Kalahari"]
+  },
+  {
+    "question": "Quelle est la capitale du Venezuela ?",
+    "reponses": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"]
+  },
+  {
+    "question": "Dans quel pays se trouve l'Acropole ?",
+    "reponses": ["Grèce", "Italie", "Égypte", "Turquie"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Arabie Saoudite ?",
+    "reponses": ["Riyad", "La Mecque", "Médine", "Jeddah"]
+  },
+  {
+    "question": "Quel est le plus grand récif corallien du monde ?",
+    "reponses": ["La Grande Barrière de Corail", "Le récif de Belize", "Le récif de Maldives", "Le récif de Raja Ampat"]
+  },
+  {
+    "question": "Quelle est la capitale de la Belgique ?",
+    "reponses": ["Bruxelles", "Anvers", "Gand", "Liège"]
+  },
+  {
+    "question": "Quel pays a la plus grande population musulmane ?",
+    "reponses": ["L'Indonésie", "Le Pakistan", "L'Inde", "Le Bangladesh"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Autriche ?",
+    "reponses": ["Vienne", "Salzbourg", "Innsbruck", "Graz"]
+  },
+  {
+    "question": "Dans quel océan se trouve les Bermudes ?",
+    "reponses": ["L'Atlantique", "Le Pacifique", "L'Indien", "L'Arctique"]
+  },
+  {
+    "question": "Quelle est la capitale de la Thaïlande ?",
+    "reponses": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de café ?",
+    "reponses": ["Le Brésil", "La Colombie", "L'Éthiopie", "Le Vietnam"]
+  },
+  {
+    "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "reponses": ["Wellington", "Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "question": "Dans quel pays se trouve la mer Morte ?",
+    "reponses": ["Israël", "Jordanie", "Palestine", "Égypte"]
+  },
+  {
+    "question": "Quelle est la capitale de la Hongrie ?",
+    "reponses": ["Budapest", "Vienne", "Prague", "Bratislava"]
+  },
+  {
+    "question": "Quel pays est connu comme la 'Perle de l'Afrique' ?",
+    "reponses": ["L'Ouganda", "Le Kenya", "La Tanzanie", "Le Rwanda"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Éthiopie ?",
+    "reponses": ["Addis-Abeba", "Nairobi", "Djibouti", "Asmara"]
+  },
+  {
+    "question": "Dans quel pays se trouve les Pyramides de Gizeh ?",
+    "reponses": ["Égypte", "Soudan", "Éthiopie", "Algérie"]
+  },
+  {
+    "question": "Quelle est la capitale du Vietnam ?",
+    "reponses": ["Hanoï", "Hô-Chi-Minh-Ville", "Da Nang", "Haiphong"]
+  },
+  {
+    "question": "Quel pays est le plus grand exportateur de pétrole ?",
+    "reponses": ["L'Arabie Saoudite", "Les États-Unis", "La Russie", "Le Canada"]
+  },
+  {
+    "question": "Quelle est la capitale de la Suisse ?",
+    "reponses": ["Berne", "Zurich", "Genève", "Bâle"]
+  },
+  {
+    "question": "Dans quel pays se trouve le désert d'Atacama ?",
+    "reponses": ["Chili", "Pérou", "Bolivie", "Argentine"]
+  },
+  {
+    "question": "Quelle est la capitale de la Malaisie ?",
+    "reponses": ["Kuala Lumpur", "Singapour", "Bangkok", "Jakarta"]
+  },
+  {
+    "question": "Quel est le plus haut volcan actif du monde ?",
+    "reponses": ["Le Nevado Ojos del Salado", "Le Mauna Loa", "Le Cotopaxi", "Le Fuji"]
+  },
+  {
+    "question": "Quelle est la capitale de la Suède ?",
+    "reponses": ["Stockholm", "Oslo", "Copenhague", "Helsinki"]
+  },
+  {
+    "question": "Dans quel pays se trouve la Grande Muraille ?",
+    "reponses": ["Chine", "Corée du Nord", "Mongolie", "Japon"]
+  },
+  {
+    "question": "Quelle est la capitale de la Colombie ?",
+    "reponses": ["Bogotá", "Medellín", "Cali", "Barranquilla"]
+  },
+  {
+    "question": "Quel pays a la plus grande forêt tropicale ?",
+    "reponses": ["Le Brésil", "Le Congo", "L'Indonésie", "La Colombie"]
+  },
+  {
+    "question": "Quelle est la capitale du Pakistan ?",
+    "reponses": ["Islamabad", "Karachi", "Lahore", "Peshawar"]
+  },
+  {
+    "question": "Dans quel pays se trouve la Baie d'Ha Long ?",
+    "reponses": ["Vietnam", "Thaïlande", "Philippines", "Malaisie"]
+  },
+  {
+    "question": "Quelle est la capitale du Kenya ?",
+    "reponses": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"]
+  },
+  {
+    "question": "Quel pays est le plus grand consommateur de vin ?",
+    "reponses": ["Les États-Unis", "La France", "L'Italie", "La Chine"]
+  },
+  {
+    "question": "Quelle est la capitale du Danemark ?",
+    "reponses": ["Copenhague", "Aarhus", "Odense", "Aalborg"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac Baïkal ?",
+    "reponses": ["Russie", "Mongolie", "Chine", "Kazakhstan"]
+  },
+  {
+    "question": "Quelle est la capitale de la Norvège ?",
+    "reponses": ["Oslo", "Bergen", "Trondheim", "Stavanger"]
+  },
+  {
+    "question": "Quel pays est connu comme le 'Tigre d'Asie' ?",
+    "reponses": ["Singapour", "Hong Kong", "Taiwan", "Corée du Sud"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Uruguay ?",
+    "reponses": ["Montevideo", "Punta del Este", "Colonia", "Salto"]
+  },
+  {
+    "question": "Dans quel pays se trouve la forêt noire ?",
+    "reponses": ["Allemagne", "France", "Suisse", "Autriche"]
+  },
+  {
+    "question": "Quelle est la capitale de la Finlande ?",
+    "reponses": ["Helsinki", "Tampere", "Turku", "Oulu"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de chocolat ?",
+    "reponses": ["La Côte d'Ivoire", "Le Ghana", "L'Indonésie", "Le Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Islande ?",
+    "reponses": ["Reykjavik", "Akureyri", "Kópavogur", "Hafnarfjörður"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac Titicaca ?",
+    "reponses": ["Pérou", "Bolivie", "Équateur", "Colombie"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Ukraine ?",
+    "reponses": ["Kiev", "Lviv", "Odessa", "Kharkiv"]
+  },
+  {
+    "question": "Quel pays a la plus grande réserve d'or ?",
+    "reponses": ["Les États-Unis", "La Chine", "La Russie", "L'Allemagne"]
+  },
+  {
+    "question": "Quelle est la capitale de la République Tchèque ?",
+    "reponses": ["Prague", "Brno", "Ostrava", "Plzeň"]
+  },
+  {
+    "question": "Dans quel pays se trouve le temple d'Angkor Vat ?",
+    "reponses": ["Cambodge", "Thaïlande", "Vietnam", "Laos"]
+  },
+  {
+    "question": "Quelle est la capitale de la Grèce ?",
+    "reponses": ["Athènes", "Thessalonique", "Patras", "Héraklion"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de riz ?",
+    "reponses": ["La Chine", "L'Inde", "L'Indonésie", "Le Bangladesh"]
+  },
+  {
+    "question": "Quelle est la capitale de la Roumanie ?",
+    "reponses": ["Bucarest", "Cluj-Napoca", "Timișoara", "Iași"]
+  },
+  {
+    "question": "Dans quel pays se trouve le Mont Fuji ?",
+    "reponses": ["Japon", "Chine", "Corée du Sud", "Taïwan"]
+  },
+  {
+    "question": "Quelle est la capitale de la Bulgarie ?",
+    "reponses": ["Sofia", "Plovdiv", "Varna", "Bourgas"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de thé ?",
+    "reponses": ["La Chine", "L'Inde", "Le Kenya", "Le Sri Lanka"]
+  },
+  {
+    "question": "Quelle est la capitale de la Croatie ?",
+    "reponses": ["Zagreb", "Split", "Rijeka", "Osijek"]
+  },
+  {
+    "question": "Dans quel pays se trouve le canal de Suez ?",
+    "reponses": ["Égypte", "Israël", "Jordanie", "Arabie Saoudite"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Équateur ?",
+    "reponses": ["Quito", "Guayaquil", "Cuenca", "Manta"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de coton ?",
+    "reponses": ["La Chine", "L'Inde", "Les États-Unis", "Le Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale du Pérou ?",
+    "reponses": ["Lima", "Cuzco", "Arequipa", "Trujillo"]
+  },
+  {
+    "question": "Dans quel pays se trouve la Silicon Valley ?",
+    "reponses": ["États-Unis", "Canada", "Royaume-Uni", "Allemagne"]
+  },
+  {
+    "question": "Quelle est la capitale du Chili ?",
+    "reponses": ["Santiago", "Valparaíso", "Concepción", "Viña del Mar"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de bananes ?",
+    "reponses": ["L'Inde", "La Chine", "Les Philippines", "L'Équateur"]
+  },
+  {
+    "question": "Quelle est la capitale de la Corée du Sud ?",
+    "reponses": ["Séoul", "Busan", "Incheon", "Daegu"]
+  },
+  {
+    "question": "Dans quel pays se trouve les chutes Iguazú ?",
+    "reponses": ["Argentine", "Brésil", "Paraguay", "Uruguay"]
+  },
+  {
+    "question": "Quelle est la capitale de la Slovaquie ?",
+    "reponses": ["Bratislava", "Košice", "Prešov", "Žilina"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de maïs ?",
+    "reponses": ["Les États-Unis", "La Chine", "Le Brésil", "Le Mexique"]
+  },
+  {
+    "question": "Quelle est la capitale de la Slovénie ?",
+    "reponses": ["Ljubljana", "Maribor", "Celje", "Kranj"]
+  },
+  {
+    "question": "Dans quel pays se trouve le Mont Blanc ?",
+    "reponses": ["France", "Italie", "Suisse", "Autriche"]
+  },
+  {
+    "question": "Quelle est la capitale de la Lituanie ?",
+    "reponses": ["Vilnius", "Kaunas", "Klaipėda", "Šiauliai"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur d'huile d'olive ?",
+    "reponses": ["L'Espagne", "L'Italie", "La Grèce", "La Tunisie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Lettonie ?",
+    "reponses": ["Riga", "Daugavpils", "Liepāja", "Jelgava"]
+  },
+  {
+    "question": "Dans quel pays se trouve le détroit de Béring ?",
+    "reponses": ["États-Unis", "Russie", "Canada", "Japon"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Estonie ?",
+    "reponses": ["Tallinn", "Tartu", "Narva", "Pärnu"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de sucre ?",
+    "reponses": ["Le Brésil", "L'Inde", "La Chine", "La Thaïlande"]
+  },
+  {
+    "question": "Quelle est la capitale de la Tunisie ?",
+    "reponses": ["Tunis", "Sfax", "Sousse", "Kairouan"]
+  },
+  {
+    "question": "Dans quel pays se trouve le fleuve Amazone ?",
+    "reponses": ["Brésil", "Pérou", "Colombie", "Venezuela"]
+  },
+  {
+    "question": "Quelle est la capitale de la Côte d'Ivoire ?",
+    "reponses": ["Yamoussoukro", "Abidjan", "Bouaké", "Daloa"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de cacao ?",
+    "reponses": ["La Côte d'Ivoire", "Le Ghana", "L'Indonésie", "Le Cameroun"]
+  },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "reponses": ["Dakar", "Thiès", "Kaolack", "Saint-Louis"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de Yellowstone ?",
+    "reponses": ["États-Unis", "Canada", "Mexique", "Australie"]
+  },
+  {
+    "question": "Quelle est la capitale du Ghana ?",
+    "reponses": ["Accra", "Kumasi", "Takoradi", "Tamale"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur d'arachides ?",
+    "reponses": ["La Chine", "L'Inde", "Les États-Unis", "Le Nigéria"]
+  },
+  {
+    "question": "Quelle est la capitale du Nigéria ?",
+    "reponses": ["Abuja", "Lagos", "Kano", "Ibadan"]
+  },
+  {
+    "question": "Dans quel pays se trouve le désert de Gobi ?",
+    "reponses": ["Mongolie", "Chine", "Kazakhstan", "Russie"]
+  },
+  {
+    "question": "Quelle est la capitale du Cameroun ?",
+    "reponses": ["Yaoundé", "Douala", "Garoua", "Bamenda"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur d'igname ?",
+    "reponses": ["Le Nigéria", "Le Ghana", "La Côte d'Ivoire", "Le Bénin"]
+  },
+  {
+    "question": "Quelle est la capitale du Mali ?",
+    "reponses": ["Bamako", "Ségou", "Mopti", "Gao"]
+  },
+  {
+    "question": "Dans quel pays se trouve le fleuve Congo ?",
+    "reponses": ["RDC", "Congo", "Angola", "Gabon"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Angola ?",
+    "reponses": ["Luanda", "Lubango", "Benguela", "Huambo"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de sisal ?",
+    "reponses": ["La Tanzanie", "Le Brésil", "Le Kenya", "L'Inde"]
+  },
+  {
+    "question": "Quelle est la capitale du Mozambique ?",
+    "reponses": ["Maputo", "Matola", "Beira", "Nampula"]
+  },
+  {
+    "question": "Dans quel pays se trouve la rivière des Perles ?",
+    "reponses": ["Chine", "Vietnam", "Cambodge", "Laos"]
+  },
+  {
+    "question": "Quelle est la capitale de la Zambie ?",
+    "reponses": ["Lusaka", "Kitwe", "Ndola", "Kabwe"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de manioc ?",
+    "reponses": ["Le Nigéria", "Le Brésil", "La Thaïlande", "L'Indonésie"]
+  },
+  {
+    "question": "Quelle est la capitale du Zimbabwe ?",
+    "reponses": ["Harare", "Bulawayo", "Mutare", "Gweru"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac Victoria ?",
+    "reponses": ["Ouganda", "Kenya", "Tanzanie", "Rwanda"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Ouganda ?",
+    "reponses": ["Kampala", "Jinja", "Entebbe", "Gulu"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de tabac ?",
+    "reponses": ["La Chine", "Le Brésil", "L'Inde", "Les États-Unis"]
+  },
+  {
+    "question": "Quelle est la capitale de la Tanzanie ?",
+    "reponses": ["Dodoma", "Dar es Salam", "Arusha", "Mwanza"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand cratère de météorite ?",
+    "reponses": ["États-Unis", "Russie", "Mexique", "Canada"]
+  },
+  {
+    "question": "Quelle est la capitale du Soudan ?",
+    "reponses": ["Khartoum", "Omdurman", "Port Soudan", "Kassala"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de soja ?",
+    "reponses": ["Les États-Unis", "Le Brésil", "L'Argentine", "La Chine"]
+  },
+  {
+    "question": "Quelle est la capitale du Bénin ?",
+    "reponses": ["Porto-Novo", "Cotonou", "Parakou", "Djougou"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac Tanganyika ?",
+    "reponses": ["Tanzanie", "Congo", "Burundi", "Zambie"]
+  },
+  {
+    "question": "Quelle est la capitale du Tchad ?",
+    "reponses": ["N'Djaména", "Moundou", "Sarh", "Abeché"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de canne à sucre ?",
+    "reponses": ["Le Brésil", "L'Inde", "La Chine", "La Thaïlande"]
+  },
+  {
+    "question": "Quelle est la capitale de la Somalie ?",
+    "reponses": ["Mogadiscio", "Hargeisa", "Kismayo", "Baidoa"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de la Serengeti ?",
+    "reponses": ["Tanzanie", "Kenya", "Ouganda", "Rwanda"]
+  },
+  {
+    "question": "Quelle est la capitale du Niger ?",
+    "reponses": ["Niamey", "Zinder", "Maradi", "Agadez"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de lait ?",
+    "reponses": ["Les États-Unis", "L'Inde", "La Chine", "Le Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale du Burkina Faso ?",
+    "reponses": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de Kruger ?",
+    "reponses": ["Afrique du Sud", "Zimbabwe", "Mozambique", "Namibie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée ?",
+    "reponses": ["Conakry", "Kankan", "Labé", "Nzérékoré"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de viande ?",
+    "reponses": ["La Chine", "Les États-Unis", "Le Brésil", "L'Inde"]
+  },
+  {
+    "question": "Quelle est la capitale de la Sierra Leone ?",
+    "reponses": ["Freetown", "Bo", "Kenema", "Makeni"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand sanctuaire d'oiseaux ?",
+    "reponses": ["États-Unis", "Canada", "Australie", "Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale du Libéria ?",
+    "reponses": ["Monrovia", "Gbarnga", "Buchanan", "Harper"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de piments ?",
+    "reponses": ["La Chine", "L'Inde", "Le Mexique", "La Turquie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Mauritanie ?",
+    "reponses": ["Nouakchott", "Nouadhibou", "Kiffa", "Aleg"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand aquarium du monde ?",
+    "reponses": ["Singapour", "États-Unis", "Japon", "Chine"]
+  },
+  {
+    "question": "Quelle est la capitale du Botswana ?",
+    "reponses": ["Gaborone", "Francistown", "Mogoditshane", "Maun"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de bananes plantain ?",
+    "reponses": ["Le Ghana", "Le Nigéria", "La Colombie", "L'Équateur"]
+  },
+  {
+    "question": "Quelle est la capitale du Malawi ?",
+    "reponses": ["Lilongwe", "Blantyre", "Mzuzu", "Zomba"]
+  },
+  {
+    "question": "Dans quel pays se trouve la montagne de la Table ?",
+    "reponses": ["Afrique du Sud", "Namibie", "Angola", "Zimbabwe"]
+  },
+  {
+    "question": "Quelle est la capitale de la Namibie ?",
+    "reponses": ["Windhoek", "Swakopmund", "Walvis Bay", "Oshakati"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de mangues ?",
+    "reponses": ["L'Inde", "La Chine", "La Thaïlande", "Le Mexique"]
+  },
+  {
+    "question": "Quelle est la capitale de la Libye ?",
+    "reponses": ["Tripoli", "Benghazi", "Misrata", "Al Bayda"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national du Grand Canyon ?",
+    "reponses": ["États-Unis", "Canada", "Mexique", "Australie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Gambie ?",
+    "reponses": ["Banjul", "Brikama", "Serekunda", "Janjanbureh"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de noix de cajou ?",
+    "reponses": ["Le Vietnam", "L'Inde", "Le Brésil", "Le Nigéria"]
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée-Bissau ?",
+    "reponses": ["Bissau", "Gabú", "Bafatá", "Cacheu"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand glacier du monde ?",
+    "reponses": ["Antarctique", "Groenland", "Russie", "Canada"]
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée Équatoriale ?",
+    "reponses": ["Malabo", "Bata", "Ebebiyín", "Aconibe"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de noix de coco ?",
+    "reponses": ["L'Indonésie", "Les Philippines", "L'Inde", "Le Brésil"]
+  },
+  {
+    "question": "Quelle est la capitale du Gabon ?",
+    "reponses": ["Libreville", "Port-Gentil", "Franceville", "Oyem"]
+  },
+  {
+    "question": "Dans quel pays se trouve le désert de Kalahari ?",
+    "reponses": ["Botswana", "Namibie", "Afrique du Sud", "Angola"]
+  },
+  {
+    "question": "Quelle est la capitale du Congo ?",
+    "reponses": ["Brazzaville", "Pointe-Noire", "Dolisie", "Nkayi"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de pommes de terre ?",
+    "reponses": ["La Chine", "L'Inde", "Les États-Unis", "La Russie"]
+  },
+  {
+    "question": "Quelle est la capitale de la République Centrafricaine ?",
+    "reponses": ["Bangui", "Bimbo", "Berbérati", "Carnot"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand lac salé ?",
+    "reponses": ["Bolivie", "États-Unis", "Australie", "Chine"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Érythrée ?",
+    "reponses": ["Asmara", "Mekele", "Massawa", "Keren"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de chou ?",
+    "reponses": ["La Chine", "L'Inde", "Les États-Unis", "La Russie"]
+  },
+  {
+    "question": "Quelle est la capitale du Burundi ?",
+    "reponses": ["Gitega", "Bujumbura", "Muyinga", "Ruyigi"]
+  },
+  {
+    "question": "Dans quel pays se trouve la région de Toscane ?",
+    "reponses": ["Italie", "France", "Espagne", "Portugal"]
+  },
+  {
+    "question": "Quelle est la capitale de la Sierra Leone ?",
+    "reponses": ["Freetown", "Bo", "Kenema", "Makeni"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de cidre ?",
+    "reponses": ["La France", "L'Espagne", "Le Royaume-Uni", "Les États-Unis"]
+  },
+  {
+    "question": "Quelle est la capitale du Togo ?",
+    "reponses": ["Lomé", "Sokodé", "Kara", "Atakpamé"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de Banff ?",
+    "reponses": ["Canada", "États-Unis", "Australie", "Norvège"]
+  },
+  {
+    "question": "Quelle est la capitale du Lesotho ?",
+    "reponses": ["Maseru", "Teyateyaneng", "Mafeteng", "Leribe"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de carottes ?",
+    "reponses": ["La Chine", "Les États-Unis", "La Russie", "L'Inde"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Eswatini ?",
+    "reponses": ["Mbabane", "Manzini", "Lobamba", "Nhlangano"]
+  },
+  {
+    "question": "Dans quel pays se trouve le fjord de Geiranger ?",
+    "reponses": ["Norvège", "Suède", "Islande", "Finlande"]
+  },
+  {
+    "question": "Quelle est la capitale du Cap-Vert ?",
+    "reponses": ["Praia", "Mindelo", "Assomada", "Pedra Badejo"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de papaye ?",
+    "reponses": ["L'Inde", "Le Brésil", "Le Mexique", "Le Nigéria"]
+  },
+  {
+    "question": "Quelle est la capitale des Seychelles ?",
+    "reponses": ["Victoria", "Anse Royale", "Beau Vallon", "Bel Air"]
+  },
+  {
+    "question": "Dans quel pays se trouve la région de Patagonie ?",
+    "reponses": ["Argentine", "Chili", "Pérou", "Bolivie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Papouasie-Nouvelle-Guinée ?",
+    "reponses": ["Port Moresby", "Lae", "Mount Hagen", "Madang"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de tournesol ?",
+    "reponses": ["L'Ukraine", "La Russie", "La Chine", "L'Argentine"]
+  },
+  {
+    "question": "Quelle est la capitale de la Moldavie ?",
+    "reponses": ["Chișinău", "Tiraspol", "Bălți", "Bender"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de Jasper ?",
+    "reponses": ["Canada", "États-Unis", "Australie", "Nouvelle-Zélande"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Azerbaïdjan ?",
+    "reponses": ["Bakou", "Gandja", "Sumqayit", "Mingəçevir"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de pistaches ?",
+    "reponses": ["Les États-Unis", "La Turquie", "L'Iran", "La Chine"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Ouzbékistan ?",
+    "reponses": ["Tachkent", "Samarcande", "Boukhara", "Khiva"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac de Côme ?",
+    "reponses": ["Italie", "Suisse", "Autriche", "France"]
+  },
+  {
+    "question": "Quelle est la capitale du Kazakhstan ?",
+    "reponses": ["Astana", "Almaty", "Chimkent", "Karaganda"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de noix de pécan ?",
+    "reponses": ["Les États-Unis", "Le Mexique", "Le Brésil", "L'Argentine"]
+  },
+  {
+    "question": "Quelle est la capitale de la Géorgie ?",
+    "reponses": ["Tbilissi", "Koutaïssi", "Batumi", "Roustavi"]
+  },
+  {
+    "question": "Dans quel pays se trouve la mer Caspienne ?",
+    "reponses": ["Azerbaïdjan", "Iran", "Russie", "Kazakhstan"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Arménie ?",
+    "reponses": ["Erevan", "Gyumri", "Vanadzor", "Hrazdan"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de betterave sucrière ?",
+    "reponses": ["La Russie", "La France", "Les États-Unis", "L'Allemagne"]
+  },
+  {
+    "question": "Quelle est la capitale du Kirghizistan ?",
+    "reponses": ["Bichkek", "Och", "Jalal-Abad", "Karakol"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac de Garde ?",
+    "reponses": ["Italie", "Suisse", "Autriche", "Allemagne"]
+  },
+  {
+    "question": "Quelle est la capitale du Turkménistan ?",
+    "reponses": ["Achgabat", "Mary", "Dashoguz", "Türkmenabat"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de quinoas ?",
+    "reponses": ["Le Pérou", "La Bolivie", "L'Équateur", "La Colombie"]
+  },
+  {
+    "question": "Quelle est la capitale du Tadjikistan ?",
+    "reponses": ["Douchanbé", "Khujand", "Kulob", "Bokhtar"]
+  },
+  {
+    "question": "Dans quel pays se trouve le mont Saint-Michel ?",
+    "reponses": ["France", "Angleterre", "Italie", "Espagne"]
+  },
+  {
+    "question": "Quelle est la capitale de la Mongolie ?",
+    "reponses": ["Oulan-Bator", "Erdenet", "Darkhan", "Khovd"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de sarrasin ?",
+    "reponses": ["La Russie", "La Chine", "Les États-Unis", "Le Canada"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Afghanistan ?",
+    "reponses": ["Kaboul", "Kandahar", "Herat", "Mazar-e-Charif"]
+  },
+  {
+    "question": "Dans quel pays se trouve les chutes Victoria ?",
+    "reponses": ["Zambie", "Zimbabwe", "Botswana", "Namibie"]
+  },
+  {
+    "question": "Quelle est la capitale du Yémen ?",
+    "reponses": ["Sanaa", "Aden", "Taëz", "Al Hudaydah"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de sésame ?",
+    "reponses": ["L'Inde", "Le Nigéria", "La Chine", "Le Soudan"]
+  },
+  {
+    "question": "Quelle est la capitale de la Syrie ?",
+    "reponses": ["Damas", "Alep", "Homs", "Lattaquié"]
+  },
+  {
+    "question": "Dans quel pays se trouve le désert de la vallée de la Mort ?",
+    "reponses": ["États-Unis", "Mexique", "Australie", "Chine"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Irak ?",
+    "reponses": ["Bagdad", "Bassora", "Mossoul", "Erbil"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de figues ?",
+    "reponses": ["La Turquie", "L'Égypte", "Le Maroc", "L'Algérie"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Iran ?",
+    "reponses": ["Téhéran", "Ispahan", "Chiraz", "Tabriz"]
+  },
+  {
+    "question": "Dans quel pays se trouve le parc national de Yosemite ?",
+    "reponses": ["États-Unis", "Canada", "Mexique", "Australie"]
+  },
+  {
+    "question": "Quelle est la capitale de la Jordanie ?",
+    "reponses": ["Amman", "Zarqa", "Irbid", "Aqaba"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de dattes ?",
+    "reponses": ["L'Égypte", "L'Arabie Saoudite", "L'Iran", "Les Émirats Arabes Unis"]
+  },
+  {
+    "question": "Quelle est la capitale du Liban ?",
+    "reponses": ["Beyrouth", "Tripoli", "Saïda", "Tyr"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand jardin botanique du monde ?",
+    "reponses": ["Royaume-Uni", "États-Unis", "Australie", "Chine"]
+  },
+  {
+    "question": "Quelle est la capitale de la Palestine ?",
+    "reponses": ["Ramallah", "Gaza", "Hébron", "Naplouse"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de miel ?",
+    "reponses": ["La Chine", "La Turquie", "Les États-Unis", "L'Argentine"]
+  },
+  {
+    "question": "Quelle est la capitale du Koweït ?",
+    "reponses": ["Koweït City", "Al Ahmadi", "Mubarak Al-Kabeer", "Farwaniya"]
+  },
+  {
+    "question": "Dans quel pays se trouve le lac Léman ?",
+    "reponses": ["Suisse", "France", "Italie", "Allemagne"]
+  },
+  {
+    "question": "Quelle est la capitale du Qatar ?",
+    "reponses": ["Doha", "Al Rayyan", "Al Wakrah", "Al Khor"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de cumin ?",
+    "reponses": ["L'Inde", "La Chine", "Le Mexique", "La Syrie"]
+  },
+  {
+    "question": "Quelle est la capitale du Bahreïn ?",
+    "reponses": ["Manama", "Muharraq", "Riffa", "Hamad Town"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand zoo du monde ?",
+    "reponses": ["États-Unis", "Allemagne", "Chine", "Australie"]
+  },
+  {
+    "question": "Quelle est la capitale du Sultanat d'Oman ?",
+    "reponses": ["Mascate", "Salalah", "Sohar", "Nizwa"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de coriandre ?",
+    "reponses": ["L'Inde", "Le Maroc", "La Chine", "La Russie"]
+  },
+  {
+    "question": "Quelle est la capitale des Émirats Arabes Unis ?",
+    "reponses": ["Abu Dhabi", "Dubaï", "Charjah", "Ajman"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand musée d'art ?",
+    "reponses": ["Russie", "France", "États-Unis", "Espagne"]
+  },
+  {
+    "question": "Quelle est la capitale du Myanmar ?",
+    "reponses": ["Naypyidaw", "Yangon", "Mandalay", "Bagan"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de thé noir ?",
+    "reponses": ["L'Inde", "Le Kenya", "Le Sri Lanka", "La Chine"]
+  },
+  {
+    "question": "Quelle est la capitale du Cambodge ?",
+    "reponses": ["Phnom Penh", "Siem Reap", "Battambang", "Sihanoukville"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand gratte-ciel du monde ?",
+    "reponses": ["Émirats Arabes Unis", "Arabie Saoudite", "Chine", "Malaisie"]
+  },
+  {
+    "question": "Quelle est la capitale du Sri Lanka ?",
+    "reponses": ["Sri Jayawardenapura Kotte", "Colombo", "Kandy", "Galle"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de café robusta ?",
+    "reponses": ["Le Vietnam", "Le Brésil", "L'Indonésie", "La Colombie"]
+  },
+  {
+    "question": "Quelle est la capitale du Népal ?",
+    "reponses": ["Katmandou", "Pokhara", "Lalitpur", "Bhaktapur"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand port du monde ?",
+    "reponses": ["Chine", "Singapour", "Pays-Bas", "Émirats Arabes Unis"]
+  },
+  {
+    "question": "Quelle est la capitale du Bhoutan ?",
+    "reponses": ["Thimphou", "Paro", "Phuntsholing", "Punakha"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de cardamome ?",
+    "reponses": ["L'Inde", "Le Guatemala", "Le Sri Lanka", "La Tanzanie"]
+  },
+  {
+    "question": "Quelle est la capitale du Bangladesh ?",
+    "reponses": ["Dacca", "Chittagong", "Khulna", "Rajshahi"]
+  },
+  {
+    "question": "Dans quel pays se trouve le plus grand marché aux poissons ?",
+    "reponses": ["Japon", "Chine", "Corée du Sud", "Norvège"]
+  },
+  {
+    "question": "Quelle est la capitale de la Corée du Nord ?",
+    "reponses": ["Pyongyang", "Chongjin", "Nampo", "Sinuiju"]
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de bananes à cuire ?",
+    "reponses": ["La Colombie", "L'Équateur", "Le Brésil", "Les Philippines"]
+  },
+  {
+    "question": "Quelle est la capitale de la Mongolie ?",
+    "reponses": ["Oulan-Bator", "Erdenet", "Darkhan", "Khovd"]
+  }
+]
