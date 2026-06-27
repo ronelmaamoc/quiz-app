@@ -15,7 +15,7 @@ Une application web moderne de quiz développée avec React, Vite et Tailwind CS
 ## ✨ Démo
 
 <!-- Ajoutez un lien vers votre démo ici si hébergée -->
-🔗 **Live Demo**: https://quiz-app-ronelmaamoc.vercel.app
+🔗 **Live Demo**: https://quizz-games.netlify.app/
 
 ## 📋 Table des matières
 
