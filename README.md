@@ -1,3 +1,4 @@
+```markdown
 # 🎯 Quiz App - Application de Quiz Interactive
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,7 +15,7 @@ Une application web moderne de quiz développée avec React, Vite et Tailwind CS
 ## ✨ Démo
 
 <!-- Ajoutez un lien vers votre démo ici si hébergée -->
-🔗 **Live Demo**: https://quizz-games.netlify.app/
+🔗 **Live Demo**: https://quiz-app-ronelmaamoc.vercel.app
 
 ## 📋 Table des matières
 
@@ -185,6 +186,20 @@ Les fichiers de questions sont au format JSON avec la structure suivante :
 2. Respectez le format mentionné ci-dessus
 3. Le fichier apparaîtra automatiquement dans la sélection des quiz
 4. Le nom du fichier (sans l'extension) servira de titre pour le quiz
+
+## 📸 Captures d'écran
+
+### Écran d'accueil
+![Home Screen](public/home-screenshot.png)
+
+### Écran de quiz
+![Quiz Screen](public/quiz-screenshot.png)
+
+### Écran des résultats
+![Result Screen](public/result-screenshot.png)
+
+### Classement
+![Leaderboard](public/leaderboard-screenshot.png)
 
 ## 🔧 Configuration avancée
 
